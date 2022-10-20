@@ -1,19 +1,19 @@
 # How I Transition into Data Analytics (Self-Study Route)
 
-Hello I'm Katie! 🙋🏻‍♀️
+Hello, I'm Katie! 🙋🏻‍♀️
 
 This is my personal experience based on my study style.
 
 **📕 My Study Style**
-- I prefer watching videos rather than reading textbook because I'm a visual person and need to see how the code works.
-- I'm more disciplined when I take paid courses, because I've paid for them and so, I have to complete them (and not waste money 😅). 
+- I prefer watching videos rather than reading textbooks because I'm a visual person and need to see how the code works on my screen.
+- I'm more disciplined when I take paid courses because I've paid for them, so I have to complete them (and not waste money 😅). 
 - I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
 **🧐 What You Need to Know?**
-- It can get tough because there is no syllabus, lecturers, or classmates to guide or help you out. 
+- Self-studying is challenging because there is no syllabus, lecturers, or classmates to guide or help you out. 
 - Must-have skill: Have to be **very, very, very resourceful** in looking for solutions. 
-- It can take months and years, so if you can't afford to study leisurely, then you're better off taking Masters or bootcamp.
-- It's do-able with consistency, hard work and determination. 🤓
+- It can take months and years, so if you're pressed for time and can't afford to study leisurely, then you're better off taking Master or Bootcamp.
+- It's doable with consistency, hard work and determination. 🤓
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
@@ -30,13 +30,13 @@ So, you're interested in Data Analytics, but unsure where to start, how to start
 
 I'd recommend you to take a **general course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
 
-Both courses are available on Coursera at USD 20-40/month (depending when you enrol). Usually, people take an average of 2-4 months to complete them.
+Both courses are available on Coursera at USD 20-40/month (depending on when you enrol). Usually, people take an average of 2-4 months to complete them.
 
 **💡 My Experience**
 
 I took Google's course because it was newer as it was released in March 2021. I'm not sure about IBM's course.
 
-Only difference is Google teaches R and IBM teaches Python. However, since both courses are beginner-level and don't go in-depth, I suggest taking the Google course. The lessons taught on R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
+The only difference is Google teaches R and IBM teaches Python. However, since both courses are beginner-level and don't go in-depth, I suggest taking the Google course. The lessons taught in R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
 
 ## What are the Technical Skills to Learn?
 
@@ -46,11 +46,9 @@ Study in this order (**very important!**):
 3. Python 
 
 **💡 My Experience**
-- SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or related) roles. 
-- Having an understanding in SQL concepts helps in learning Tableau (in Calculated Fields), hence why I suggested to study SQL first, followed by Tableau.
-- Most of the time, Python is a good-to-have skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, then you would have to be proficient in Python.
-
-
+- SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or related) role. 
+- Understanding SQL concepts helps in learning Tableau (i.e. creating Calculated Fields), hence why I suggested studying SQL first, followed by Tableau.
+- Most of the time, Python is a good-to-have skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, you must be proficient in Python.
 
 ## 📕 Where to Learn SQL
 
@@ -91,14 +89,12 @@ Study in this order (**very important!**):
 2. StrataScratch 🌟 [Free] - https://platform.stratascratch.com/coding?code_type=1
 3. Ankit Bansal Top 10 SQL Interview Questions - https://www.youtube.com/watch?v=Iv9qBz-cyVA, https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb
 
-### 💻 Download SQL Softwares
+### 💻 Download SQL Software
 
-These are the most commonly used SQL softwares. In tech-speak, we call them SQL flavours. 
+These are the most commonly used SQL software. In tech-speak, we call them SQL flavours. 
 - MySQL (Windows and Mac) [Free] - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/)
 - PostgreSQL (Windows and Mac) [Free] - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 - Microsoft SQL Server (only on Windows) [Free]
-
-
 
 ## 📊 Where to Learn Tableau
 
@@ -108,11 +104,9 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 1. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
 
 ### 📝 Projects
-1. Alex Freberg's Covid-19 Project [Free] 🌟 - https://www.youtube.com/watch?v=qfyynHBFOsM
-2. Alex Freberg's Tableau Visualisation [Free] - https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=14s
-3. Maven Analytics Monthly Challenge [Free] 🌟 - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
-
-
+1. Alex Freberg's Covid-19 Project 🌟 - https://www.youtube.com/watch?v=qfyynHBFOsM
+2. Alex Freberg's Visualisation Project - https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=14s
+3. Maven Analytics Monthly Challenges [Free] 🌟 - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
 
 ## 📈 Where to Learn Power BI
 
@@ -120,16 +114,14 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 1. Maven Analytics Microsoft Power BI [Paid][Beginner] - https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
 
 ### 📚 Tutorials
-1. Alex Freberg's Power BI Tutorials [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
+1. Alex Freberg's Power BI Tutorials [Free][Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
 
 ### 📝 Projects
 1. Guided Project [Beginner] - https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=11
 
-
-
 ## 🐍 Where to Learn Python
 
-Coming soon. 
+In progress.
 
 ### 📺 YouTube
 1. Programming with Mosh [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
