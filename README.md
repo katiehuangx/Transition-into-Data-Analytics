@@ -38,11 +38,9 @@ I took Google's course because it was newer as it was released in March 2021. I'
 
 Only difference is Google teaches R and IBM teaches Python. However, since both courses are beginner-level and don't go in-depth, I suggest taking the Google course. The lessons taught on R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
 
-
-
 ## What are the Technical Skills to Learn?
 
-Study in this order:
+Study in this order (**very important!**):
 1. SQL
 2. Tableau (or, Power BI)
 3. Python 
