@@ -34,6 +34,8 @@ I took Google's course because it was newer as it was released in March 2021. I'
 
 Only difference is Google teaches R and IBM teaches Python. However, since both courses are beginner-level and don't go in-depth, I suggest taking the Google course. The lessons taught on R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
 
+
+
 ## What are the Technical Skills to Learn?
 
 Study in this order:
@@ -45,6 +47,8 @@ Study in this order:
 - SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or related) roles. 
 - Having an understanding in SQL concepts helps in learning Tableau (in Calculated Fields), hence why I suggested to study SQL first, followed by Tableau.
 - Most of the time, Python is a good-to-have skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, then you would have to be proficient in Python.
+
+
 
 ## 📕 Where to Learn SQL
 
@@ -92,6 +96,8 @@ These are the most commonly used SQL softwares. In tech-speak, we call them SQL 
 - PostgreSQL (Windows and Mac) [Free] - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 - Microsoft SQL Server (only on Windows) [Free]
 
+
+
 ## 📊 Where to Learn Tableau
 
 I did not take any course on Tableau as it's a drag-and-drop software, so I learn on-the-job by watching YouTube and reading articles. You can easily learn by doing projects.
@@ -104,6 +110,8 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 2. Alex Freberg's Tableau Visualisation [Free] - https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=14s
 3. Maven Analytics Monthly Challenge [Free] 🌟 - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
 
+
+
 ## 📈 Where to Learn Power BI
 
 ### 📚 Courses
@@ -114,6 +122,8 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 
 ### 📝 Projects
 1. Guided Project [Beginner] - https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=11
+
+
 
 ## 🐍 Where to Learn Python
 
