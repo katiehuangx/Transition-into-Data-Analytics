@@ -12,7 +12,7 @@ This is my personal experience based on my study style.
 **🧐 What You Need to Know?**
 - Self-studying is challenging because there is no syllabus, lecturers, or classmates to guide or help you out. 
 - Must-have skill: Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
-- It can take months and years, so if you're pressed for time and can't afford to study leisurely, then you're better off taking Master or Bootcamp.
+- It can take months and years, so if you're pressed for time, then you're better off taking Master or Bootcamp.
 - It's **doable** with consistency, hard work and determination. 🤓
 
 ## 📚 Table of Contents
