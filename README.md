@@ -18,6 +18,7 @@ This is my personal experience based on my study style.
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#what-are-the-technical-skills-to-learn)
+  - [Where to Learn SQL?](#where-to-learn-sql)
 - [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
 
 ## How and Where to Start?
