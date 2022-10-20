@@ -30,18 +30,27 @@ So, you're interested in Data Analytics, but you're not sure where to start, how
 First, I would recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
 
 Both courses provides:
-- An overview of what data analytics is and the tools which you'll need to learn
+- An **overview** of what data analytics is
+- An introduction of the skills/tools which you'll need to learn
 - Flexible, study-at-your-own-pace courses
 - Relatively cheap. You can apply for financial aid and study for free too.
 - Very interactive with videos and hands-on practices. I love it because it makes studying fun!
 
-Both courses are available on Coursera at USD 20-40/month depending on when you enrol. I paid USD 39/month (for Google's) last year and a friend recently paid for only USD20+/month. Usually, people take an average of 2-4 months to complete the course.
+Both courses are available on Coursera at USD 20-40/month depending on when you enrol. I paid USD 39/month (for Google's) last year and a friend recently paid for only USD20+/month. 
+
+Usually, people take an average of 2-4 months to complete the course. The faster you complete, the less you pay. 😇
 
 **💡 My Experience**
 
-I took Google's course because it was newer as it was released in March 2021. I'm not sure about IBM's course.
+I took Google's course because it was newer (released in March 2021) compared to IBM's course. 
 
 The only difference is **Google teaches R** and **IBM teaches Python**. However, since both courses are beginner-level and don't go in-depth, I suggest taking Google's course. The lessons taught in R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
+
+**‼️IMPORTANT‼️** 
+- The course says that you will learn everything you need to know to be job-ready. Unfortunately, that is not true.
+- You'll need to learn **A LOT MORE** to be good enough and pass technical interviews.
+
+That's why I'm sharing the resources below so that you can continue on with your studying journey after the completion of the Google/IBM course. 
 
 ## What are the Technical Skills to Learn?
 
