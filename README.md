@@ -1,6 +1,6 @@
 # How I Transition into Data Analytics (Self-Study Route)
 
-Hello I'm Katie!
+Hello I'm Katie! 🙋🏻‍♀️
 
 This is my personal experience based on my study style.
 
