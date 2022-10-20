@@ -20,7 +20,6 @@ This is my personal experience based on my study style.
 - [What are the Technical Skills to Learn?](#what-are-the-technical-skills-to-learn)
   - [Where to Learn SQL?](#-where-to-learn-sql)
   - [Where to Learn Tableau?](#-where-to-learn-tableau)
-  - [Where to Learn Power BI?](#-where-to-learn-power-bi)
   - [Where to Learn Python?](#-where-to-learn-python)
 - [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
 
@@ -107,17 +106,6 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 1. Alex Freberg's Covid-19 Project 🌟 - https://www.youtube.com/watch?v=qfyynHBFOsM
 2. Alex Freberg's Visualisation Project - https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=14s
 3. Maven Analytics Monthly Challenges [Free] 🌟 - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
-
-## 📈 Where to Learn Power BI
-
-### 📚 Courses
-1. Maven Analytics Microsoft Power BI [Paid][Beginner] - https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
-
-### 📚 Tutorials
-1. Alex Freberg's Power BI Tutorials [Free][Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
-
-### 📝 Projects
-1. Guided Project [Beginner] - https://www.youtube.com/watch?v=pixlHHe_lNQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=11
 
 ## 🐍 Where to Learn Python
 
