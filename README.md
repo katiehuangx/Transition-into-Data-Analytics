@@ -5,13 +5,13 @@ Hello, I'm Katie! 🙋🏻‍♀️
 This is my personal experience based on my study style.
 
 **📕 My Study Style**
-- I prefer watching videos rather than reading textbooks because I'm a visual person and need to see how the code works on my screen.
+- I prefer watching videos rather than reading textbooks because I'm a **visual person** and need to see how the code works on my screen.
 - I'm more disciplined when I take paid courses because I've paid for them, so I have to complete them (and not waste money 😅). 
 - I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
 **🧐 What You Need to Know?**
 - Self-studying is challenging because there is no syllabus, lecturers, or classmates to guide or help you out. 
-- Must-have skill: Have to be **very, very, very resourceful** in looking for solutions. 
+- Must-have skill: Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
 - It can take months and years, so if you're pressed for time and can't afford to study leisurely, then you're better off taking Master or Bootcamp.
 - It's doable with consistency, hard work and determination. 🤓
 
@@ -129,6 +129,6 @@ In progress.
 
 I wrote a guide [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
 
--- 
+Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) as a reference. I haven't update it for some time (as I'm not actively looking for jobs), but you can refer to the structure of the portfolio. 
 
 If you like this repo, give me a 🌟! (Click on the Star button on the top right of this page)
