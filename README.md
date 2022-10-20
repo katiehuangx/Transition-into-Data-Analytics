@@ -13,7 +13,7 @@ This is my personal experience based on my study style.
 - Self-studying is challenging because there is no syllabus, lecturers, or classmates to guide or help you out. 
 - Must-have skill: Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
 - It can take months and years, so if you're pressed for time and can't afford to study leisurely, then you're better off taking Master or Bootcamp.
-- It's doable with consistency, hard work and determination. 🤓
+- It's **doable** with consistency, hard work and determination. 🤓
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
@@ -25,17 +25,23 @@ This is my personal experience based on my study style.
 
 ## How and Where to Start?
 
-So, you're interested in Data Analytics, but unsure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
+So, you're interested in Data Analytics, but you're not sure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
 
-I'd recommend you to take a **general course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
+First, I would recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
 
-Both courses are available on Coursera at USD 20-40/month (depending on when you enrol). Usually, people take an average of 2-4 months to complete them.
+Both courses provides:
+- An overview of what data analytics is and the tools which you'll need to learn
+- Flexible, study-at-your-own-pace courses
+- Relatively cheap. You can apply for financial aid and study for free too.
+- Very interactive with videos and hands-on practices. I love it because it makes studying fun!
+
+Both courses are available on Coursera at USD 20-40/month depending on when you enrol. I paid USD 39/month (for Google's) last year and a friend recently paid for only USD20+/month. Usually, people take an average of 2-4 months to complete the course.
 
 **💡 My Experience**
 
 I took Google's course because it was newer as it was released in March 2021. I'm not sure about IBM's course.
 
-The only difference is Google teaches R and IBM teaches Python. However, since both courses are beginner-level and don't go in-depth, I suggest taking the Google course. The lessons taught in R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
+The only difference is **Google teaches R** and **IBM teaches Python**. However, since both courses are beginner-level and don't go in-depth, I suggest taking Google's course. The lessons taught in R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
 
 ## What are the Technical Skills to Learn?
 
@@ -45,9 +51,9 @@ Study in this order (**very important!**):
 3. Python 
 
 **💡 My Experience**
-- SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or related) role. 
+- SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or -related) role. 
 - Understanding SQL concepts helps in learning Tableau (i.e. creating Calculated Fields), hence why I suggested studying SQL first, followed by Tableau.
-- Most of the time, Python is a good-to-have skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, you must be proficient in Python.
+- Most of the time, Python is a _good-to-have_ skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, you must be proficient in Python.
 
 ## 📕 Where to Learn SQL
 
@@ -84,20 +90,20 @@ Study in this order (**very important!**):
 3. 8-Week SQL Challenge 🌟 [Free] - https://8weeksqlchallenge.com. Check out my repo for solutions: https://github.com/katiehuangx/8-Week-SQL-Challenge
 
 ### ⏰ Practice For Technical Interviews
-1. DataLemur (I work here!) 🌟 [Free] - https://datalemur.com
+1. DataLemur 🐒 (I work here!) 🌟 [Free] - https://datalemur.com
 2. StrataScratch 🌟 [Free] - https://platform.stratascratch.com/coding?code_type=1
 3. Ankit Bansal Top 10 SQL Interview Questions - https://www.youtube.com/watch?v=Iv9qBz-cyVA, https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb
 
-### 💻 Download SQL Software
+### 💻 Which SQL Software to Use?
 
 These are the most commonly used SQL software. In tech-speak, we call them SQL flavours. 
 - MySQL (Windows and Mac) [Free] - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/)
 - PostgreSQL (Windows and Mac) [Free] - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
-- Microsoft SQL Server (only on Windows) [Free]
+- Microsoft SQL Server (only on Windows) [Free] - I'm not sure because I can't download them on my Mac.
 
 ## 📊 Where to Learn Tableau
 
-I did not take any course on Tableau as it's a drag-and-drop software, so I learn on-the-job by watching YouTube and reading articles. You can easily learn by doing projects.
+I did not take any course on Tableau as it's a **drag-and-drop software**, so I learn on-the-job by watching YouTube and reading articles. You can easily learn by doing projects.
 
 ### 📚 Tutorials
 1. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
@@ -105,20 +111,20 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 ### 📝 Projects
 1. Alex Freberg's Covid-19 Project 🌟 - https://www.youtube.com/watch?v=qfyynHBFOsM
 2. Alex Freberg's Visualisation Project - https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=14s
-3. Maven Analytics Monthly Challenges [Free] 🌟 - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
+3. Maven Analytics Monthly Challenges 🌟 [Free] - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
 
 ## 🐍 Where to Learn Python
 
-In progress.
+Compilation in progress!
 
 ### 📺 YouTube
-1. Programming with Mosh [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
+1. Programming with Mosh 🌟 [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
 
 ### 📚 Courses
-1. Udacity Intro to Data Analysis [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
+1. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
-3. Maven Analytics Python Foundations for Data Analysis [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
-4. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
+3. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
+4. Maven Analytics Data Analysis with Python: NumPy & Pandas 🌟 [Paid] - https://www.udemy.com/course/python-pandas/
 
 ### 📝 Projects
 1. Amazon Web Scrapping [Guided][Intermediate] - https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&t=510s
@@ -127,8 +133,8 @@ In progress.
 
 ## How to Create a Portfolio on GitHub
 
-I wrote a guide [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
+I wrote a guide which you can check it out [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
 
-Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) as a reference. I haven't update it for some time (as I'm not actively looking for jobs), but you can refer to the structure of the portfolio. 
+Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for your reference. I haven't update it for some time, but you can refer to the structure of the portfolio. 
 
-If you like this repo, give me a 🌟! (Click on the Star button on the top right of this page)
+If you like this repo, give me a 🌟! (click on the Star button on the top right of this page)
