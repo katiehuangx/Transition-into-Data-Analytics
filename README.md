@@ -19,6 +19,9 @@ This is my personal experience based on my study style.
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#what-are-the-technical-skills-to-learn)
   - [Where to Learn SQL?](#-where-to-learn-sql)
+  - [Where to Learn Tableau?](#-where-to-learn-tableau)
+  - [Where to Learn Power BI?](#-where-to-learn-power-bi)
+  - [Where to Learn Python?](#-where-to-learn-python)
 - [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
 
 ## How and Where to Start?
