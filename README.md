@@ -4,15 +4,15 @@ Hello, I'm Katie! 🙋🏻‍♀️
 
 Sharing this based on my personal experience and study style.
 
-**📕 My Study Style**
+**📕 My Study Experience/Style**
 - I prefer watching videos rather than reading textbooks because I'm a **visual person** and need to see how the code works on my screen.
 - I'm more disciplined when I take paid courses because I've paid for them, so I have to complete them (and not waste money 😅). 
 - I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
 **🧐 What You Need to Know?**
-- Self-studying is challenging because there is no syllabus, lecturers, or classmates to guide or help you out. 
+- Self-studying is **very** challenging because there is no syllabus, lecturers, or classmates to guide or help you out.
 - Must-have skill: Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
-- It can take months and years, so if you're pressed for time, then you're better off taking Master or Bootcamp.
+- It can take months and years, so if you're pressed for time, then I would not recommend the self-study route.
 - It's **doable** with consistency, hard work and determination. 🤓
 
 **Disclaimer**: I'm not an expert. Just a fellow transitioner who's looking to help anyone who's transitioning into this field too.
@@ -32,8 +32,8 @@ So, you're interested in Data Analytics, but you're not sure where to start, how
 First, I would recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
 
 Both courses provides:
-- An **overview** of what data analytics is
-- An introduction of the skills/tools which you'll need to learn
+- An **overview of data analytics**
+- An **introduction of the skills/tools** which you'll need to learn
 - Flexible, study-at-your-own-pace courses
 - Relatively cheap. You can apply for financial aid and study for free too.
 - Very interactive with videos and hands-on practices. I love it because it makes studying fun!
@@ -50,9 +50,9 @@ The only difference is **Google teaches R** and **IBM teaches Python**. However,
 
 **‼️IMPORTANT‼️** 
 - The course says that you will learn everything you need to know to be job-ready. Unfortunately, that is not true.
-- You'll need to learn **A LOT MORE** to be good enough and pass technical interviews.
+- What you learn from this course is NOT ENOUGH to get a job or pass a technical interview (usually in SQL). 
 
-That's why I'm sharing the resources below so that you can continue on with your studying journey after the completion of the Google/IBM course. 
+That's why I'm sharing these resources so that you can continue on with your studies after the completion of the Google/IBM course. 
 
 ## What are the Technical Skills to Learn?
 
