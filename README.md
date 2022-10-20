@@ -2,7 +2,7 @@
 
 Hello, I'm Katie! 🙋🏻‍♀️
 
-This is my personal experience based on my study style.
+Sharing this based on my personal experience and study style.
 
 **📕 My Study Style**
 - I prefer watching videos rather than reading textbooks because I'm a **visual person** and need to see how the code works on my screen.
@@ -14,6 +14,8 @@ This is my personal experience based on my study style.
 - Must-have skill: Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
 - It can take months and years, so if you're pressed for time, then you're better off taking Master or Bootcamp.
 - It's **doable** with consistency, hard work and determination. 🤓
+
+**Disclaimer**: I'm not an expert. Just a fellow transitioner who's looking to help anyone who's transitioning into this field too.
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
