@@ -1,18 +1,38 @@
-# How I Transition into Data Analytics
+# How I Transition into Data Analytics (Self-Study Route)
 
-This is a self-study route. Again, this is my experience and based on my study self, so it may not be applicable to everyone.
+Hello I'm Katie!
 
-My Study Style
-- I prefer watching videos with assignments so that I can follow through.
-- I'm more disciplined when I study from paid courses, because I've paid for them and so, I have to complete them (and not waste money!). Well, it's working so..
-- I'm not a textbook person. 
+This is my personal experience of transitioning into Data Analytics via self-study route based on my study style, so it may not suit everyone.
 
--- 
+**📕 My Study Style**
+- I prefer watching videos rather than reading textbook because I'm a visual person. 
+- I'm more disciplined when I take paid courses, because I've paid for them and so, I have to complete them (and not waste money!). 
+- I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
-Table of Content
+**🧐 What You Need to Know?**
+- It's not easy to study on your own because there is no syllabus, lecturers, or classmates to guide or help you out. 
+- Must-have skill: Have to be **very, very, very resourceful** in looking for solutions. Again, you have to rely on yourself. 
+- It can take months and years, so if you can't afford to study leisurely, then you're better off taking Masters or bootcamp.
+
+## 📚 Table of Content
+- [How and Where to Start?](#how-and-where-to-start)
 - What are the Technical Skills to Learn?
-- How to Create a Portfolio on GitHub
-- Who to Follow on Linkedin
+- How to Create a Portfolio on GitHub?
+
+## How and Where to Start?
+
+So, you're interested in Data Analytics, but unsure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
+
+I'd recommend you to take a general data analytics course, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
+
+Both courses are available on Coursera at USD 20-40 a month (depending on when you enrol). Usually people take an average of 2-4 months to complete them.
+
+**My Experience**
+I took Google's course because it was newer as it was released in March 2021. I'm not sure about IBM's course.
+
+The only difference is Google teaches R and IBM teaches Python. However, both courses are for beginner and don't go in-depth, so I suggest taking the Google course because it's newer and updated with the latest updates and technology. The lessons taught on R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
+
+# What are the Technical Skills to Learn?
 
 Skills you'll need
 
@@ -103,4 +123,10 @@ Coming soon.
 ### Projects
 
 
+# How to Create a Portfolio on GitHub
 
+I wrote a guide [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
+
+-- 
+
+If you like this repo, give me a 🌟! (
