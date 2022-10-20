@@ -2,11 +2,11 @@
 
 Hello I'm Katie!
 
-This is my personal experience of transitioning into Data Analytics via self-study route based on my study style, so it may not suit everyone.
+This is my personal experience based on my study style.
 
 **📕 My Study Style**
-- I prefer watching videos rather than reading textbook because I'm a visual person. 
-- I'm more disciplined when I take paid courses, because I've paid for them and so, I have to complete them (and not waste money!). 
+- I prefer watching videos rather than reading textbook because I'm a visual person and need to see how the code works.
+- I'm more disciplined when I take paid courses, because I've paid for them and so, I have to complete them (and not waste money 😅). 
 - I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
 **🧐 What You Need to Know?**
@@ -14,48 +14,36 @@ This is my personal experience of transitioning into Data Analytics via self-stu
 - Must-have skill: Have to be **very, very, very resourceful** in looking for solutions. Again, you have to rely on yourself. 
 - It can take months and years, so if you can't afford to study leisurely, then you're better off taking Masters or bootcamp.
 
-## 📚 Table of Content
+## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
-- What are the Technical Skills to Learn?
-- How to Create a Portfolio on GitHub?
+- [What are the Technical Skills to Learn?](#what-are-the-technical-skills-to-learn)
+- [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
 
 ## How and Where to Start?
 
 So, you're interested in Data Analytics, but unsure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
 
-I'd recommend you to take a general data analytics course, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
+I'd recommend you to take a **general course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
 
-Both courses are available on Coursera at USD 20-40 a month (depending on when you enrol). Usually people take an average of 2-4 months to complete them.
+Both courses are available on Coursera at USD 20-40/month (depending when you enrol). Usually, people take an average of 2-4 months to complete them.
 
-**My Experience**
+**💡 My Experience**
+
 I took Google's course because it was newer as it was released in March 2021. I'm not sure about IBM's course.
 
-The only difference is Google teaches R and IBM teaches Python. However, both courses are for beginner and don't go in-depth, so I suggest taking the Google course because it's newer and updated with the latest updates and technology. The lessons taught on R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
+Only difference is Google teaches R and IBM teaches Python. However, since both courses are beginner-level and don't go in-depth, I suggest taking the Google course. The lessons taught on R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
 
-# What are the Technical Skills to Learn?
-
-Skills you'll need
+## What are the Technical Skills to Learn?
 
 Study in this order:
 1. SQL
-2. Tableau (or Power BI)
+2. Tableau (or, Power BI)
 3. Python 
 
+**💡 My Experience**
 - SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or related) roles. 
-- You'll need some of SQL concept to be able to write Calculated Fields in Tableau, hence having SQL understanding helps in learning Tableau.
-- Python is usually a good-to-have skill, but if in some companies, Python is a compulsory skill and if you're moving towards the Data Scientist or Data Engineering route, then you'll have to be proficient in Python.
-
-## To Get Started
-
-If you're interested in Data Analytics, but unsure where to start, how to start, or just unsure if this is the right path for you.
-
-I would recommend you to take a general data analytics course, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
-
-Both courses are available on Coursera at USD 20-40 a month (depending when you enrol).
-
-I took Google's course because it was newer (released in March 2021). 
-
-The only difference is Google teaches R and IBM teaches Python. However, both courses are for beginner and don't go in-depth, so I suggest taking the Google course because it's newer and updated with the latest updates and technology. The lessons taught on R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
+- Having an understanding in SQL concepts helps in learning Tableau (in Calculated Fields), hence why I suggested to study SQL first, followed by Tableau.
+- Most of the time, Python is a good-to-have skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, then you would have to be proficient in Python.
 
 ## Where to learn SQL
 
@@ -102,13 +90,13 @@ These are the most commonly used SQL softwares. In tech-speak, we call them SQL 
 - PostgreSQL (Windows and Mac) - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 - Microsoft SQL Server (only on Windows)
 
-## How to learn Tableau
+## How to Learn Tableau
 
-TBH, I did not take any course on Tableau because it's a click-and-drop software, so I learn on-the-job by watching YouTube. You can easily learn it by taking guided projects and following the steps. 
+I did not take any course on Tableau because it's a click-and-drop software, so I learn on-the-job by watching YouTube. You can easily learn it by taking guided projects and following the steps. 
 
-Projects
+### 📝 Projects
 1. **Covid-19 Project** - https://www.youtube.com/watch?v=qfyynHBFOsM
-2. Maven Analytics Monthly Challenge - Follow them on Linkedin. 
+2. **Maven Analytics Monthly Challenge** - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
 
 ## How to learn Python
 
@@ -118,15 +106,13 @@ Coming soon.
 
 ### 📚 Courses
 1. Udacity Intro to Data Analysis [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
-2. 
 
-### Projects
+### 📝 Projects
 
-
-# How to Create a Portfolio on GitHub
+## How to Create a Portfolio on GitHub
 
 I wrote a guide [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
 
 -- 
 
-If you like this repo, give me a 🌟! (
+If you like this repo, give me a 🌟! (Click on the Star button on the top right of this page)
