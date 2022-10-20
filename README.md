@@ -10,9 +10,10 @@ This is my personal experience based on my study style.
 - I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
 **🧐 What You Need to Know?**
-- It's not easy to study on your own because there is no syllabus, lecturers, or classmates to guide or help you out. 
-- Must-have skill: Have to be **very, very, very resourceful** in looking for solutions. Again, you have to rely on yourself. 
+- It can get tough because there is no syllabus, lecturers, or classmates to guide or help you out. 
+- Must-have skill: Have to be **very, very, very resourceful** in looking for solutions. 
 - It can take months and years, so if you can't afford to study leisurely, then you're better off taking Masters or bootcamp.
+- It's do-able with consistency, hard work and determination. 🤓
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
