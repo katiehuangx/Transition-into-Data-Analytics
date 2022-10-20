@@ -83,6 +83,7 @@ Study in this order:
 ### ⏰ Practice For Technical Interviews
 1. DataLemur (I work here!) 🌟 [Free] - https://datalemur.com
 2. StrataScratch 🌟 [Free] - https://platform.stratascratch.com/coding?code_type=1
+3. Ankit Bansal Top 10 SQL Interview Questions - https://www.youtube.com/watch?v=Iv9qBz-cyVA, https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb
 
 ### 💻 Download SQL Softwares
 
@@ -105,6 +106,9 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 
 ## 📈 Where to Learn Power BI
 
+### 📚 Courses
+1. Maven Analytics Microsoft Power BI [Paid][Beginner] - https://www.udemy.com/course/microsoft-power-bi-up-running-with-power-bi-desktop/
+
 ### 📚 Tutorials
 1. Alex Freberg's Power BI Tutorials [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8HqnmK0gQhfmIdCbxwoAoys
 
@@ -116,13 +120,18 @@ I did not take any course on Tableau as it's a drag-and-drop software, so I lear
 Coming soon. 
 
 ### 📺 YouTube
+1. Programming with Mosh [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
 
 ### 📚 Courses
 1. Udacity Intro to Data Analysis [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
+2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
+3. Maven Analytics Python Foundations for Data Analysis [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
+4. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
 
 ### 📝 Projects
-1. Amazon Web Scrapping [Intermediate] - https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&t=510s
-2. Automation Crypto Website using API [Intermediate] - https://www.youtube.com/watch?v=KB2CtEDrglY&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=10
+1. Amazon Web Scrapping [Guided][Intermediate] - https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&t=510s
+2. Automation Crypto Website using API [Guided][Intermediate] - https://www.youtube.com/watch?v=KB2CtEDrglY&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=10
+3. freeCodeCamp Projects [Unguided][Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
 
 ## How to Create a Portfolio on GitHub
 
