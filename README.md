@@ -60,7 +60,7 @@ That's why I'm sharing these resources so that you can continue on with your stu
 Study in this order (**very important!**):
 1. SQL
 2. Tableau (or, Power BI)
-3. Python 
+3. Python & Statistics
 
 **💡 My Experience**
 - SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or -related) role. 
