@@ -117,8 +117,12 @@ These are the most commonly used SQL software. In tech-speak, we call them SQL f
 
 I did not take any course on Tableau as it's a **drag-and-drop software**, so I learn on-the-job by watching YouTube and reading articles. You can easily learn by doing projects.
 
-### 📚 Tutorials
-1. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
+### 📺 YouTube
+1. Andy Kriebel - https://www.youtube.com/c/AndyKriebel/featured - I refer to many of his videos while I was working on my work dashboard.
+2. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
+
+### 📚 Courses
+1. Codecademy Learn Tableau for Data Visualization [Free][Beginner] - [https://www.codecademy.com/learn/bi-dashboards-with-tableau
 
 ### 📝 Projects
 1. Alex Freberg's Covid-19 Project 🌟 - https://www.youtube.com/watch?v=qfyynHBFOsM
@@ -133,12 +137,16 @@ I did not take any course on Tableau as it's a **drag-and-drop software**, so I 
 3. freeCodeCamp Data Analysis with Python [Beginner] - https://www.youtube.com/watch?v=r-uOLxNrNk8
 
 ### 📚 Courses
+
+**[Free]**
 1. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
+3. WorldQuant University Applied Data Science Lab [Free][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
+
+**[Paid]**
 3. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
 4. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
 5. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid]
-6. WorldQuant University Applied Data Science Lab [Free][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
 
 ### 📝 Projects
 1. Amazon Web Scrapping [Guided][Intermediate] - https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&t=510s
@@ -153,6 +161,7 @@ I did not take any course on Tableau as it's a **drag-and-drop software**, so I 
 
 ### 📚 Courses
 1. Khan Academy Statistics & Probability [Free][Beginner] - https://www.khanacademy.org/math/statistics-probability
+2 Codecademy Probability [Free][Beginner] - https://www.codecademy.com/learn/probability-mssp
 
 ## How to Create a Portfolio on GitHub
 
