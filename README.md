@@ -23,6 +23,7 @@ Sharing this based on my personal experience and study style.
   - [Where to Learn SQL?](#-where-to-learn-sql)
   - [Where to Learn Tableau?](#-where-to-learn-tableau)
   - [Where to Learn Python?](#-where-to-learn-python)
+  - [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
 
 ## How and Where to Start?
@@ -126,21 +127,32 @@ I did not take any course on Tableau as it's a **drag-and-drop software**, so I 
 
 ## 🐍 Where to Learn Python
 
-Compilation in progress!
-
 ### 📺 YouTube
-1. Programming with Mosh 🌟 [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
+1. Programming with Mosh [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
+2. freeCodeCamp Learn Python [Beginner] - https://www.youtube.com/watch?v=rfscVS0vtbw&t=2565s
+3. freeCodeCamp Data Analysis with Python [Beginner] - https://www.youtube.com/watch?v=r-uOLxNrNk8
 
 ### 📚 Courses
 1. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
 3. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
-4. Maven Analytics Data Analysis with Python: NumPy & Pandas 🌟 [Paid] - https://www.udemy.com/course/python-pandas/
+4. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
+5. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid]
+6. WorldQuant University Applied Data Science Lab [Free][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
 
 ### 📝 Projects
 1. Amazon Web Scrapping [Guided][Intermediate] - https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&t=510s
 2. Automation Crypto Website using API [Guided][Intermediate] - https://www.youtube.com/watch?v=KB2CtEDrglY&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=10
 3. freeCodeCamp Projects [Unguided][Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
+4. WorldQuant University Applied Data Science Lab [Free][Guided][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
+
+## ♾ Where to Learn Statistics
+
+### 📺 YouTube
+1. StatQuest with Josh Starmer Statistics Fundamentals 🌟 - https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+
+### 📚 Courses
+1. Khan Academy Statistics & Probability [Free][Beginner] - https://www.khanacademy.org/math/statistics-probability
 
 ## How to Create a Portfolio on GitHub
 
