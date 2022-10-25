@@ -51,21 +51,21 @@ The only difference is **Google teaches R** and **IBM teaches Python**. However,
 
 **‼️IMPORTANT‼️** 
 - The course says that you will learn everything you need to know to be job-ready. Unfortunately, that is not true.
-- What you learn from this course is NOT ENOUGH to get a job or pass a technical interview (usually in SQL). 
+- What you learn from this course is **NOT ADEQUATE** to get a job or pass a technical interview (usually tested in SQL). 
 
-That's why I'm sharing these resources so that you can continue on with your studies after the completion of the Google/IBM course. 
+Hence, I'm sharing the following resources for you to continue on with your studies after the completion of the Google/IBM course. 
 
 ## What are the Technical Skills to Learn?
 
-Study in this order (**very important!**):
+Study in this order (**recommended**):
 1. SQL
 2. Tableau (or, Power BI)
 3. Python & Statistics
 
 **💡 My Experience**
-- SQL is the easiest to study and it's the COMPULSORY skill in any Data Analyst (or -related) role. 
+- SQL is the easiest to study and it's the **COMPULSORY** skill in any Data Analyst (or -related) role. 
 - Understanding SQL concepts helps in learning Tableau (i.e. creating Calculated Fields), hence why I suggested studying SQL first, followed by Tableau.
-- Most of the time, Python is a _good-to-have_ skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, you must be proficient in Python.
+- Most of the time, Python is a _good-to-have_ skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, you must be **proficient** in Python.
 
 ## 📕 Where to Learn SQL
 
@@ -138,15 +138,15 @@ I did not take any course on Tableau as it's a **drag-and-drop software**, so I 
 
 ### 📚 Courses
 
-**[Free]**
+**Free**
 1. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
 3. WorldQuant University Applied Data Science Lab [Free][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
 
-**[Paid]**
-3. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
-4. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
-5. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid]
+**Paid**
+1. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
+2. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
+3. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid]
 
 ### 📝 Projects
 1. Amazon Web Scrapping [Guided][Intermediate] - https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&t=510s
