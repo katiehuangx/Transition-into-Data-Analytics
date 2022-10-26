@@ -2,20 +2,20 @@
 
 Hello, I'm Katie! 🙋🏻‍♀️
 
-Sharing this based on my personal experience and study style.
+Sharing this based on my journey and studying style
 
-**📕 My Study Experience/Style**
+**📕 My Study Style**
 - I prefer watching videos rather than reading textbooks because I'm a **visual person** and need to see how the code works on my screen.
 - I'm more disciplined when I take paid courses because I've paid for them, so I have to complete them (and not waste money 😅). 
 - I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
 **🧐 What You Need to Know?**
-- Self-studying is **very** challenging because there is no syllabus, lecturers, or classmates to guide or help you out.
-- Must-have skill: Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
+- Self-studying is **very challenging** because there is no syllabus, lecturers, or classmates to guide or help you out.
+- Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
 - It can take months and years, so if you're pressed for time, then I would not recommend the self-study route.
 - It's **doable** with consistency, hard work and determination. 🤓
 
-**Disclaimer**: I'm not an expert. Just a fellow transitioner who's looking to help anyone who's transitioning into this field too.
+**Disclaimer**: I'm not an expert. Just a fellow transitioner who wants to help another transitioner.
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
@@ -25,36 +25,36 @@ Sharing this based on my personal experience and study style.
   - [Where to Learn Python?](#-where-to-learn-python)
   - [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
-- [Who to Follow on Linkedin?]
+- [Who to Follow on Linkedin?](#who-to-follow-on-linkedin)
 
 ## How and Where to Start?
 
-So, you're interested in Data Analytics, but you're not sure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
+So, you're interested, but you're not sure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
 
-First, I would recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
+First, I'd recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
 
 Both courses provides:
 - An **overview of data analytics**
 - An **introduction of the skills/tools** which you'll need to learn
 - Flexible, study-at-your-own-pace courses
-- Relatively cheap. You can apply for financial aid and study for free too.
+- Relatively inexpensive. You can apply for financial aid and study for free.
 - Very interactive with videos and hands-on practices. I love it because it makes studying fun!
 
-Both courses are available on Coursera at USD 20-40/month depending on when you enrol. I paid USD 39/month (for Google's) last year and a friend recently paid for only USD20+/month. 
+Both courses are available on Coursera at USD 20-40/month depending on when you enrol. I paid USD 39/month (for Google's) last year and a friend recently only paid USD20+/month. 
 
-Usually, people take an average of 2-4 months to complete the course. The faster you complete, the less you pay. 😇
+Usually, people take an average of 2 to 4 months to complete the course. The faster you complete, the less you pay. 😇
 
 **💡 My Experience**
 
 I took Google's course because it was newer (released in March 2021) compared to IBM's course. 
 
-The only difference is **Google teaches R** and **IBM teaches Python**. However, since both courses are beginner-level and don't go in-depth, I suggest taking Google's course. The lessons taught in R and Python are very basic and you're going to need to take additional courses on them so don't worry too much. 
+The only difference is **Google teaches R** and **IBM teaches Python**. However, since both courses are beginner-level and don't go in-depth, I suggest taking Google's course. The lessons taught in R and Python are very basic and you're going to need to take up additional studying so don't worry too much. 
 
 **‼️IMPORTANT‼️** 
-- The course says that you will learn everything you need to know to be job-ready. Unfortunately, that is not true.
-- What you learn from this course is **NOT ADEQUATE** to get a job or pass a technical interview (usually tested in SQL). 
+- The course says that you will learn everything you need to know to be job-ready. That is not true. 🥲
+- What you learn from this course is **NOT ADEQUATE** to get an entry-level job or pass a technical interview (usually tested in SQL). 
 
-Hence, I'm sharing the following resources for you to continue on with your studies after the completion of the Google/IBM course. 
+Thus, I'm sharing the following resources for you to continue on with your studies after the completion of the course. 
 
 ## What are the Technical Skills to Learn?
 
@@ -64,13 +64,14 @@ Study in this order (**recommended**):
 3. Python & Statistics
 
 **💡 My Experience**
-- SQL is the easiest to study and it's the **COMPULSORY** skill in any Data Analyst (or -related) role. 
+- SQL is the easiest to study and **COMPULSORY** skill in any Data Analyst (or -related) role. 
 - Understanding SQL concepts helps in learning Tableau (i.e. creating Calculated Fields), hence why I suggested studying SQL first, followed by Tableau.
-- Most of the time, Python is a _good-to-have_ skill, but in some companies, Python is compulsory. Also, if you're moving towards the Data Scientist or Data Engineering route, you must be **proficient** in Python.
+- Usually, Python is a _good-to-have_ skill, but in some companies, it's a _must-have_ skill. 
+- If you're moving towards the Data Scientist or Data Engineer route, then you must be **proficient** in Python.
 
 ## 📕 Where to Learn SQL
 
-🌟 is my personal favourite. 
+🌟 is my tried-and-tested favourite. 
 
 ### 📺 YouTube
 1. Alex Freberg 🌟
@@ -112,11 +113,11 @@ Study in this order (**recommended**):
 These are the most commonly used SQL software. In tech-speak, we call them SQL flavours. 
 - MySQL (Windows and Mac) [Free] - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/)
 - PostgreSQL (Windows and Mac) [Free] - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
-- Microsoft SQL Server (only on Windows) [Free] - I'm not sure because I can't download them on my Mac.
+- Microsoft SQL Server (only on Windows) [Free] - I'm not sure because I can't run this on my Mac.
 
 ## 📊 Where to Learn Tableau
 
-I did not take any course on Tableau as it's a **drag-and-drop software**, so I learn on-the-job by watching YouTube and reading articles. You can easily learn by doing projects.
+I did not take any course on Tableau as it's relatively easy to learn being a **drag-and-drop software**, so I learn it on-the-job by watching YouTube and reading articles. You can also learn by simply doing projects.
 
 ### 📺 YouTube
 1. Andy Kriebel - https://www.youtube.com/c/AndyKriebel/featured - I refer to many of his videos while I was working on my work dashboard.
@@ -170,7 +171,7 @@ I did not take any course on Tableau as it's a **drag-and-drop software**, so I 
 
 ## How to Create a Portfolio on GitHub
 
-I wrote a guide which you can check it out [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
+I wrote a guide which you can check out [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
 
 Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for your reference. I haven't update it for some time, but you can refer to the structure of the portfolio. 
 
