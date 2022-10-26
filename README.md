@@ -25,6 +25,7 @@ Sharing this based on my personal experience and study style.
   - [Where to Learn Python?](#-where-to-learn-python)
   - [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
+- [Who to Follow on Linkedin?]
 
 ## How and Where to Start?
 
@@ -148,6 +149,10 @@ I did not take any course on Tableau as it's a **drag-and-drop software**, so I 
 2. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
 3. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid]
 
+### Books 📕
+1. Khuyen Tran's Efficient Python Tricks and Tools for Data Scientists [Intermediate][Free] - https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html
+2. Python for Data Analysis - https://www.oreilly.com/library/view/python-for-data/9781449323592/
+
 ### 📝 Projects
 1. Amazon Web Scrapping [Guided][Intermediate] - https://www.youtube.com/watch?v=HiOtQMcI5wg&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=7&t=510s
 2. Automation Crypto Website using API [Guided][Intermediate] - https://www.youtube.com/watch?v=KB2CtEDrglY&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=10
@@ -169,4 +174,31 @@ I wrote a guide which you can check it out [here](https://github.com/katiehuangx
 
 Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for your reference. I haven't update it for some time, but you can refer to the structure of the portfolio. 
 
-If you like this repo, give me a 🌟! (click on the Star button on the top right of this page)
+## Who to Follow on Linkedin?
+
+**Data Analytics**
+1. [Alex Freberg](https://www.linkedin.com/in/alex-freberg/) - MUST FOLLOW! His YouTube account is [https://www.youtube.com/c/AlexTheAnalyst].
+
+**SQL**
+1. [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/)
+2. [Danny Ma/Data with Danny](https://www.linkedin.com/in/datawithdanny/) - Creator of #8WeekSQLChallenge
+
+**Python**
+1. [Khuyen Tran](https://www.linkedin.com/in/khuyen-tran-1401/)
+https://www.linkedin.com/in/davidmvermillion/
+
+**Tableau**
+
+
+
+**Transitioners**
+
+
+
+**Others**
+PySpark - [Sidharth Kriplani](https://www.linkedin.com/in/sidharth-kriplani/)
+
+--
+
+If you like this repo, give me a 🌟! 
+_(click on the Star button on the top right of this page)_
