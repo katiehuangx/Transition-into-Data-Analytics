@@ -2,11 +2,11 @@
 
 Hello, I'm Katie! 🙋🏻‍♀️
 
-Sharing this based on my journey and studying style
+Sharing this based on my journey and studying style.
 
 **📕 My Study Style**
 - I prefer watching videos rather than reading textbooks because I'm a **visual person** and need to see how the code works on my screen.
-- I'm more disciplined when I take paid courses because I've paid for them, so I have to complete them (and not waste money 😅). 
+- I'm more disciplined when I take paid courses because I've paid for them, so I have to complete them and not waste money 😅. 
 - I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
 
 **🧐 What You Need to Know?**
@@ -176,6 +176,8 @@ I wrote a guide which you can check out [here](https://github.com/katiehuangx/Ho
 Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for your reference. I haven't update it for some time, but you can refer to the structure of the portfolio. 
 
 ## Who to Follow on Linkedin?
+
+Still compiling the list...
 
 **Data Analytics**
 1. [Alex Freberg](https://www.linkedin.com/in/alex-freberg/) - MUST FOLLOW! His YouTube account is [https://www.youtube.com/c/AlexTheAnalyst].
