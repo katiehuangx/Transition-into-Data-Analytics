@@ -31,14 +31,13 @@ Sharing this based on my journey and studying style.
 
 So, you're interested, but you're not sure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
 
-First, I'd recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?).
+First, I'd recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?). 
 
 Both courses provides:
 - An **overview of data analytics**
 - An **introduction of the skills/tools** which you'll need to learn
 - Flexible, study-at-your-own-pace courses
 - Relatively inexpensive. You can apply for financial aid and study for free.
-- Very interactive with videos and hands-on practices. I love it because it makes studying fun!
 
 Both courses are available on Coursera at USD 20-40/month depending on when you enrol. I paid USD 39/month (for Google's) last year and a friend recently only paid USD20+/month. 
 
@@ -52,7 +51,8 @@ The only difference is **Google teaches R** and **IBM teaches Python**. However,
 
 **‼️IMPORTANT‼️** 
 - The course says that you will learn everything you need to know to be job-ready. That is not true. 🥲
-- What you learn from this course is **NOT ADEQUATE** to get an entry-level job or pass a technical interview (usually tested in SQL). 
+- What you learn from this course is **NOT ADEQUATE to get an entry-level job** or pass a technical interview.
+- At most, the course contributed to 5% or less in my learning.  
 
 Thus, I'm sharing the following resources for you to continue on with your studies after the completion of the course. 
 
