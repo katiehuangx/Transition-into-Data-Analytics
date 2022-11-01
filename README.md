@@ -133,10 +133,13 @@ I did not take any course on Tableau as it's relatively easy to learn being a **
 
 ## 🐍 Where to Learn Python
 
+Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT43JyY
+
 ### 📺 YouTube
 1. Programming with Mosh [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
 2. freeCodeCamp Learn Python [Beginner] - https://www.youtube.com/watch?v=rfscVS0vtbw&t=2565s
 3. freeCodeCamp Data Analysis with Python [Beginner] - https://www.youtube.com/watch?v=r-uOLxNrNk8
+4. Data Types in Python - https://www.youtube.com/watch?v=ppsCxnNm-JI
 
 ### 📚 Courses
 
