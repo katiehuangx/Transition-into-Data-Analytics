@@ -69,7 +69,7 @@ Study in this order (**recommended**):
 - Usually, Python is a _good-to-have_ skill, but in some companies, it's a _must-have_ skill. 
 - If you're moving towards the Data Scientist or Data Engineer route, then you must be **proficient** in Python.
 
-## 📕 Where to Learn SQL
+# 📕 Where to Learn SQL
 
 🌟 is my tried-and-tested favourite. 
 
@@ -115,7 +115,9 @@ These are the most commonly used SQL software. In tech-speak, we call them SQL f
 - PostgreSQL (Windows and Mac) [Free] - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
 - Microsoft SQL Server (only on Windows) [Free] - I'm not sure because I can't run this on my Mac.
 
-## 📊 Where to Learn Tableau
+***
+
+# 📊 Where to Learn Tableau
 
 I did not take any course on Tableau as it's relatively easy to learn being a **drag-and-drop software**, so I learn it on-the-job by watching YouTube and reading articles. You can also learn by simply doing projects.
 
@@ -131,7 +133,9 @@ I did not take any course on Tableau as it's relatively easy to learn being a **
 2. Alex Freberg's Visualisation Project - https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=14s
 3. Maven Analytics Monthly Challenges 🌟 [Free] - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
 
-## 🐍 Where to Learn Python
+***
+
+# 🐍 Where to Learn Python
 
 Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT43JyY
 
@@ -163,7 +167,9 @@ Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT
 3. freeCodeCamp Projects [Unguided][Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
 4. WorldQuant University Applied Data Science Lab [Free][Guided][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
 
-## ♾ Where to Learn Statistics
+***
+
+# ♾ Where to Learn Statistics
 
 ### 📺 YouTube
 1. StatQuest with Josh Starmer Statistics Fundamentals 🌟 - https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
@@ -172,13 +178,17 @@ Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT
 1. Khan Academy Statistics & Probability [Free][Beginner] - https://www.khanacademy.org/math/statistics-probability
 2 Codecademy Probability [Free][Beginner] - https://www.codecademy.com/learn/probability-mssp
 
-## How to Create a Portfolio on GitHub
+***
+
+# How to Create a Portfolio on GitHub
 
 I wrote a guide which you can check out [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
 
 Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for your reference. I haven't update it for some time, but you can refer to the structure of the portfolio. 
 
-## Who to Follow on Linkedin?
+***
+
+# Who to Follow on Linkedin?
 
 Still compiling the list...
 
