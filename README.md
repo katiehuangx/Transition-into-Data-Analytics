@@ -2,7 +2,7 @@
 
 Hello, I'm Katie! 🙋🏻‍♀️
 
-Sharing this based on my journey and studying style.
+I'm sharing this based on my self-study journey and studying style.
 
 **📕 My Study Style**
 - I prefer watching videos rather than reading textbooks because I'm a **visual person** and need to see how the code works on my screen.
@@ -51,7 +51,7 @@ The only difference is **Google teaches R** and **IBM teaches Python**. However,
 
 **‼️IMPORTANT‼️** 
 - The course says that you will learn everything you need to know to be job-ready. That is not true. 🥲
-- What you learn from this course is **NOT ADEQUATE to get an entry-level job** or pass a technical interview.
+- What you learn from this course is **NOT ENOUGH to get an entry-level job** or pass a technical interview.
 - At most, the course contributed to 5% or less in my learning.  
 
 Thus, I'm sharing the following resources for you to continue on with your studies after the completion of the course. 
