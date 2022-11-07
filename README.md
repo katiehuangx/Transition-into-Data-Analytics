@@ -193,7 +193,7 @@ Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/R
 Still compiling the list...
 
 **Data Analytics**
-1. [Alex Freberg](https://www.linkedin.com/in/alex-freberg/) - MUST FOLLOW! His YouTube account is [https://www.youtube.com/c/AlexTheAnalyst].
+1. [Alex Freberg](https://www.linkedin.com/in/alex-freberg/)
 
 **SQL**
 1. [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/)
@@ -202,17 +202,6 @@ Still compiling the list...
 **Python**
 1. [Khuyen Tran](https://www.linkedin.com/in/khuyen-tran-1401/)
 https://www.linkedin.com/in/davidmvermillion/
-
-**Tableau**
-
-
-
-**Transitioners**
-
-
-
-**Others**
-PySpark - [Sidharth Kriplani](https://www.linkedin.com/in/sidharth-kriplani/)
 
 --
 
