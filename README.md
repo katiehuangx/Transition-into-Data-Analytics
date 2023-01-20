@@ -97,7 +97,6 @@ Study in this order (**recommended**):
 4. SQL Zoo [Free] - https://sqlzoo.net
 5. The Schemaverse (space-based strategy game) [Free] - https://schemaverse.com
 6. SQL Police Department [Free] - https://sqlpd.com
-7. Advanced SQL Puzzles [Free][Advanced] - https://advancedsqlpuzzles.com
 
 ### 📝 Projects
 1. Covid-19 Project (SQL & Tableau) [Free] - https://www.youtube.com/watch?v=qfyynHBFOsM
@@ -201,11 +200,11 @@ Still compiling the list...
 2. [Danny Ma/Data with Danny](https://www.linkedin.com/in/datawithdanny/) - Creator of #8WeekSQLChallenge
 
 **Python**
-1. [Khuyen Tran](https://www.linkedin.com/in/khuyen-tran-1401/)
+1.
 
 **Advice on job hunt**
-1. 
-2.
+1. Kelly Adams
+2. [Chris French](https://www.linkedin.com/in/chris-french-data/)
 3.
 
 --
