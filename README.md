@@ -69,6 +69,12 @@ Study in this order (**recommended**):
 - Usually, Python is a _good-to-have_ skill, but in some companies, it's a _must-have_ skill. 
 - If you're moving towards the Data Scientist or Data Engineer route, then you must be **proficient** in Python.
 
+# 🏕️ Bootcamp
+
+I would highly recommend checking out Alex the Analyst's free [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF). This bootcamp covers a range of tools, including SQL, Excel, Tableau, Power BI, and Python. If you're new to data analytics, Alex Freberg is a well-known expert in the data analysis community and provides excellent resources.
+
+In my experience, anything by Alex Freberg is top-notch, and his instruction has helped me develop my own data analysis skills. If you're looking to improve your skills in any of the aforementioned tools, I believe you would find this bootcamp to be an excellent resource.
+
 # 📕 Where to Learn SQL
 
 🌟 is my tried-and-tested favourite. 
