@@ -194,9 +194,7 @@ Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/R
 
 ***
 
-# Who to Follow on Linkedin?
-
-Still compiling the list...
+# Whom to Follow on Linkedin?
 
 **Data Analytics**
 1. [Alex Freberg](https://www.linkedin.com/in/alex-freberg/)
