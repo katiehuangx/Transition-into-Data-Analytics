@@ -157,6 +157,8 @@ Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT
 1. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
 3. WorldQuant University Applied Data Science Lab [Free][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
+4. Jigsaw Labs Python for Data [Free] - https://www.jigsawlabs.io/www.jigsawlabs.io#Section-Python
+5. Jigsaw Labs Introduction to pandas [Free] - https://www.jigsawlabs.io/www.jigsawlabs.io#Section-Python
 
 **Paid**
 1. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
