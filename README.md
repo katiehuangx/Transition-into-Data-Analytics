@@ -17,6 +17,8 @@ I'm sharing this based on my self-study journey and studying style.
 
 **Disclaimer**: I'm not an expert. Just a fellow transitioner who wants to help another transitioner.
 
+**Another important disclaimer:** None of the courses I recommend below are sponsored. I am not paid to recommend any of these. 
+
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#what-are-the-technical-skills-to-learn)
@@ -154,6 +156,7 @@ Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT
 ### 📚 Courses
 
 **Free**
+1. HarvardX CS50's Introduction to Programming with Python 🌟 [Free][Beginner] - https://www.edx.org/course/cs50s-introduction-to-programming-with-python
 1. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
 3. WorldQuant University Applied Data Science Lab [Free][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
@@ -163,7 +166,7 @@ Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT
 **Paid**
 1. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
 2. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
-3. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid]
+3. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid] - https://www.udemy.com/course/python-data-visualization-matplotlib-seaborn/
 
 ### Books 📕
 1. Khuyen Tran's Efficient Python Tricks and Tools for Data Scientists [Intermediate][Free] - https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html
@@ -195,25 +198,6 @@ I wrote a guide which you can check out [here](https://github.com/katiehuangx/Ho
 Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for your reference. I haven't update it for some time, but you can refer to the structure of the portfolio. 
 
 ***
-
-# Whom to Follow on Linkedin?
-
-**Data Analytics**
-1. [Alex Freberg](https://www.linkedin.com/in/alex-freberg/)
-
-**SQL**
-1. [Jess Ramos](https://www.linkedin.com/in/jessramosmsba/)
-2. [Danny Ma/Data with Danny](https://www.linkedin.com/in/datawithdanny/) - Creator of #8WeekSQLChallenge
-
-**Python**
-1.
-
-**Advice on job hunt**
-1. Kelly Adams
-2. [Chris French](https://www.linkedin.com/in/chris-french-data/)
-3.
-
---
 
 If you like this repo, give me a 🌟! 
 _(click on the Star button on the top right of this page)_
