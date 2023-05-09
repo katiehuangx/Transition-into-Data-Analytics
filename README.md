@@ -183,7 +183,9 @@ A YouTube video on installing Jupyter Notebooks, which is a notebook to code in 
 
 # How to Create a Portfolio on GitHub
 
-Looking to showcase your coding projects and skills to potential employers or clients? Creating a portfolio on GitHub is a great way to do so. Check out this guide on how to create a portfolio on GitHub: https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md
+Looking to showcase your coding projects and skills to potential employers or clients? Creating a portfolio on GitHub is a great way to do so. 
+
+Check out this guide on how to create a portfolio on GitHub: https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md
 
 You can also refer to my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for inspiration on structure and content. 
 
