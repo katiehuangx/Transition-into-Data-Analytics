@@ -42,7 +42,7 @@ On average, people complete the course in 2 to 4 months, and the faster you comp
 
 **💡 My Experience**
 
-I found Google's course to be very helpful, especially since I'm a visual learner. However, please note that the courses only teach basic R skill, so you'll need to take additional courses to gain more in-depth knowledge.
+I found Google's course to be very helpful, especially since I'm a visual learner. However, please note that the courses only teach basic Spreadsheet, R, BigQuery (SQL), and Tableau, so you'll need to take additional courses to gain more in-depth knowledge.
 
 **‼️IMPORTANT‼️** 
 - The course claims that you'll learn everything you need to know to be job-ready. That is not true. 🥲
