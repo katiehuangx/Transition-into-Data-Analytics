@@ -1,23 +1,18 @@
 # How I Transition into Data Analytics (Self-Study Route)
 
-Hello, I'm Katie! 🙋🏻‍♀️
+Hello, I'm Katie and I'm sharing with you my personal experience and approach to self-studying for data analytics. 
 
-I'm sharing this based on my self-study journey and studying style.
+**📕 My Study Approach**
+- As a **visual learner**, I prefer watching video tutorials over reading textbooks to better understand how the code works on my screen.
 
-**📕 My Study Style**
-- I prefer watching videos rather than reading textbooks because I'm a **visual person** and need to see how the code works on my screen.
-- I'm more disciplined when I take paid courses because I've paid for them, so I have to complete them and not waste money 😅. 
-- I'm not a textbook person, but I recently purchased the Python for Data Analysis book so this might change... 👀
+**🧐 What You Should Know**
+- Self-studying can be **challenging** because you are on your own without any syllabus, instructors, or classmates to guide you.
+- It requires resourcefulness in finding solutions and troubleshooting errors. 
+- If time is a constraint, self-study may not be the best option. However, with consistency, hard work, and determination, it is achievable.
 
-**🧐 What You Need to Know?**
-- Self-studying is **very challenging** because there is no syllabus, lecturers, or classmates to guide or help you out.
-- Have to be **very, very, very resourceful** in looking for solutions and resolving errors.
-- It can take months and years, so if you're pressed for time, then I would not recommend the self-study route.
-- It's **doable** with consistency, hard work and determination. 🤓
+**Disclaimer**: I'm not an expert, just someone who is passionate about data analysis and wants to help others who are transitioning into this field.
 
-**Disclaimer**: I'm not an expert. Just a fellow transitioner who wants to help another transitioner.
-
-**Another important disclaimer:** None of the courses I recommend below are sponsored. I am not paid to recommend any of these. 
+**Another important note:** I'm not sponsored to recommend any of the courses mentioned below.
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
@@ -31,51 +26,49 @@ I'm sharing this based on my self-study journey and studying style.
 
 ## How and Where to Start?
 
-So, you're interested, but you're not sure where to start, how to start, or just unsure if this is the **right path** for you. 🧐
+If you're reading this, you're probably interested in starting a career in data analytics, but don't know where to begin or whether it's the right path for you. I totally get it - I was once in your shoes! 🧐
 
-First, I'd recommend you to take a **general data analytics course**, either the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?). 
+To start, I recommend taking a **general data analytics course**, like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst?) course. I started with Google's course as it was released more recently. I'm not sponsored for both courses.
 
 Both courses provides:
 - An **overview of data analytics**
-- An **introduction of the skills/tools** which you'll need to learn
+- An **introduction of the skills/tools** you need to learn
 - Flexible, study-at-your-own-pace courses
 - Relatively inexpensive. You can apply for financial aid and study for free.
 
-Both courses are available on Coursera at USD 20-40/month depending on when you enrol. I paid USD 39/month (for Google's) last year and a friend recently only paid USD20+/month. 
+You can enroll in both courses on Coursera for around USD 20-40/month. I paid USD 39/month for Google's course last year, but a friend recently only paid USD 20+/month.
 
-Usually, people take an average of 2 to 4 months to complete the course. The faster you complete, the less you pay. 😇
+On average, people complete the course in 2 to 4 months, and the faster you complete it, the less you pay. 😇
 
 **💡 My Experience**
 
-I took Google's course because it was newer (released in March 2021) compared to IBM's course. 
-
-The only difference is **Google teaches R** and **IBM teaches Python**. However, since both courses are beginner-level and don't go in-depth, I suggest taking Google's course. The lessons taught in R and Python are very basic and you're going to need to take up additional studying so don't worry too much. 
+I found Google's course to be very helpful, especially since I'm a visual learner. However, please note that the courses only teach basic R skill, so you'll need to take additional courses to gain more in-depth knowledge.
 
 **‼️IMPORTANT‼️** 
-- The course says that you will learn everything you need to know to be job-ready. That is not true. 🥲
+- The course claims that you'll learn everything you need to know to be job-ready. That is not true. 🥲
 - What you learn from this course is **NOT ENOUGH to get an entry-level job** or pass a technical interview.
 - At most, the course contributed to 5% or less in my learning.  
 
-Thus, I'm sharing the following resources for you to continue on with your studies after the completion of the course. 
+Thus, I'm sharing the following resources to help you continue your studies after completing the course. 
 
-## What are the Technical Skills to Learn?
+## My Advice on Technical Skills to Learn
 
-Study in this order (**recommended**):
+In my opinion, you should focus on these three skills in the following order:
 1. SQL
-2. Tableau (or, Power BI)
+2. Tableau (or Power BI)
 3. Python & Statistics
 
-**💡 My Experience**
-- SQL is the easiest to study and **COMPULSORY** skill in any Data Analyst (or -related) role. 
-- Understanding SQL concepts helps in learning Tableau (i.e. creating Calculated Fields), hence why I suggested studying SQL first, followed by Tableau.
-- Usually, Python is a _good-to-have_ skill, but in some companies, it's a _must-have_ skill. 
-- If you're moving towards the Data Scientist or Data Engineer route, then you must be **proficient** in Python.
+I found SQL to be the **easiest and most essential skill** for any data analyst role. It's a crucial language for extracting, manipulating, and analyzing data. Once you understand SQL, you'll have an easier time learning other tools like Tableau, which relies on SQL for creating calculated fields.
+
+Python is also an essential skill, particularly if you're pursuing a data scientist or data engineer role. However, it's not always a requirement for data analysts. In some companies, it's only a good-to-have skill, while in others, it's a must-have. I recommend becoming proficient in Python if you're planning to pursue a career in these fields.
 
 # 🏕️ Bootcamp
 
-I would highly recommend checking out Alex the Analyst's free [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF). This bootcamp covers a range of tools, including SQL, Excel, Tableau, Power BI, and Python. If you're new to data analytics, Alex Freberg is a well-known expert in the data analysis community and provides excellent resources.
+I highly recommend checking out Alex the Analyst's free [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) on YouTube. Alex is a well-known expert in the data analysis community, and his resources are top-notch.
 
-In my experience, anything by Alex Freberg is top-notch, and his instruction has helped me develop my own data analysis skills. If you're looking to improve your skills in any of the aforementioned tools, I believe you would find this bootcamp to be an excellent resource.
+This bootcamp covers a range of tools, including SQL, Excel, Tableau, Power BI, and Python. It's an excellent resource if you're new to data analytics or want to improve your skills in any of these tools.
+
+In my experience, Alex's instruction has helped me develop my own data analysis skills, and I believe you'll find his bootcamp to be a valuable resource.
 
 # 📕 Where to Learn SQL
 
@@ -83,11 +76,11 @@ In my experience, anything by Alex Freberg is top-notch, and his instruction has
 
 ### 📺 YouTube
 1. Alex Freberg 🌟
-- Basic - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW
-- Intermediate - https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL
-- Advanced - https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU
+- Basic - A 4-part video series that covers the basics of SQL, including creating tables, inserting data, and querying data - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW
+- Intermediate - A 5-part video series that covers more advanced topics, including joins, subqueries, and functions - https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL
+- Advanced - A 4-part video series that covers advanced SQL topics such as window functions, recursive queries, and common table expressions - https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU
 
-2. Programming with Mosh 🌟 [Beginner] - 3-hour course - https://www.youtube.com/watch?v=7S_tz1z_5bA&t=44s
+2. Programming with Mosh 🌟 [Beginner] - A 3-hour course that covers the basics of SQL - https://www.youtube.com/watch?v=7S_tz1z_5bA&t=44s
 3. freeCodeCamp [Beginner] - 4-hour course - https://www.youtube.com/watch?v=HXV3zeQKqGY&t=12282s
 
 ### 📚 Courses
@@ -99,38 +92,38 @@ In my experience, anything by Alex Freberg is top-notch, and his instruction has
 6. Maven Analytics Advanced SQL [Paid][Intermediate-Advanced] - https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
 
 ### ✏️ Practice Your SQL
-1. SQL Murder Mystery [Free] - https://mystery.knightlab.com/walkthrough.html
-2. SQL Bolt 🌟 [Free] - https://sqlbolt.com/
-3. Select Star SQL 🌟 [Free] - https://selectstarsql.com/
-4. SQL Zoo [Free] - https://sqlzoo.net
-5. The Schemaverse (space-based strategy game) [Free] - https://schemaverse.com
-6. SQL Police Department [Free] - https://sqlpd.com
+1. SQL Murder Mystery [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. - https://mystery.knightlab.com/walkthrough.html
+2. SQL Bolt 🌟 [Free][Beginner-Intermediate] - https://sqlbolt.com/
+3. Select Star SQL 🌟 [Free][Beginner-Intermediate] - https://selectstarsql.com/
+4. SQL Zoo [Free][Beginner-Intermediate] - https://sqlzoo.net
+5. The Schemaverse [Free][Beginner-Intermediate] - The Schemaverse is a space-based strategy game that allows players to write SQL code to control their spaceships and battle other players. - https://schemaverse.com
+6. SQL Police Department [Free][Beginner] - Online game that allows you to practice your SQL skills by solving a series of crimes. - https://sqlpd.com
 
 ### 📝 Projects
-1. Covid-19 Project (SQL & Tableau) [Free] - https://www.youtube.com/watch?v=qfyynHBFOsM
+1. Covid-19 Project (SQL & Tableau) [Free] - In this project, you learn how to use SQL and Tableau to analyze Covid-19 data. - https://www.youtube.com/watch?v=qfyynHBFOsM
 2. Data Cleaning [Free] - https://www.youtube.com/watch?v=8rO7ztF4NtU&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=4&t=497s
-3. 8-Week SQL Challenge 🌟 [Free] - https://8weeksqlchallenge.com. Check out my repo for solutions: https://github.com/katiehuangx/8-Week-SQL-Challenge
+3. 8-Week SQL Challenge 🌟 [Free][Intermediate-Advanced] - 8 different SQL projects designed to improve your SQL skills. - https://8weeksqlchallenge.com. (You can check out my Github repo for solutions: https://github.com/katiehuangx/8-Week-SQL-Challenge)
 
 ### ⏰ Practice For Technical Interviews
-1. DataLemur 🐒 (I work here!) 🌟 [Intermediate-Advanced][Semi-free] - https://datalemur.com
-2. StrataScratch 🌟 [Free] - https://platform.stratascratch.com/coding?code_type=1
+1. DataLemur 🐒 (I work here!) 🌟 [Semi-free][Intermediate-Advanced] - DataLemur offers a database of real-world SQL interview questions, complete with detailed solutions and explanations. - https://datalemur.com
+2. StrataScratch 🌟 [Semi-free][Intermediate-Advanced] - StrataScratch provides a variety of SQL interview questions with explanations and solutions. - https://platform.stratascratch.com/coding?code_type=1
 3. Ankit Bansal Top 10 SQL Interview Questions - https://www.youtube.com/watch?v=Iv9qBz-cyVA, https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb
 
 ### 💻 Which SQL Software to Use?
 
-These are the most commonly free-to-use SQL software. In tech-speak, we call them SQL flavours. 
+These are the most commonly free-to-use SQL softwares. In tech-speak, we call them SQL flavours. 
 - MySQL (Windows and Mac) - [https://www.mysql.com/products/workbench/](https://www.mysql.com/products/workbench/)
 - PostgreSQL (Windows and Mac) - [https://www.postgresql.org/download/](https://www.postgresql.org/download/)
-- Microsoft SQL Server (only on Windows) - I'm not sure because I can't run this on my Mac.
+- Microsoft SQL Server (only on Windows)
 
 ***
 
 # 📊 Where to Learn Tableau
 
-I did not take any course on Tableau as it's relatively easy to learn being a **drag-and-drop software**, so I learn it on-the-job by watching YouTube and reading articles. You can also learn by simply doing projects.
+Tableau is a business intelligence and data visualization software that allows users to create interactive dashboards and reports. Here are some resources to help you get started:
 
 ### 📺 YouTube
-1. Andy Kriebel - https://www.youtube.com/c/AndyKriebel/featured - I refer to many of his videos while I was working on my work dashboard.
+1. Andy Kriebel 🌟 - https://www.youtube.com/c/AndyKriebel/featured - A YouTube channel with many helpful Tableau tutorials.
 2. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
 
 ### 📚 Courses
@@ -139,19 +132,18 @@ I did not take any course on Tableau as it's relatively easy to learn being a **
 ### 📝 Projects
 1. Alex Freberg's Covid-19 Project 🌟 - https://www.youtube.com/watch?v=qfyynHBFOsM
 2. Alex Freberg's Visualisation Project - https://www.youtube.com/watch?v=QILNlRvJlfQ&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=3&t=14s
-3. Maven Analytics Monthly Challenges 🌟 [Free] - Follow them on [Linkedin](https://www.linkedin.com/company/maven-analytics/) for the challenge posts.
+3. Maven Analytics Monthly Challenges 🌟 [Free] - A series of monthly Tableau challenges posted on LinkedIn by [Maven Analytics](https://www.linkedin.com/company/maven-analytics/).
 
 ***
 
 # 🐍 Where to Learn Python
 
-Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT43JyY
+A YouTube video on installing Jupyter Notebooks, which is a notebook to code in Python - https://www.youtube.com/watch?v=WUeBzT43JyY
 
 ### 📺 YouTube
-1. Programming with Mosh [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
+1. Programming with Mosh 🌟 [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
 2. freeCodeCamp Learn Python [Beginner] - https://www.youtube.com/watch?v=rfscVS0vtbw&t=2565s
 3. freeCodeCamp Data Analysis with Python [Beginner] - https://www.youtube.com/watch?v=r-uOLxNrNk8
-4. Data Types in Python - https://www.youtube.com/watch?v=ppsCxnNm-JI
 
 ### 📚 Courses
 
@@ -160,13 +152,11 @@ Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT
 1. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 2. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
 3. WorldQuant University Applied Data Science Lab [Free][Intermediate-Advanced] - https://www.wqu.edu/programs/applied-ds-lab/
-4. Jigsaw Labs Python for Data [Free] - https://www.jigsawlabs.io/www.jigsawlabs.io#Section-Python
-5. Jigsaw Labs Introduction to pandas [Free] - https://www.jigsawlabs.io/www.jigsawlabs.io#Section-Python
 
 **Paid**
 1. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://www.udemy.com/course/python-foundations-for-data-analysis/
-2. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid] - https://www.udemy.com/course/python-pandas/
-3. Maven Analytics Data Visualization with Matplotlib & Seaborn [Paid] - https://www.udemy.com/course/python-data-visualization-matplotlib-seaborn/
+2. Maven Analytics Data Analysis with Python: NumPy & Pandas 🌟 [Paid] - https://www.udemy.com/course/python-pandas/
+3. Maven Analytics Data Visualization with Matplotlib & Seaborn 🌟 [Paid] - https://www.udemy.com/course/python-data-visualization-matplotlib-seaborn/
 
 ### Books 📕
 1. Khuyen Tran's Efficient Python Tricks and Tools for Data Scientists [Intermediate][Free] - https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html
@@ -193,11 +183,11 @@ Installing Jupyter Notebooks / Anaconda - https://www.youtube.com/watch?v=WUeBzT
 
 # How to Create a Portfolio on GitHub
 
-I wrote a guide which you can check out [here](https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md)!
+Looking to showcase your coding projects and skills to potential employers or clients? Creating a portfolio on GitHub is a great way to do so. Check out this guide on how to create a portfolio on GitHub: https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md
 
-Here's my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for your reference. I haven't update it for some time, but you can refer to the structure of the portfolio. 
+You can also refer to my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for inspiration on structure and content. 
 
 ***
 
-If you like this repo, give me a 🌟! 
-_(click on the Star button on the top right of this page)_
+If you find this guide helpful, give me a 🌟! 
+_(simply click on the Star button on the top right of this page)_
