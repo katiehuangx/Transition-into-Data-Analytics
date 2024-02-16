@@ -98,6 +98,7 @@ In my experience, Alex's instruction has helped me develop my own data analysis 
 4. SQL Zoo [Free][Beginner-Intermediate] - https://sqlzoo.net
 5. The Schemaverse [Free][Beginner-Intermediate] - The Schemaverse is a space-based strategy game that allows players to write SQL code to control their spaceships and battle other players. - https://schemaverse.com
 6. SQL Police Department [Free][Beginner] - Online game that allows you to practice your SQL skills by solving a series of crimes. - https://sqlpd.com
+7. Analyst Builder [Semi-free] - https://www.analystbuilder.com/questions?accessType=free
 
 ### 📝 Projects
 1. Covid-19 Project (SQL & Tableau) [Free] - In this project, you learn how to use SQL and Tableau to analyze Covid-19 data. - https://www.youtube.com/watch?v=qfyynHBFOsM
