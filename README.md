@@ -1,5 +1,7 @@
 # How I Transition into Data Analytics (Self-Study Route)
 
+_(updated on 3 Apr 2024)_
+
 Hello, I'm Katie and I'm sharing with you my personal experience and approach to self-studying for data analytics. 
 
 **📕 My Study Approach**
@@ -74,7 +76,7 @@ In my experience, Alex's instruction has helped me develop my own data analysis 
 
 🌟 is my tried-and-tested favourite. 
 
-### 📺 YouTube
+### 📺 Tutorial
 1. Alex Freberg 🌟
 - Basic - A 4-part video series that covers the basics of SQL, including creating tables, inserting data, and querying data - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW
 - Intermediate - A 5-part video series that covers more advanced topics, including joins, subqueries, and functions - https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL
@@ -82,6 +84,7 @@ In my experience, Alex's instruction has helped me develop my own data analysis 
 
 2. Programming with Mosh 🌟 [Beginner] - A 3-hour course that covers the basics of SQL - https://www.youtube.com/watch?v=7S_tz1z_5bA&t=44s
 3. freeCodeCamp [Beginner] - 4-hour course - https://www.youtube.com/watch?v=HXV3zeQKqGY&t=12282s
+4. DataLemur SQL Tutorial 🌟 [Beginner] - https://datalemur.com/sql-tutorial
 
 ### 📚 Courses
 1. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
@@ -92,13 +95,15 @@ In my experience, Alex's instruction has helped me develop my own data analysis 
 6. Maven Analytics Advanced SQL [Paid][Intermediate-Advanced] - https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
 
 ### ✏️ Practice Your SQL
+1. SQL Bolt 🌟 [Free][Beginner-Intermediate] - https://sqlbolt.com/
+2. Select Star SQL 🌟 [Free][Beginner-Intermediate] - https://selectstarsql.com/
+3. SQL Zoo [Free][Beginner-Intermediate] - https://sqlzoo.net
+4. SQL Climber [Free] - https://www.sqlclimber.com/home
+
+### 👾 SQL Games
 1. SQL Murder Mystery [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. - https://mystery.knightlab.com/walkthrough.html
-2. SQL Bolt 🌟 [Free][Beginner-Intermediate] - https://sqlbolt.com/
-3. Select Star SQL 🌟 [Free][Beginner-Intermediate] - https://selectstarsql.com/
-4. SQL Zoo [Free][Beginner-Intermediate] - https://sqlzoo.net
-5. The Schemaverse [Free][Beginner-Intermediate] - The Schemaverse is a space-based strategy game that allows players to write SQL code to control their spaceships and battle other players. - https://schemaverse.com
-6. SQL Police Department [Free][Beginner] - Online game that allows you to practice your SQL skills by solving a series of crimes. - https://sqlpd.com
-7. Analyst Builder [Semi-free] - https://www.analystbuilder.com/questions?accessType=free
+2. The Schemaverse [Free][Beginner-Intermediate] - The Schemaverse is a space-based strategy game that allows players to write SQL code to control their spaceships and battle other players. - https://schemaverse.com
+3. SQL Police Department [Free][Beginner] - Online game that allows you to practice your SQL skills by solving a series of crimes. - https://sqlpd.com
 
 ### 📝 Projects
 1. Covid-19 Project (SQL & Tableau) [Free] - In this project, you learn how to use SQL and Tableau to analyze Covid-19 data. - https://www.youtube.com/watch?v=qfyynHBFOsM
