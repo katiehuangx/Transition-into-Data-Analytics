@@ -24,7 +24,6 @@ Hello, I'm Katie and I'm sharing with you my personal experience and approach to
   - [Where to Learn Python?](#-where-to-learn-python)
   - [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)
-- [Who to Follow on Linkedin?](#who-to-follow-on-linkedin)
 
 ## How and Where to Start?
 
