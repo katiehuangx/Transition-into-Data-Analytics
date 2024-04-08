@@ -98,6 +98,7 @@ In my experience, Alex's instruction has helped me develop my own data analysis 
 2. Select Star SQL 🌟 [Free][Beginner-Intermediate] - https://selectstarsql.com/
 3. SQL Zoo [Free][Beginner-Intermediate] - https://sqlzoo.net
 4. SQL Climber [Free] - https://www.sqlclimber.com/home
+5. PostgreSQL exercises [Free] - https://pgexercises.com/
 
 ### 👾 SQL Games
 1. SQL Murder Mystery [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. - https://mystery.knightlab.com/walkthrough.html
