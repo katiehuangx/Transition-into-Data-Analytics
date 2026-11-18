@@ -12,7 +12,7 @@ Hello, I'm Katie and I'm sharing my personal experience and approach to self-stu
 
 **Disclaimer**: I'm not an expert, just someone who is passionate about data analysis and wants to help others who are transitioning into this field.
 
-**Another important note:** I'm not sponsored to recommend any of the courses mentioned below. One disclosure: I previously worked on SQL content for DataLemur which is listed in the interview-prep section.
+**Another important note:** I'm not sponsored to recommend any of the courses mentioned below. One disclosure: I previously worked on SQL content for DataLemur which is listed in the tutorial and interview-prep sections.
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
@@ -29,7 +29,7 @@ Hello, I'm Katie and I'm sharing my personal experience and approach to self-stu
 
 If you're reading this, you're probably interested in starting a career in data analytics, but don't know where to begin or whether it's the right path for you. I totally get it - I was once in your shoes! 🧐
 
-To start, I recommend taking a **general data analytics course** like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst) certificate. I started with Google's course as it was released more recently in 2005. 
+To start, I recommend taking a **general data analytics course** like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst) certificate. I started with Google's course as it was released more recently in 2021.
 
 Both courses provide:
 - An **overview of data analytics**
@@ -88,8 +88,8 @@ Note: the SQL part starts in Microsoft SQL Server and later added MySQL, so you'
 1. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
 2. Danny Ma SQL Masterclass Course 🌟 [Free] - https://github.com/DataWithDanny/sql-masterclass
 3. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions. Mode was acquired by ThoughtSpot and the tutorial now lives here: https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
-4. Kaggle Learn: Intro to SQL [Free][Beginner] - Short, browser-based lessons on real datasets, no setup needed - https://www.kaggle.com/learn
-5. Maven Analytics SQL for Data Analysis 🌟 [Beginner] - MySQL. Maven now hosts its courses on its own platform and says you can start free or you can buy on Udemy. 
+4. Kaggle Learn: Intro to SQL [Free][Beginner] - Short, browser-based lessons on real datasets using Google BigQuery. Needs a free Kaggle account - https://www.kaggle.com/learn/intro-to-sql
+5. Maven Analytics SQL for Data Analysis 🌟 [Beginner][Paid]:
    - Own platform [Paid]: https://mavenanalytics.io/course/mysql-data-analysis
    - Udemy [Paid]: https://www.udemy.com/course/mysql-for-data-analysis/
 6. Maven Analytics Advanced SQL [Intermediate-Advanced] - Subqueries, CTEs, window functions.
@@ -104,10 +104,10 @@ Note: the SQL part starts in Microsoft SQL Server and later added MySQL, so you'
 ### 👾 SQL Games
 1. SQL Murder Mystery [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser. - https://mystery.knightlab.com/walkthrough.html
 2. SQL Police Department [Freemium][Beginner] - Solve crimes with SQL. Limited free access, paid plans for the rest. - https://sqlpd.com
-3. SQL Island 🏝️ [Free][Beginner] - Survive a plane crash and escape the island with SQL - sql-island.informatik.uni-kl.de
+3. SQL Island 🏝️ [Free][Beginner] - Survive a plane crash and escape the island with SQL. You can switch the language from the menu - https://sql-island.informatik.uni-kl.de/
 
 ### 📝 Portfolio Projects
-1. 8-Week SQL Challenge 🌟 [Free][Intermediate-Advanced] - 8 different SQL case studies designed to improve your SQL skills. - https://8weeksqlchallenge.com.
+1. 8-Week SQL Challenge 🌟 [Free][Intermediate-Advanced] - 8 different SQL case studies designed to improve your SQL skills. - https://8weeksqlchallenge.com
 
 (You can check out my Github repo for solutions: [https://github.com/katiehuangx/8-Week-SQL-Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge))
 
@@ -197,7 +197,7 @@ For setup, Alex's bootcamp includes a video on installing Jupyter Notebook/Anaco
 3. Maven Analytics Data Visualization with Matplotlib & Seaborn 🌟 - https://mavenanalytics.io/course/data-visualization-with-matplotlib-seaborn
 
 ### Books 📕
-1. Wes McKinney's Python for Data Analysis, **3rd Edition** [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 
+1. Wes McKinney's Python for Data Analysis, **3rd Edition** [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also free to read online on the author's website - https://www.oreilly.com/library/view/python-for-data/9781098104023/ and code at https://github.com/wesm/pydata-book
 
 ***
 
