@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Transition into Data Analytics</title>
+<meta name="description" content="A self-study route into data analytics: SQL, Excel, Tableau or Power BI, Python and a GitHub portfolio, with the free and paid resources Katie recommends.">
+<meta name="theme-color" content="#F6F0E2">
+<meta property="og:title" content="Transition into Data Analytics">
+<meta property="og:description" content="A self-study route into data analytics: SQL, Excel, Tableau or Power BI, Python and a GitHub portfolio, with the free and paid resources Katie recommends.">
+<meta property="og:type" content="website">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@400;500;700&amp;display=swap">
+<style>
+:root{
+  --paper:#F6F0E2; --paper-2:#EEE6D1; --ink:#2B2F36; --muted:#5F5C54;
+  --sky:#4F90D4; --sky-deep:#2A64A8; --sky-pale:#DCEAF6;
+  --rule:#D8CDB4; --rule-strong:#B9AD92; --star:#C98F10;
+  --rail:3.25rem;
+  --font:"Zen Maru Gothic","Hiragino Maru Gothic ProN","Hiragino Sans","Yu Gothic UI","Segoe UI",system-ui,sans-serif;
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:4.5rem}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--font);font-size:1.0625rem;line-height:1.7;-webkit-text-size-adjust:100%}
+a{color:var(--sky-deep);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.2em}
+a:hover{text-decoration-thickness:2px}
+:focus-visible{outline:2px solid var(--sky-deep);outline-offset:3px;border-radius:3px}
+.skip{position:absolute;left:-999px;top:0;background:var(--ink);color:#fff;padding:.5rem 1rem;z-index:50}
+.skip:focus{left:0}
+.wrap{max-width:62rem;margin:0 auto;padding-inline:1.25rem}
+
+/* header */
+.sky{height:clamp(9rem,22vw,15rem);overflow:hidden;background:#86C0EC}
+.sky-art{display:block;width:100%;height:100%}
+.hero{padding-block:2.25rem 2rem}
+.hero h1{margin:0;font-size:clamp(2.2rem,6vw,3.75rem);line-height:1.12;letter-spacing:-.01em;font-weight:700;max-width:16ch}
+.hero .sub{margin:.9rem 0 0;font-size:1.25rem;color:var(--muted);max-width:34ch;line-height:1.5}
+.hero .meta{margin:1.1rem 0 0;font-size:.95rem;color:var(--muted)}
+
+/* know first */
+.know{margin:0 0 2.5rem;padding:1.4rem 0;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.know h2{margin:0 0 .5rem;font-size:1.25rem}
+.know p{max-width:44rem;margin:.4rem 0}
+.know ul{max-width:44rem;margin:.6rem 0;padding-left:1.2rem}
+.know li{margin:.35rem 0}
+.know .disclaimer{font-size:.95rem;color:var(--muted)}
+
+/* sticky nav */
+.stepnav{position:sticky;top:0;z-index:20;background:rgba(246,240,226,.95);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);border-bottom:1px solid var(--rule)}
+.navin{max-width:62rem;margin:0 auto;padding-inline:1.25rem;display:flex;align-items:center;gap:1rem}
+.stepnav ol{display:flex;gap:1.25rem;list-style:none;margin:0;padding:0;overflow-x:auto;white-space:nowrap;flex:1;scrollbar-width:none}
+.stepnav ol::-webkit-scrollbar{display:none}
+.stepnav a{display:block;padding:.85rem 0 .7rem;color:var(--ink);text-decoration:none;border-bottom:2px solid transparent;font-size:.95rem}
+.stepnav a:hover{color:var(--sky-deep)}
+.stepnav a[aria-current="true"]{color:var(--sky-deep);border-bottom-color:var(--sky-deep);font-weight:700}
+.filter{display:flex;align-items:center;gap:.5rem;font-size:.9rem;color:var(--muted);flex:none}
+.filter select{font:inherit;font-size:.9rem;color:var(--ink);background:var(--paper);border:1px solid var(--rule-strong);border-radius:.5rem;padding:.3rem .5rem}
+
+/* route + rail */
+.route-wrap{position:relative;padding-top:1.5rem}
+.route{list-style:none;margin:0;padding:0 0 0 var(--rail);position:relative}
+.rail-track,.rail-fill{position:absolute;left:calc(var(--rail) / 2 - 1px);top:2.6rem;width:0}
+.rail-track{bottom:1.5rem;border-left:2px dashed var(--rule-strong)}
+.rail-fill{border-left:2px solid var(--sky-deep);height:0}
+.step{position:relative;border-top:1px solid var(--rule)}
+.step:first-child{border-top:0}
+.marker{position:absolute;left:calc(var(--rail) / -2 - 1.125rem);top:.85rem;width:2.25rem;height:2.25rem;border-radius:50%;background:var(--paper);border:2px solid var(--rule-strong);color:var(--muted);display:grid;place-items:center;font-weight:700;font-size:1rem;z-index:2}
+.marker.start::after{content:"";width:.7rem;height:.7rem;border-radius:50%;background:var(--rule-strong)}
+.marker.reached{background:var(--sky-deep);border-color:var(--sky-deep);color:#fff}
+.marker.start.reached::after{background:#fff}
+details>summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.9rem 0}
+details>summary::-webkit-details-marker{display:none}
+summary h2{margin:0;font-size:clamp(1.5rem,3.4vw,1.9rem);line-height:1.25;font-weight:700}
+.chev{flex:none;width:.6rem;height:.6rem;border-right:2px solid var(--muted);border-bottom:2px solid var(--muted);transform:rotate(45deg);margin-right:.4rem}
+details[open] .chev{transform:rotate(-135deg)}
+.step-body{padding:0 0 2.6rem}
+.lead{max-width:44rem;margin:.2rem 0 .8rem;font-size:1.15rem;line-height:1.6}
+.para{max-width:44rem;margin:.6rem 0}
+.callout{max-width:44rem;margin:1.2rem 0;padding:.2rem 0 .2rem 1rem;border-left:3px solid var(--sky)}
+.callout p{margin:.3rem 0}
+.callout-title{font-weight:700}
+
+/* groups + resources */
+.group{margin-top:1.9rem}
+.group h3,.group h4{margin:0 0 .3rem;font-size:1.05rem;font-weight:700;color:var(--sky-deep)}
+.group-note{max-width:44rem;margin:.2rem 0 .6rem;color:var(--muted);font-size:.97rem}
+.res-list{list-style:none;margin:0;padding:0}
+.res{display:grid;grid-template-columns:1fr auto;gap:.3rem 1rem;padding:.75rem 0;border-top:1px solid var(--rule)}
+.res:last-child{border-bottom:1px solid var(--rule)}
+.res[hidden],.group[hidden],.col[hidden]{display:none}
+.res-name{margin:0;font-weight:500}
+.res-desc{margin:.15rem 0 0;color:var(--muted);font-size:.97rem;max-width:44rem}
+.sublinks{list-style:none;margin:.35rem 0 0;padding:0}
+.sublinks li{margin:.2rem 0;font-size:.97rem}
+.sublinks .tag{margin-left:.5rem}
+.sublinks .res-desc{display:block;margin:0}
+.res-extra{margin:.3rem 0 0;font-size:.95rem}
+.res-tags{display:flex;flex-wrap:wrap;gap:.35rem;justify-content:flex-end;align-content:flex-start;padding-top:.2rem}
+.tag{display:inline-block;font-size:.8rem;line-height:1.3;padding:.1rem .55rem;border-radius:999px;white-space:nowrap;border:1px solid transparent}
+.price-free{background:var(--sky-pale);color:#1F4F86}
+.price-paid{background:var(--paper-2);color:var(--muted);border-color:var(--rule)}
+.price-freemium{background:transparent;color:#1F4F86;border-color:var(--sky)}
+.level{background:transparent;color:var(--muted);border-color:var(--rule-strong)}
+.star{color:var(--star);margin-left:.35rem;font-size:.95em}
+
+/* fork */
+.fork-label{display:inline-block;margin:1.6rem 0 0;padding:.1rem .8rem;border:1px solid var(--sky);border-radius:999px;color:var(--sky-deep);font-size:.9rem}
+.fork{display:grid;grid-template-columns:1fr;gap:1rem 3rem;margin-top:.4rem}
+.col-title{margin:1.4rem 0 0;font-size:1.4rem;line-height:1.3}
+@media (min-width:62rem){
+  .fork{grid-template-columns:1fr 1fr}
+  .col+.col{border-left:1px solid var(--rule);padding-left:3rem;margin-left:-1.5rem}
+}
+.fork .res{grid-template-columns:1fr}
+.fork .res-tags{justify-content:flex-start;padding-top:.1rem}
+.empty{margin:1.5rem 0 0;color:var(--muted)}
+.empty[hidden]{display:none}
+
+/* ai + footer */
+.ai{margin:1rem 0 0;padding:2rem 0;border-top:1px solid var(--rule)}
+.ai h2{margin:0 0 .4rem;font-size:clamp(1.5rem,3.4vw,1.9rem)}
+.ai ul{max-width:44rem;padding-left:1.2rem}
+.ai li{margin:.4rem 0}
+footer{padding:2rem 0 3.5rem;border-top:1px solid var(--rule);color:var(--muted);font-size:.97rem}
+footer p{margin:.3rem 0;max-width:44rem}
+
+@media (max-width:40rem){
+  :root{--rail:2.5rem}
+  body{font-size:1rem}
+  .marker{width:1.9rem;height:1.9rem;left:calc(var(--rail) / -2 - .95rem);font-size:.9rem}
+  .rail-track,.rail-fill{top:2.4rem}
+  .res{grid-template-columns:1fr}
+  .res-tags{justify-content:flex-start}
+  .filter span{display:none}
+  .wrap{padding-inline:1rem}
+  .navin{padding-inline:1rem}
+  .filter select{max-width:9rem;font-size:.85rem}
+}
+@media print{
+  .stepnav,.sky,.chev,.rail-track,.rail-fill{display:none}
+  details>*{display:block}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#route">Skip to the roadmap</a>
+<header>
+<div class="sky"><svg class="sky-art" viewBox="0 0 1200 240" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Illustration of a blue summer sky with large clouds"><rect width="1200" height="240" fill="#86C0EC"/><rect y="90" width="1200" height="150" fill="#9DCDF1"/><rect y="160" width="1200" height="80" fill="#B7DBF5"/><g transform="translate(930 178) scale(1.15)"><g fill="#C6E0F4" transform="translate(0 10)"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g><g fill="#FFFFFF"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g></g><g transform="translate(250 205) scale(0.8)"><g fill="#C6E0F4" transform="translate(0 10)"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g><g fill="#FFFFFF"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g></g><g transform="translate(640 120) scale(0.5)"><g fill="#C6E0F4" transform="translate(0 10)"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g><g fill="#FFFFFF"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g></g><g transform="translate(1120 70) scale(0.4)"><g fill="#C6E0F4" transform="translate(0 10)"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g><g fill="#FFFFFF"><rect x="-150" y="-6" width="300" height="42" rx="21"/><circle cx="-62" cy="-22" r="42"/><circle cx="-6" cy="-50" r="58"/><circle cx="58" cy="-26" r="44"/><circle cx="106" cy="-4" r="30"/></g></g></svg></div>
+<div class="wrap hero">
+<h1>Transition into Data Analytics</h1>
+<p class="sub">A self-study route, in the order I&#x27;d learn it today.</p>
+<p class="meta">Curated by Katie. Updated 18 Nov 2026. <a href="https://github.com/katiehuangx/Transition-into-Data-Analytics" rel="noopener">Source on GitHub</a></p>
+</div>
+</header>
+<nav class="stepnav" aria-label="Roadmap steps"><div class="navin"><ol><li><a href="#start">Start</a></li><li><a href="#sql">SQL</a></li><li><a href="#excel">Excel &amp; Sheets</a></li><li><a href="#bi">Tableau / Power BI</a></li><li><a href="#python">Python</a></li><li><a href="#portfolio">Portfolio</a></li><li><a href="#ai">AI</a></li></ol><label class="filter"><span>Show</span><select id="filter"><option value="all">All resources</option><option value="free">Free only</option><option value="beg">Beginner-friendly</option><option value="pick">My picks</option></select></label></div></nav>
+<main class="wrap">
+<div style="height:1.5rem"></div>
+<section class="know"><h2>Before you start</h2><p>Hello, I&#x27;m Katie. This is my personal approach to self-studying data analytics, and the resources I&#x27;d point a friend to.</p><ul><li>Self-study is hard. There is no syllabus, instructor or classmates, so you have to find your own answers and fix your own errors.</li><li>If time is tight, self-study may not be the best option. With consistency and determination it is still achievable.</li><li>Entry-level roles are competitive. A portfolio of real projects (last step) matters as much as any certificate.</li></ul><p class="disclaimer">I&#x27;m not an expert, just someone who is passionate about data analysis and wants to help others making this move. I&#x27;m not sponsored to recommend any course here. One disclosure: I previously worked on SQL content for DataLemur, which is listed in the tutorial and interview-prep sections. Resources I&#x27;ve personally tried and recommend are marked with a star.</p></section>
+<div class="route-wrap" id="route">
+<div class="rail-track" aria-hidden="true"></div><div class="rail-fill" aria-hidden="true"></div>
+<ol class="route"><li class="step" id="start"><span class="marker start" aria-hidden="true"></span><details open><summary><h2>Start with a general course</h2><span class="chev" aria-hidden="true"></span></summary><div class="step-body"><p class="lead">If you&#x27;re curious about a data career but don&#x27;t know where to begin, take a general data analytics course first. It gives you an overview of the field, an introduction to the tools you&#x27;ll need, a study-at-your-own-pace format and a certificate for your CV.</p><p class="para">Both certificates below are on Coursera. At the time of writing, Coursera Plus was listed at around USD 59/month with a free trial, and Google&#x27;s certificate is included in it. Prices change often, so check the course page. Financial aid may also be available. On average people finish in 2 to 6 months, and the faster you finish, the less you pay.</p><p class="para">I started with Google&#x27;s because it was released more recently, in 2021. I found it very helpful as a visual learner. It covers spreadsheets, SQL (BigQuery), Tableau and R, and has since added AI-assisted modules. IBM&#x27;s certificate takes a different route and includes a generative-AI-for-analysts course.</p><aside class="callout"><p class="callout-title">Know what a certificate can and can&#x27;t do</p><p>Both courses are marketed as job-ready programmes. In my experience that isn&#x27;t true. One course is not enough to get an entry-level job or pass a technical interview. At most it contributed 5 to 10% of my learning, so use it as a starting point and keep going with the steps below.</p></aside><section class="group"><h3>General courses</h3><ul class="res-list"><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.coursera.org/professional-certificates/google-data-analytics" rel="noopener">Google Data Analytics Certificate</a></p><p class="res-desc">Beginner-friendly overview of the whole field. Includes spreadsheets, SQL, Tableau and R. Free trial, then paid (see price note above).</p></div><div class="res-tags"></div></li><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.coursera.org/professional-certificates/ibm-data-analyst" rel="noopener">IBM Data Analyst Certificate</a></p><p class="res-desc">A different route from Google&#x27;s, with a generative-AI-for-analysts course. Free trial, then paid (see price note above).</p></div><div class="res-tags"></div></li></ul></section><section class="group"><h3>Free bootcamp</h3><p class="group-note">The SQL part starts in Microsoft SQL Server and later adds MySQL, so you&#x27;ll see small syntax differences from the courses below.</p><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF" rel="noopener">Alex the Analyst: Data Analyst Bootcamp</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">Covers SQL, Excel, Tableau, Power BI, Python and portfolio projects. Excellent if you&#x27;re new or want to sharpen any of these tools.</p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li></ul></section><p class="empty" hidden>Nothing here matches this filter. Choose &ldquo;All resources&rdquo; to see everything.</p></div></details></li><li class="step" id="sql"><span class="marker" aria-hidden="true">1</span><details open><summary><h2>SQL</h2><span class="chev" aria-hidden="true"></span></summary><div class="step-body"><p class="lead">SQL is the easiest and most essential skill for any data analyst role. It&#x27;s how you extract, manipulate and analyze data, and once you know it, other tools get easier (Tableau&#x27;s calculated fields use SQL-style logic).</p><section class="group"><h3>Tutorials</h3><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name">Alex Freberg<span class="star" role="img" aria-label="Katie's pick">★</span></p><ul class="sublinks"><li><a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8GT6N5ne2qpf603sF26m2PW" rel="noopener">Basic</a><span class="res-desc">4-part series on creating tables, inserting data and querying data.</span></li><li><a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8HTgPnBukmMq7QTe83ANirL" rel="noopener">Intermediate</a><span class="res-desc">5-part series on joins, subqueries and functions.</span></li><li><a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU" rel="noopener">Advanced</a><span class="res-desc">4-part series on window functions, recursive queries and common table expressions.</span></li></ul></div><div class="res-tags"><span class="tag price-free">Free</span></div></li><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA&amp;t=44s" rel="noopener">Programming with Mosh</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">A 3-hour course that covers the basics of SQL.</p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li><li class="res" data-free="1" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/watch?v=HXV3zeQKqGY&amp;t=12282s" rel="noopener">freeCodeCamp</a></p><p class="res-desc">A 4-hour course.</p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li><li class="res" data-free="0" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://datalemur.com/sql-tutorial" rel="noopener">DataLemur SQL Tutorial</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag level">Beginner–Advanced</span></div></li></ul></section><section class="group"><h3>Courses</h3><ul class="res-list"><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.udacity.com/course/sql-for-data-analysis--ud198" rel="noopener">Udacity: SQL for Data Analysis</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://github.com/DataWithDanny/sql-masterclass" rel="noopener">Danny Ma: SQL Masterclass</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.thoughtspot.com/sql-tutorial/introduction-to-sql" rel="noopener">ThoughtSpot SQL Tutorial</a></p><p class="res-desc">Business-style questions on real data, good for window functions. Mode was acquired by ThoughtSpot and the tutorial now lives here.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner–Intermediate</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.kaggle.com/learn/intro-to-sql" rel="noopener">Kaggle Learn: Intro to SQL</a></p><p class="res-desc">Short, browser-based lessons on real datasets using Google BigQuery. Needs a free Kaggle account.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="0" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name">Maven Analytics: SQL for Data Analysis<span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">Uses MySQL.</p><ul class="sublinks"><li><a href="https://mavenanalytics.io/course/mysql-data-analysis" rel="noopener">Own platform</a><span class="tag price-paid">Paid</span></li><li><a href="https://www.udemy.com/course/mysql-for-data-analysis/" rel="noopener">Udemy</a><span class="tag price-paid">Paid</span></li></ul></div><div class="res-tags"><span class="tag level">Beginner</span></div></li><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name">Maven Analytics: Advanced SQL</p><p class="res-desc">Subqueries, CTEs and window functions.</p><ul class="sublinks"><li><a href="https://mavenanalytics.io/course/sql-advanced-queries" rel="noopener">Own platform</a><span class="tag price-paid">Paid</span></li><li><a href="https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/" rel="noopener">Udemy</a><span class="tag price-paid">Paid</span></li></ul></div><div class="res-tags"><span class="tag level">Intermediate–Advanced</span></div></li></ul></section><section class="group"><h3>Practice</h3><ul class="res-list"><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://sqlbolt.com/" rel="noopener">SQL Bolt</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner–Intermediate</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://selectstarsql.com/" rel="noopener">Select Star SQL</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner–Intermediate</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://sqlzoo.net" rel="noopener">SQL Zoo</a></p><p class="res-desc">Looks dated, but lets you practise in several SQL dialects.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner–Intermediate</span></div></li></ul></section><section class="group"><h3>Games</h3><ul class="res-list"><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://mystery.knightlab.com/walkthrough.html" rel="noopener">SQL Murder Mystery</a></p><p class="res-desc">Learn SQL basics by solving a murder case. Runs in your browser.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="0" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://sqlpd.com" rel="noopener">SQL Police Department</a></p><p class="res-desc">Solve crimes with SQL. Limited free access, paid plans for the rest.</p></div><div class="res-tags"><span class="tag price-freemium">Freemium</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://sql-island.informatik.uni-kl.de/" rel="noopener">SQL Island</a></p><p class="res-desc">Survive a plane crash and escape the island with SQL. You can switch the language from the menu.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li></ul></section><section class="group"><h3>Portfolio project</h3><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://8weeksqlchallenge.com" rel="noopener">8-Week SQL Challenge</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">8 different SQL case studies designed to improve your SQL skills.</p><p class="res-extra"><a href="https://github.com/katiehuangx/8-Week-SQL-Challenge" rel="noopener">My solutions on GitHub</a></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Intermediate–Advanced</span></div></li></ul></section><section class="group"><h3>Technical interview practice</h3><ul class="res-list"><li class="res" data-free="0" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://datalemur.com" rel="noopener">DataLemur</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">Real-world SQL interview questions with detailed solutions and explanations. I previously worked on its SQL content.</p></div><div class="res-tags"><span class="tag price-freemium">Freemium</span><span class="tag level">Intermediate–Advanced</span></div></li><li class="res" data-free="0" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://platform.stratascratch.com/coding?code_type=1" rel="noopener">StrataScratch</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">Large bank of interview questions across SQL and Python. Free tier plus paid plans.</p></div><div class="res-tags"><span class="tag price-freemium">Freemium</span><span class="tag level">Intermediate–Advanced</span></div></li><li class="res" data-free="1" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name">Ankit Bansal: Top 10 SQL interview questions</p><ul class="sublinks"><li><a href="https://www.youtube.com/watch?v=Iv9qBz-cyVA" rel="noopener">Video</a></li><li><a href="https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb" rel="noopener">Playlist</a></li></ul></div><div class="res-tags"><span class="tag price-free">Free</span></div></li></ul></section><section class="group"><h3>Which SQL software to use</h3><p class="group-note">You don&#x27;t need to install anything to start. SQL Bolt, Select Star SQL, SQL Murder Mystery and Kaggle Learn all run in your browser. When you want your own local setup, these are the common free choices (they&#x27;re called SQL flavours). The basics are the same across all of them, so pick the one your course uses and learn the differences later.</p><ul class="res-list"><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.postgresql.org/download/" rel="noopener">PostgreSQL</a></p><p class="res-desc">Windows, Mac and Linux.</p></div><div class="res-tags"></div></li><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.mysql.com/products/workbench/" rel="noopener">MySQL Workbench</a></p><p class="res-desc">Windows and Mac.</p></div><div class="res-tags"></div></li><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name">Microsoft SQL Server</p><p class="res-desc">Alex Freberg&#x27;s course uses it.</p></div><div class="res-tags"></div></li></ul></section><p class="empty" hidden>Nothing here matches this filter. Choose &ldquo;All resources&rdquo; to see everything.</p></div></details></li><li class="step" id="excel"><span class="marker" aria-hidden="true">2</span><details open><summary><h2>Excel and Google Sheets</h2><span class="chev" aria-hidden="true"></span></summary><div class="step-body"><p class="lead">Excel is still one of the most common skills in data analyst job ads, and you&#x27;ll likely use it every week at work. Don&#x27;t skip it. Alex the Analyst&#x27;s bootcamp has an Excel section with pivot tables, formulas and a full project, and Google&#x27;s and IBM&#x27;s certificates also teach spreadsheets.</p><section class="group"><h3>Excel on YouTube</h3><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY" rel="noopener">Kevin Stratvert</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/watch?v=0tdlR1rBwkM&amp;list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0" rel="noopener">Leila Gharani</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li></ul></section><section class="group"><h3>Google Sheets on YouTube</h3><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu" rel="noopener">Leila Gharani</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li></ul></section><section class="group"><h3>More</h3><ul class="res-list"><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://mavenanalytics.io" rel="noopener">Maven Analytics</a></p><p class="res-desc">Has Excel courses, for example on pivot tables.</p></div><div class="res-tags"></div></li></ul></section><p class="empty" hidden>Nothing here matches this filter. Choose &ldquo;All resources&rdquo; to see everything.</p></div></details></li><li class="step" id="bi"><span class="marker" aria-hidden="true">3</span><details open><summary><h2>Tableau or Power BI</h2><span class="chev" aria-hidden="true"></span></summary><div class="step-body"><p class="lead">Tableau and Power BI are business intelligence and data visualization tools for building interactive dashboards and reports. Pick one first, because the skills transfer.</p><p class="para">Which one? Job-posting analyses disagree on whether Tableau or Power BI is ahead, and it varies by country and industry. Search job ads in the market you want to work in and learn the one that shows up more. Power BI Desktop is free (Windows) and Tableau Public is free, but everything you save there is public.</p><p class="fork-label">Pick one to start with</p><div class="fork"><section class="col"><h3 class="col-title">Tableau</h3><section class="group"><h4>YouTube</h4><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/c/AndyKriebel/featured" rel="noopener">Andy Kriebel</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">A YouTube channel with many helpful Tableau tutorials.</p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC" rel="noopener">Alex Freberg: Tableau tutorials</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li></ul></section><section class="group"><h4>Courses</h4><ul class="res-list"><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://trailhead.salesforce.com/content/learn/trailhead-journey/tableau" rel="noopener">Salesforce Trailhead: Tableau</a></p><p class="res-desc">Official free learning platform with hands-on challenges you can publish to Tableau Public.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.tableau.com/learn/tutorials" rel="noopener">Tableau official free training videos</a></p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li><li class="res" data-free="0" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.codecademy.com/learn/bi-dashboards-with-tableau" rel="noopener">Codecademy: Learn Tableau for Data Visualization</a></p><p class="res-desc">Check whether it&#x27;s free or Pro-only when you sign up.</p></div><div class="res-tags"><span class="tag level">Beginner</span></div></li><li class="res" data-free="0" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.udacity.com/course/data-visualization-nanodegree--nd197" rel="noopener">Udacity: Data Visualization Nanodegree</a></p><p class="res-desc">Four courses on data visualization and storytelling, with Tableau dashboards as the main tool.</p></div><div class="res-tags"><span class="tag price-paid">Paid</span><span class="tag level">Beginner–Intermediate</span></div></li></ul></section><section class="group"><h4>Free tool</h4><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://public.tableau.com/app/learn/how-to-videos" rel="noopener">Tableau Public</a></p><p class="res-desc">Free, but your work is public.</p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li></ul></section></section><section class="col"><h3 class="col-title">Power BI</h3><section class="group"><h4>Free tool</h4><ul class="res-list"><li class="res" data-free="1" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://powerbi.microsoft.com/en-us/desktop/" rel="noopener">Power BI Desktop</a></p><p class="res-desc">Free to download.</p></div><div class="res-tags"><span class="tag price-free">Free</span></div></li></ul></section><section class="group note-only"><h4>Start with the bootcamp</h4><p class="group-note">Alex the Analyst&#x27;s bootcamp (see the first step) has a Power BI section covering Power Query, relationships, DAX and a full guided project.</p></section><section class="group"><h4>Courses</h4><ul class="res-list"><li class="res" data-free="0" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.udacity.com/course/creating-visualizations-with-power-bi--cd0013" rel="noopener">Udacity: Creating Visualizations with Power BI</a></p><p class="res-desc">A single course on building and customizing reports and visuals.</p></div><div class="res-tags"><span class="tag price-paid">Paid</span><span class="tag level">Beginner–Intermediate</span></div></li><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331" rel="noopener">Udacity: Data Analysis and Visualization with Microsoft Power BI Nanodegree</a></p><p class="res-desc">Covers Power Query, DAX and data modeling. Udacity lists Power BI proficiency, intermediate spreadsheet use and database schemas as prerequisites, so take the course above first.</p></div><div class="res-tags"><span class="tag price-paid">Paid</span><span class="tag level">Intermediate</span></div></li></ul></section></section></div><p class="empty" hidden>Nothing here matches this filter. Choose &ldquo;All resources&rdquo; to see everything.</p></div></details></li><li class="step" id="python"><span class="marker" aria-hidden="true">4</span><details open><summary><h2>Python</h2><span class="chev" aria-hidden="true"></span></summary><div class="step-body"><p class="lead">Python is not always required for data analysts. In some companies it&#x27;s only good-to-have, in others it&#x27;s a must-have. Learn it if you&#x27;re aiming at tech companies or at data scientist or data engineer roles.</p><p class="para">For setup, Alex&#x27;s bootcamp includes a video on installing Jupyter Notebook and Anaconda. Kaggle&#x27;s free notebooks also run in your browser with nothing to install.</p><section class="group"><h3>YouTube</h3><ul class="res-list"><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/watch?v=_uQrJ0TkZlc&amp;t=8118s" rel="noopener">Programming with Mosh</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/watch?v=rfscVS0vtbw&amp;t=2565s" rel="noopener">freeCodeCamp: Learn Python</a></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.youtube.com/watch?v=r-uOLxNrNk8" rel="noopener">freeCodeCamp: Data Analysis with Python</a></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li></ul></section><section class="group"><h3>Free courses</h3><ul class="res-list"><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://cs50.harvard.edu/python" rel="noopener">Harvard CS50&#x27;s Introduction to Programming with Python</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">Free via Harvard&#x27;s OpenCourseWare. Paid certificate options are on edX.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.kaggle.com/learn/python" rel="noopener">Kaggle Learn: Python</a><span class="star" role="img" aria-label="Katie's pick">★</span></p><p class="res-desc">Short hands-on micro-courses in the browser on real datasets.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://www.udacity.com/course/intro-to-data-analysis--ud170" rel="noopener">Udacity: Intro to Data Analysis</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="1" data-beg="1" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.freecodecamp.org/learn/data-analysis-with-python/" rel="noopener">freeCodeCamp: Data Analysis with Python</a></p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Beginner–Intermediate</span></div></li><li class="res" data-free="1" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.wqu.edu/adsl" rel="noopener">WorldQuant University: Data Science Lab</a></p><p class="res-desc">Formerly Applied Data Science Lab. 16 weeks and project-based. You need to apply, pass an admissions quiz and have beginner Python and basic statistics first.</p></div><div class="res-tags"><span class="tag price-free">Free</span><span class="tag level">Intermediate–Advanced</span></div></li></ul></section><section class="group"><h3>Paid courses</h3><ul class="res-list"><li class="res" data-free="0" data-beg="1" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://mavenanalytics.io/course/python-foundations-for-data-analysis" rel="noopener">Maven Analytics: Python Foundations for Data Analysis</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-paid">Paid</span><span class="tag level">Beginner</span></div></li><li class="res" data-free="0" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://mavenanalytics.io/course/data-analysis-with-python-pandas" rel="noopener">Maven Analytics: Data Analysis with Python, NumPy and Pandas</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-paid">Paid</span></div></li><li class="res" data-free="0" data-beg="0" data-pick="1"><div class="res-main"><p class="res-name"><a href="https://mavenanalytics.io/course/data-visualization-with-matplotlib-seaborn" rel="noopener">Maven Analytics: Data Visualization with Matplotlib and Seaborn</a><span class="star" role="img" aria-label="Katie's pick">★</span></p></div><div class="res-tags"><span class="tag price-paid">Paid</span></div></li></ul></section><section class="group"><h3>Books</h3><ul class="res-list"><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.oreilly.com/library/view/python-for-data/9781098104023/" rel="noopener">Python for Data Analysis, 3rd edition (Wes McKinney)</a></p><p class="res-desc">The pandas creator&#x27;s own book, updated for Python 3.10 and pandas 1.4. Also free to read online on the author&#x27;s website.</p><p class="res-extra"><a href="https://github.com/wesm/pydata-book" rel="noopener">Code on GitHub</a></p></div><div class="res-tags"><span class="tag level">Intermediate</span></div></li></ul></section><p class="empty" hidden>Nothing here matches this filter. Choose &ldquo;All resources&rdquo; to see everything.</p></div></details></li><li class="step" id="portfolio"><span class="marker" aria-hidden="true">5</span><details open><summary><h2>Build a portfolio on GitHub</h2><span class="chev" aria-hidden="true"></span></summary><div class="step-body"><p class="lead">A portfolio shows potential employers or clients what you can actually do. GitHub is a good place to keep it. Start with the guide, then use my own portfolio as a model for structure and content.</p><section class="group"><h3>Guides</h3><ul class="res-list"><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md" rel="noopener">How to create a GitHub portfolio</a></p><p class="res-desc">My step-by-step guide.</p></div><div class="res-tags"></div></li><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md" rel="noopener">My portfolio</a></p><p class="res-desc">For inspiration on structure and content.</p></div><div class="res-tags"></div></li></ul></section><p class="empty" hidden>Nothing here matches this filter. Choose &ldquo;All resources&rdquo; to see everything.</p></div></details></li></ol>
+</div>
+<section class="ai" id="ai"><h2>Using AI along the way</h2><p class="lead">AI tools can now write SQL, Excel formulas and Python for you. That makes the fundamentals more important, not less, because you need to be able to tell when the output is wrong.</p><ul><li>Learn SQL first. Then use AI as a tutor and a second pair of eyes, and always read and run the SQL or code it gives you.</li><li>Don&#x27;t paste confidential company data or personal information into a public AI tool.</li><li>Google&#x27;s Data Analytics certificate now includes modules on using AI for cleaning data, formulas and visualizations.</li></ul><ul class="res-list"><li class="res" data-free="0" data-beg="0" data-pick="0"><div class="res-main"><p class="res-name"><a href="https://www.coursera.org/specializations/generative-ai-for-data-analysts" rel="noopener">IBM: Generative AI for Data Analysts</a></p><p class="res-desc">A structured option if you want a course.</p></div><div class="res-tags"></div></li></ul></section>
+</main>
+<footer><div class="wrap">
+<p>If this guide helps you, star the repo on <a href="https://github.com/katiehuangx/Transition-into-Data-Analytics" rel="noopener">GitHub</a>.</p>
+<p>Links and prices change. If something has moved, open an issue on the repo.</p>
+</div></footer>
+<script>
+(function(){
+  var steps=[].slice.call(document.querySelectorAll('.step'));
+  var navLinks=[].slice.call(document.querySelectorAll('.stepnav a'));
+  var wrap=document.querySelector('.route-wrap');
+  var fill=document.querySelector('.rail-fill');
+  var markers=steps.map(function(s){return s.querySelector('.marker')});
+
+  // open a collapsed step when its nav link or a #hash targets it
+  function openTarget(id){
+    var el=id&&document.getElementById(id);
+    var d=el&&el.querySelector&&el.querySelector('details');
+    if(d)d.open=true;
+  }
+  navLinks.forEach(function(a){a.addEventListener('click',function(){openTarget(a.getAttribute('href').slice(1))})});
+  window.addEventListener('hashchange',function(){openTarget(location.hash.slice(1))});
+  openTarget(location.hash.slice(1));
+
+  // filter
+  var sel=document.getElementById('filter');
+  function applyFilter(){
+    var mode=sel.value;
+    document.querySelectorAll('.res').forEach(function(r){
+      var show=mode==='all'||(mode==='free'&&r.dataset.free==='1')||(mode==='beg'&&r.dataset.beg==='1')||(mode==='pick'&&r.dataset.pick==='1');
+      r.hidden=!show;
+    });
+    document.querySelectorAll('.group').forEach(function(g){
+      if(g.classList.contains('note-only')){g.hidden=false;return}
+      g.hidden=!g.querySelector('.res:not([hidden])');
+    });
+    document.querySelectorAll('.col').forEach(function(c){
+      c.hidden=mode!=='all'&&!c.querySelector('.res:not([hidden])');
+    });
+    steps.forEach(function(s){
+      var any=s.querySelector('.res:not([hidden])');
+      s.querySelector('.empty').hidden=mode==='all'||!!any;
+    });
+    onScroll();
+  }
+  sel.addEventListener('change',applyFilter);
+
+  // rail progress + current step
+  var ticking=false;
+  function onScroll(){
+    if(ticking)return;ticking=true;
+    requestAnimationFrame(function(){
+      ticking=false;
+      var line=window.innerHeight*0.4;
+      var top=wrap.getBoundingClientRect().top+window.scrollY;
+      var startY=top+40;
+      var y=window.scrollY+line;
+      var h=Math.max(0,Math.min(wrap.offsetHeight-60,y-startY));
+      fill.style.height=h+'px';
+      var current=null;
+      steps.forEach(function(s,i){
+        var st=s.getBoundingClientRect().top+window.scrollY;
+        var reached=y>=st+20;
+        markers[i].classList.toggle('reached',reached);
+        if(y>=st)current=s.id;
+      });
+      var ai=document.getElementById('ai');
+      if(ai&&y>=ai.getBoundingClientRect().top+window.scrollY)current='ai';
+      navLinks.forEach(function(a){
+        if(current&&a.getAttribute('href')==='#'+current)a.setAttribute('aria-current','true');
+        else a.removeAttribute('aria-current');
+      });
+    });
+  }
+  window.addEventListener('scroll',onScroll,{passive:true});
+  window.addEventListener('resize',onScroll);
+  onScroll();
+})();
+</script>
+</body>
+</html>
