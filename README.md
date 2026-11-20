@@ -136,8 +136,9 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 ### 📚 Courses
 
 **Free**
-2. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
-3. Danny Ma SQL Masterclass Course 🌟 [Free][Beginner]- https://github.com/DataWithDanny/sql-masterclass
+1. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
+2. Danny Ma SQL Masterclass Course 🌟 [Free][Beginner]- https://github.com/DataWithDanny/sql-masterclass
+3. StrataScratch Comprehensive SQL [Free][Beginner] - https://www.stratascratch.com/learn/comprehensive-sql
 4. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions - https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
 
 **Paid**
@@ -229,14 +230,18 @@ Python can wait. Get comfortable with SQL, a spreadsheet tool and one BI tool fi
 1. Harvard CS50's Introduction to Programming with Python 🌟 [Free][Beginner-Intermediate] - Free via Harvard's OpenCourseWare. Paid certificate options are on edX - https://cs50.harvard.edu/python
 2. Kaggle Learn: Python [Free][Beginner] - https://www.kaggle.com/learn/python
 3. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
-4. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
-5. Kaggle Learn: Data Cleaning [Free] - A short micro-course on cleaning messy data: missing values, scaling, parsing dates and fixing inconsistent entries - https://www.kaggle.com/learn/data-cleaning
-6. Kaggle Learn: Data Visualization [Free] - A short micro-course on charts in Python with Seaborn - https://www.kaggle.com/learn/data-visualization
+4. StrataScratch Comprehensive Python [Free][Beginner] - https://www.stratascratch.com/learn/comprehensive-python
+5. Kaggle Learn: Python [Free][Beginner] - https://www.kaggle.com/learn/python6
+6. Kaggle Learn: Data Cleaning [Free] - A short micro-course on cleaning messy data: missing values, scaling, parsing dates and fixing inconsistent entries - https://www.kaggle.com/learn/data-cleaning
+7. Kaggle Learn: Data Visualization [Free] - A short micro-course on charts in Python with Seaborn - https://www.kaggle.com/learn/data-visualization
 
 **Paid**
 1. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://mavenanalytics.io/course/python-foundations-for-data-analysis
 2. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid][Intermediate] - https://mavenanalytics.io/course/data-analysis-with-python-pandas
 
+### ⏰ Practice For Technical Interviews
+1. HackerRank Python - https://www.hackerrank.com/domains/python?
+2. 
 ### Books 📕
 1. Wes McKinney's Python for Data Analysis [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also, free to read online on the author's website. Best as a reference once you know the basics - https://www.oreilly.com/library/view/python-for-data/9781098104023/
 
