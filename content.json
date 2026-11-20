@@ -59,52 +59,6 @@
    ]
   },
   {
-   "id": "stats",
-   "nav": "Statistics",
-   "num": 2,
-   "title": "Statistics",
-   "lead": "You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or study them when you come across them during your learning journey.",
-   "groups": [
-    {
-     "name": "YouTube",
-     "items": [
-      {
-       "n": "StatQuest: Statistics Fundamentals",
-       "u": "https://www.youtube.com/@statquest",
-       "d": "Josh Starmer's Statistics Fundamentals playlist covers probability, distributions, sampling and hypothesis testing.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner"
-      }
-     ]
-    },
-    {
-     "name": "Courses",
-     "items": [
-      {
-       "n": "Khan Academy: Statistics and Probability",
-       "u": "https://www.khanacademy.org/math/statistics-probability",
-       "d": "Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner",
-       "start": true
-      },
-      {
-       "n": "Tableau: Data Literacy for All",
-       "u": "https://www.tableau.com/learn/data-literacy",
-       "d": "A free, self-paced course on statistics, data types and storytelling with data. You need a free Tableau account to access it.",
-       "p": [
-        "Free"
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "excel",
    "nav": "Excel & Sheets",
    "num": 2,
@@ -145,9 +99,9 @@
      "name": "YouTube",
      "items": [
       {
-       "n": "Kevin Stratvert",
-       "u": "https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY",
-       "d": "His Excel playlist, with videos for beginners through more experienced users. Covers everyday tasks like pivot tables, shortcuts and functions.",
+       "n": "Kevin Stratvert: Excel",
+       "u": "https://www.youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K",
+       "d": "His Excel playlist, with videos for beginners through more experienced users.",
        "p": [
         "Free"
        ],
@@ -156,23 +110,32 @@
        "start": true
       },
       {
-       "n": "Leila Gharani",
-       "d": "Excel and Google Sheets tutorials from Leila Gharani, a Microsoft MVP.",
+       "n": "Leila Gharani: Excel",
+       "u": "https://www.youtube.com/playlist?list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0",
+       "d": "Excel tutorials from Leila Gharani, a Microsoft MVP.",
        "p": [
         "Free"
        ],
        "s": true,
-       "tool": "Excel + Sheets",
-       "links": [
-        {
-         "l": "Excel playlist",
-         "u": "https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0"
-        },
-        {
-         "l": "Google Sheets playlist",
-         "u": "https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu"
-        }
-       ]
+       "tool": "Excel"
+      },
+      {
+       "n": "Kevin Stratvert: Google Sheets",
+       "u": "https://youtu.be/TENAbUa-R-w",
+       "d": "A Google Sheets tutorial from Kevin Stratvert.",
+       "p": [
+        "Free"
+       ],
+       "tool": "Google Sheets"
+      },
+      {
+       "n": "Leila Gharani: Google Sheets",
+       "u": "https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu",
+       "d": "Google Sheets tutorials from Leila Gharani.",
+       "p": [
+        "Free"
+       ],
+       "tool": "Google Sheets"
       }
      ]
     }
@@ -191,6 +154,53 @@
     ],
     "note": "Power Query is particularly valuable for analysts who repeatedly receive CSV files or Excel exports that need cleaning and combining."
    }
+  },
+  {
+   "id": "stats",
+   "nav": "Statistics",
+   "num": 2,
+   "title": "Statistics",
+   "lead": "You only need the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Study them up front or pick them up as they come up in your learning.",
+   "groups": [
+    {
+     "name": "YouTube",
+     "items": [
+      {
+       "n": "StatQuest: Statistics Fundamentals",
+       "u": "https://www.youtube.com/@statquest",
+       "d": "Josh Starmer's Statistics Fundamentals playlist covers probability, distributions, sampling and hypothesis testing.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner",
+       "s": true
+      }
+     ]
+    },
+    {
+     "name": "Courses",
+     "items": [
+      {
+       "n": "Khan Academy: Statistics and Probability",
+       "u": "https://www.khanacademy.org/math/statistics-probability",
+       "d": "Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner",
+       "start": true
+      },
+      {
+       "n": "Tableau: Data Literacy for All",
+       "u": "https://www.tableau.com/learn/data-literacy",
+       "d": "A free, self-paced course on statistics, data types and storytelling with data. You need a free Tableau account to access it.",
+       "p": [
+        "Free"
+       ]
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "sql",
@@ -274,6 +284,15 @@
        "s": true
       },
       {
+       "n": "StrataScratch: Comprehensive SQL",
+       "u": "https://www.stratascratch.com/learn/comprehensive-sql",
+       "d": "A free structured SQL path with lessons and practice questions, from the basics to window functions.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner"
+      },
+      {
        "n": "ThoughtSpot SQL Tutorial",
        "u": "https://www.thoughtspot.com/sql-tutorial/introduction-to-sql",
        "d": "Business-style questions on real data, good for window functions.",
@@ -329,8 +348,7 @@
        "p": [
         "Free"
        ],
-       "lv": "Beginner",
-       "s": true
+       "lv": "Beginner"
       }
      ]
     },
@@ -452,7 +470,7 @@
       {
        "n": "Tableau Desktop",
        "u": "https://www.tableau.com/products/desktop-free/download",
-       "d": "Tableau's desktop app, available as a free trial."
+       "d": "Tableau's desktop app, available as a 14-day trial."
       },
       {
        "n": "Tableau Public",
@@ -511,7 +529,7 @@
       {
        "n": "Codecademy: Learn Tableau for Data Visualization",
        "u": "https://www.codecademy.com/learn/bi-dashboards-with-tableau",
-       "d": "A short beginner course on building Tableau dashboards. Check whether it's free or Pro-only when you sign up.",
+       "d": "A short beginner course on building Tableau dashboards.",
        "p": [
         "Free"
        ],
@@ -537,7 +555,8 @@
        "d": "Tableau Public features a community visualization most weekdays. Many workbooks can be downloaded to see how they were built.",
        "p": [
         "Free"
-       ]
+       ],
+       "s": true
       },
       {
        "n": "Workout Wednesday",
@@ -629,17 +648,17 @@
        "p": [
         "Free"
        ],
-       "lv": "Beginner",
+       "lv": "Intermediate",
        "s": true
       },
       {
-       "n": "freeCodeCamp: Data Analysis with Python",
-       "u": "https://www.freecodecamp.org/learn/data-analysis-with-python/",
-       "d": "freeCodeCamp's free certification track. You learn NumPy, pandas, Matplotlib and Seaborn, then build projects.",
+       "n": "StrataScratch: Comprehensive Python",
+       "u": "https://www.stratascratch.com/learn/comprehensive-python",
+       "d": "A free structured Python path covering pandas, data wrangling and interview-style problems.",
        "p": [
         "Free"
        ],
-       "lv": "Beginner-Intermediate"
+       "lv": "Beginner"
       },
       {
        "n": "Kaggle Learn: Data Cleaning",
@@ -682,6 +701,16 @@
        ],
        "lv": "Intermediate",
        "opt": true
+      }
+     ]
+    },
+    {
+     "name": "Technical interview practice",
+     "items": [
+      {
+       "n": "HackerRank: Python",
+       "u": "https://www.hackerrank.com/domains/python",
+       "d": "Python practice problems you can solve in your browser."
       }
      ]
     },
