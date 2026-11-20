@@ -249,8 +249,8 @@ Python can wait. Get comfortable with SQL, a spreadsheet tool and one BI tool fi
 2. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid][Intermediate] - https://mavenanalytics.io/course/data-analysis-with-python-pandas
 
 ### ⏰ Practice For Technical Interviews
-1. HackerRank Python - https://www.hackerrank.com/domains/python?
-2. 
+1. HackerRank Python - https://www.hackerrank.com/domains/python
+
 ### Books 📕
 1. Wes McKinney's Python for Data Analysis [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also, free to read online on the author's website. Best as a reference once you know the basics - https://www.oreilly.com/library/view/python-for-data/9781098104023/
 
