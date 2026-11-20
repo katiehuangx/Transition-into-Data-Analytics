@@ -18,8 +18,8 @@ Disclosure: I previously worked on SQL content for DataLemur which appears in th
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#my-advice-on-technical-skills-to-learn)
-- [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
+- [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [Where to Learn SQL?](#-where-to-learn-sql)
 - [Where to Learn Tableau & Power BI?](#-where-to-learn-tableau--power-bi)
 - [Where to Learn Python?](#-where-to-learn-python)
@@ -58,26 +58,14 @@ Thus, I'm sharing the following resources to help you continue your studies afte
 
 In my opinion, you should focus on these skills in the following order:
 1. Excel / Google Sheets (you'll likely use it every week at work)
-2. SQL
-3. Tableau / Power BI (pick one, the skills transfer)
-4. Python
+2. Statistics (basics)
+3. SQL
+4. Tableau / Power BI (pick one, the skills transfer)
+5. Python
 
 I found SQL to be the **easiest and most essential skill** for any data analyst role. It's a crucial language for extracting, manipulating, and analyzing data. Once you understand SQL, you'll have an easier time learning other tools like Tableau, which relies on SQL-style logic for calculated fields.
 
 Python is not always required for data analysts. In some companies, it's only good-to-have, while in others it's a must-have. Learn it if you're aiming at tech companies or at data scientist or data engineer roles.
-
-# 📊 Where to Learn Statistics
-
-You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or, study them when you come across them during your learning journey. 
-
-### 📺 YouTube
-1. StatQuest: Statistics Fundamentals 🌟 [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
-
-### 📚 Courses
-1. Khan Academy: Statistics and Probability [Free][Beginner] - Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing - https://www.khanacademy.org/math/statistics-probability
-2. Tableau Data Literacy for All [Free] - A free, self-paced course on statistics, data types and storytelling with data. You need a free Tableau account - https://www.tableau.com/learn/data-literacy
-
-***
 
 # 📈 Where to Learn Excel & Google Sheets
 
@@ -96,15 +84,36 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 
 **Important:** Power Query is particularly valuable for analysts who repeatedly receive CSV files or Excel exports that need cleaning and combining.
 
+**Excel**
+
+### 📺 YouTube
+1. Kevin Stratvert - Excel 🌟 - https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=qIcIZ-cM7-7n5HBL
+2. Leila Gharani - Excel 🌟 - https://youtube.com/playlist?list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0&si=2cfwjEQTK-aDE5e7
+
+### ✏️ Practice
+2. W3Schools Excel exercises [Free][Beginner] - Short exercises with answers for each chapter - https://www.w3schools.com/Excel/excel_exercises.php
+
+**Google Sheets**
+
 ### 📚 Courses
 1. Getting Started with Google Sheets (Coursera) [Freemium][Beginner] - Free to take with paid option for the certificate, quizzes and projects - https://www.coursera.org/learn/getting-started-with-google-sheets
 
 ### 📺 YouTube
-1. Kevin Stratvert 🌟 - https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY
-2. Leila Gharani 🌟 - https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0, https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu
+1. Kevin Stratvert - Google Sheets - https://youtu.be/TENAbUa-R-w?si=DDl0SpgRNMT2__jM
+2. Leila Gharani - Google Sheets - https://youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu&si=91n6vNLvMh3NN3SG
 
-### ✏️ Practice
-2. W3Schools Excel exercises [Free][Beginner] - Short exercises with answers for each chapter - https://www.w3schools.com/Excel/excel_exercises.php
+***
+
+# 📊 Where to Learn Statistics
+
+You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or, study them when you come across them during your learning journey. 
+
+### 📺 YouTube
+1. StatQuest: Statistics Fundamentals 🌟 [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
+
+### 📚 Courses
+1. Khan Academy: Statistics and Probability [Free][Beginner] - Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing - https://www.khanacademy.org/math/statistics-probability
+2. Tableau Data Literacy for All [Free] - A free, self-paced course on statistics, data types and storytelling with data. You need a free Tableau account - https://www.tableau.com/learn/data-literacy
 
 ***
 
@@ -180,7 +189,7 @@ Tableau and Power BI are business intelligence and data visualization tools that
 Pick one to learn. I recommend you to go with Power BI because it's free to download and most job ads (in Malaysia) are using Power BI. 
 
 Download them here:
-- Tableau Desktop (free trial) - https://www.tableau.com/products/desktop-free/download
+- Tableau Desktop (14-day trial) - https://www.tableau.com/products/desktop-free/download
 - Tableau Public (free, but your work is public) - https://public.tableau.com/app/discover
 - Power BI Desktop (free to download on Windows only; on a Mac, use Power BI in the browser) - https://powerbi.microsoft.com/en-us/desktop/
 
@@ -190,7 +199,7 @@ Download them here:
 
 ### 📚 Tableau - Courses
 1. Tableau official free training videos [Free] - https://www.tableau.com/learn/tutorials
-2. Codecademy Learn Tableau for Data Visualization [Free][Beginner] - Check whether it's free or Pro-only when you sign up - https://www.codecademy.com/learn/bi-dashboards-with-tableau
+2. Codecademy Learn Tableau for Data Visualization [Free][Beginner] - https://www.codecademy.com/learn/bi-dashboards-with-tableau
 
 ### ✨ Tableau Practice & Inspiration
 1. Tableau User Groups [Free] - Community-led meetups, online and in person, where you can learn and ask questions. Sign up for a free account to join - https://www.tableau.com/community/user-groups
@@ -229,7 +238,7 @@ Python can wait. Get comfortable with SQL, a spreadsheet tool and one BI tool fi
 **Free**
 1. Harvard CS50's Introduction to Programming with Python 🌟 [Free][Beginner-Intermediate] - Free via Harvard's OpenCourseWare. Paid certificate options are on edX - https://cs50.harvard.edu/python
 2. Kaggle Learn: Python [Free][Beginner] - https://www.kaggle.com/learn/python
-3. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
+3. Udacity Intro to Data Analysis 🌟 [Free][Intermediate] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 4. StrataScratch Comprehensive Python [Free][Beginner] - https://www.stratascratch.com/learn/comprehensive-python
 5. Kaggle Learn: Python [Free][Beginner] - https://www.kaggle.com/learn/python6
 6. Kaggle Learn: Data Cleaning [Free] - A short micro-course on cleaning messy data: missing values, scaling, parsing dates and fixing inconsistent entries - https://www.kaggle.com/learn/data-cleaning
