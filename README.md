@@ -26,6 +26,7 @@ No course here sponsors me. One disclosure: I previously worked on SQL content f
 
 If you're reading this, you're probably interested in starting a career in data analytics, but don't know where to begin or whether it's the right path for you. I totally get it - I was once in your shoes! 🧐
 
+**👩🏻‍💻 Course**
 To start, I recommend taking a **general data analytics course** like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) which covers spreadsheets, SQL (BigQuery), Tableau and R and has since added AI-assisted modules.
 
 This course provides:
@@ -41,6 +42,12 @@ On average, people complete these in 2 to 6 months and the faster you complete i
 - What you learn from one course is **NOT ENOUGH to get an entry-level job** or pass a technical interview.
 - At most, the course contributed 5-10% to my learning.
 
+**🏕️ Bootcamp**
+
+I highly recommend Alex the Analyst's free [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) on YouTube. It covers SQL, Excel, Tableau, Power BI, Python and portfolio projects. It's an excellent resource if you're new to data analytics or want to improve your skills in any of these tools.
+
+Note: the SQL part starts in Microsoft SQL Server and later added MySQL, so you'll see small syntax differences from other courses below.
+
 Thus, I'm sharing the following resources to help you continue your studies after completing the course.
 
 ## My Advice on Skills to Learn
@@ -54,14 +61,6 @@ In my opinion, you should focus on these skills in the following order:
 I found SQL to be the **easiest and most essential skill** for any data analyst role. It's a crucial language for extracting, manipulating, and analyzing data. Once you understand SQL, you'll have an easier time learning other tools like Tableau, which relies on SQL-style logic for calculated fields.
 
 Python is not always required for data analysts. In some companies, it's only good-to-have, while in others it's a must-have. Learn it if you're aiming at tech companies or at data scientist or data engineer roles.
-
-**Which BI tool should you pick?** Job-posting analyses disagree on whether Tableau or Power BI is ahead and it varies by country and industry. Search job ads in the market you want to work in and learn the one that shows up more. Power BI Desktop is free (Windows) and Tableau Public is free, but everything you save there is public.
-
-**🏕️ Bootcamp**
-
-I highly recommend Alex the Analyst's free [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) on YouTube. It covers SQL, Excel, Tableau, Power BI, Python and portfolio projects. It's an excellent resource if you're new to data analytics or want to improve your skills in any of these tools.
-
-Note: the SQL part starts in Microsoft SQL Server and later added MySQL, so you'll see small syntax differences from other courses below.
 
 # 📈 Where to Learn Excel & Google Sheets
 
