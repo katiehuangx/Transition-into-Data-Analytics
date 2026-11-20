@@ -5,13 +5,13 @@
  "repo": "https://github.com/katiehuangx/Transition-into-Data-Analytics",
  "know_first": {
   "heading": "Before you start",
-  "intro": "Hi, I'm Katie. This is how I'd self-study data analytics, and the resources I'd point a friend to.",
+  "intro": "Hi, I'm Katie. I'm sharing my experience on how I transitioned into data analytics and here are my resources.",
   "points": [
-   "Self-study is hard. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.",
+   "Self-study is challenging. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.",
    "If time is tight, self-study may not be the best route. With consistency and determination it's still doable.",
    "Entry-level roles are competitive. A portfolio of real projects (the last step) matters more than any certificate."
   ],
-  "disclaimer": "No course here sponsors me. One disclosure: I previously worked on SQL content for DataLemur, which appears in the tutorial and interview prep sections. ★ Katie's pick marks resources I've tried myself and recommend."
+  "disclaimer": "No course here sponsors me. Disclosure: I previously worked on SQL content for DataLemur, which appears in the tutorial and interview prep sections. ★ Katie's pick marks resources I've tried myself and recommend."
  },
  "steps": [
   {
@@ -21,7 +21,8 @@
    "title": "Start with a general course",
    "lead": "If you're curious about a data career but don't know where to begin, take a general data analytics course first, like Google's. It gives you an overview of the field, an introduction to the skills and tools you'll learn, a study-at-your-own-pace format and a certificate for your resume.",
    "paras": [
-    "Google's covers spreadsheets, SQL (BigQuery), Tableau and R, and has since added AI-assisted modules. On average people finish it in 2 to 6 months, and the faster you finish, the less you pay."
+    "Google's covers spreadsheets, SQL (BigQuery), Tableau and R, and has since added AI-assisted modules. On average people finish it in 2 to 6 months, and the faster you finish, the less you pay.",
+    "You don't need both options below. Pick one to start, then move on to the steps after it."
    ],
    "callout": {
     "title": "Know what a certificate can and can't do",
@@ -43,7 +44,6 @@
     },
     {
      "name": "Free bootcamp",
-     "note": "The SQL part starts in Microsoft SQL Server and later adds MySQL, so you'll see small syntax differences from the courses below.",
      "items": [
       {
        "n": "Alex the Analyst: Data Analyst Bootcamp",
@@ -75,6 +75,7 @@
         "Free"
        ],
        "s": true,
+       "start": true,
        "links": [
         {
          "l": "Basic",
@@ -103,14 +104,6 @@
        "s": true
       },
       {
-       "n": "freeCodeCamp",
-       "u": "https://www.youtube.com/watch?v=HXV3zeQKqGY&t=12282s",
-       "d": "A 4-hour beginner course by Mike Dane, using MySQL. Covers database basics, creating and updating data, aggregation, nested queries, joins and keys.",
-       "p": [
-        "Free"
-       ]
-      },
-      {
        "n": "DataLemur SQL Tutorial",
        "u": "https://datalemur.com/sql-tutorial",
        "d": "30+ free lessons split into basic, intermediate and advanced. You can run queries in your browser. I previously worked on its SQL content.",
@@ -118,23 +111,14 @@
         "Free"
        ],
        "lv": "Beginner-Advanced",
-       "s": true
+       "s": true,
+       "fmt": "Tutorial"
       }
      ]
     },
     {
-     "name": "Courses",
+     "name": "Free courses",
      "items": [
-      {
-       "n": "This is Serious SQL",
-       "u": "https://www.datawithdanny.com/courses/serious-sql",
-       "d": "I took this course myself and it improved my SQL massively. Taught by Danny Ma of Data With Danny.",
-       "p": [
-        "Paid"
-       ],
-       "lv": "Beginner-Advanced",
-       "s": true
-      },
       {
        "n": "Udacity: SQL for Data Analysis",
        "u": "https://www.udacity.com/course/sql-for-data-analysis--ud198",
@@ -152,75 +136,42 @@
        "p": [
         "Free"
        ],
+       "lv": "Intermediate-Advanced",
        "s": true
       },
       {
        "n": "ThoughtSpot SQL Tutorial",
        "u": "https://www.thoughtspot.com/sql-tutorial/introduction-to-sql",
-       "d": "Business-style questions on real data, good for window functions. Mode was acquired by ThoughtSpot and the tutorial now lives here.",
+       "d": "Business-style questions on real data, good for window functions.",
        "p": [
         "Free"
        ],
        "lv": "Beginner-Intermediate"
-      },
-      {
-       "n": "Kaggle Learn: Intro to SQL",
-       "u": "https://www.kaggle.com/learn/intro-to-sql",
-       "d": "Short, browser-based lessons on real datasets using Google BigQuery. Needs a free Kaggle account.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner"
-      },
+      }
+     ]
+    },
+    {
+     "name": "Paid courses",
+     "items": [
       {
        "n": "Maven Analytics: SQL for Data Analysis",
+       "u": "https://mavenanalytics.io/course/mysql-data-analysis",
        "d": "Hands-on MySQL course. Starts with single-table queries, then moves to JOINs across multiple tables.",
        "p": [
         "Paid"
        ],
        "lv": "Beginner",
-       "s": true,
-       "links": [
-        {
-         "l": "Own platform",
-         "u": "https://mavenanalytics.io/course/mysql-data-analysis",
-         "p": [
-          "Paid"
-         ]
-        },
-        {
-         "l": "Udemy",
-         "u": "https://www.udemy.com/course/mysql-for-data-analysis/",
-         "p": [
-          "Paid"
-         ]
-        }
-       ]
+       "s": true
       },
       {
-       "n": "Maven Analytics: Advanced SQL",
-       "d": "Subqueries, CTEs, window functions. Maven recommends taking their basic MySQL course first.",
+       "n": "This is Serious SQL",
+       "u": "https://www.datawithdanny.com/courses/serious-sql",
+       "d": "I took this course myself and it improved my SQL massively. Taught by Danny Ma of Data With Danny.",
        "p": [
         "Paid"
        ],
        "lv": "Intermediate-Advanced",
-       "s": true,
-       "links": [
-        {
-         "l": "Own platform",
-         "u": "https://mavenanalytics.io/course/sql-advanced-queries",
-         "p": [
-          "Paid"
-         ]
-        },
-        {
-         "l": "Udemy",
-         "u": "https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/",
-         "p": [
-          "Paid"
-         ]
-        }
-       ]
+       "s": true
       }
      ]
     },
@@ -248,15 +199,6 @@
        "s": true
       },
       {
-       "n": "SQL Zoo",
-       "u": "https://sqlzoo.net",
-       "d": "Looks dated, but lets you practise in several SQL dialects.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner-Intermediate"
-      },
-      {
        "n": "SQL Murder Mystery",
        "u": "https://mystery.knightlab.com/walkthrough.html",
        "d": "Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser.",
@@ -265,24 +207,6 @@
        ],
        "lv": "Beginner",
        "s": true
-      },
-      {
-       "n": "SQL Police Department",
-       "u": "https://sqlpd.com",
-       "d": "Solve crimes with SQL. Limited free access, paid plans for the rest.",
-       "p": [
-        "Freemium"
-       ],
-       "lv": "Beginner"
-      },
-      {
-       "n": "SQL Island",
-       "u": "https://sql-island.informatik.uni-kl.de/",
-       "d": "Survive a plane crash and escape the island with SQL. You can switch the language from the menu.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner"
       }
      ]
     },
@@ -311,7 +235,7 @@
       {
        "n": "DataLemur",
        "u": "https://datalemur.com",
-       "d": "Real-world SQL interview questions with detailed solutions and explanations. I previously worked on its SQL content.",
+       "d": "Real-world SQL interview questions with detailed solutions and explanations.",
        "p": [
         "Freemium"
        ],
@@ -327,23 +251,6 @@
        ],
        "lv": "Intermediate-Advanced",
        "s": true
-      },
-      {
-       "n": "Ankit Bansal: Top 10 SQL interview questions",
-       "d": "Video walkthroughs of SQL interview questions by Ankit Bansal, a data engineer at Amazon.",
-       "p": [
-        "Free"
-       ],
-       "links": [
-        {
-         "l": "Video",
-         "u": "https://www.youtube.com/watch?v=Iv9qBz-cyVA"
-        },
-        {
-         "l": "Playlist",
-         "u": "https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb"
-        }
-       ]
       }
      ]
     },
@@ -354,16 +261,26 @@
       {
        "n": "PostgreSQL",
        "u": "https://www.postgresql.org/download/",
-       "d": "Windows, Mac and Linux."
+       "d": "Windows, Mac and Linux.",
+       "p": [
+        "Free"
+       ]
       },
       {
        "n": "MySQL Workbench",
        "u": "https://www.mysql.com/products/workbench/",
-       "d": "Windows and Mac."
+       "d": "Windows and Mac.",
+       "p": [
+        "Free"
+       ]
       },
       {
        "n": "Microsoft SQL Server",
-       "d": "Alex Freberg's course uses it."
+       "u": "https://www.microsoft.com/en-us/sql-server/sql-server-downloads",
+       "d": "Alex Freberg's course uses it. The free Express edition is enough for learning.",
+       "p": [
+        "Free"
+       ]
       }
      ]
     }
@@ -406,7 +323,8 @@
         "Paid"
        ],
        "lv": "Beginner-Intermediate",
-       "tool": "Google Sheets"
+       "tool": "Google Sheets",
+       "opt": true
       }
      ]
     },
@@ -416,7 +334,7 @@
       {
        "n": "Excel Easy",
        "u": "https://www.excel-easy.com/",
-       "d": "An illustrated Excel tutorial with 300 examples, from the basics to functions, data analysis and VBA. No sign-up and no ads.",
+       "d": "An illustrated Excel tutorial with 300 examples, from the basics to functions, data analysis and VBA. No sign-up and no ads. It covers Excel 2007 to 2019, so newer features aren't included.",
        "p": [
         "Free"
        ],
@@ -461,7 +379,8 @@
         "Free"
        ],
        "s": true,
-       "tool": "Excel"
+       "tool": "Excel",
+       "start": true
       },
       {
        "n": "Leila Gharani",
@@ -491,7 +410,7 @@
    "nav": "Statistics",
    "num": 2,
    "title": "Statistics",
-   "lead": "You don't need a statistics degree to be an analyst, but you do need the basics: averages and spread, distributions, sampling, and the difference between correlation and causation. Learn them while you pick up Excel and SQL, then use them on real data.",
+   "lead": "You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or study them when you come across them during your learning journey.",
    "groups": [
     {
      "name": "YouTube",
@@ -499,7 +418,7 @@
       {
        "n": "StatQuest: Statistics Fundamentals",
        "u": "https://www.youtube.com/@statquest",
-       "d": "Josh Starmer's Statistics Fundamentals playlist covers probability, distributions, sampling and hypothesis testing in short, clear videos.",
+       "d": "Josh Starmer's Statistics Fundamentals playlist covers probability, distributions, sampling and hypothesis testing.",
        "p": [
         "Free"
        ],
@@ -517,21 +436,16 @@
        "p": [
         "Free"
        ],
-       "lv": "Beginner"
-      }
-     ]
-    },
-    {
-     "name": "Books",
-     "items": [
+       "lv": "Beginner",
+       "start": true
+      },
       {
-       "n": "OpenIntro Statistics",
-       "u": "https://www.openintro.org/book/os/",
-       "d": "A free textbook of about 400 pages. Its labs use R, so treat it as a reference for the concepts.",
+       "n": "Tableau: Data Literacy for All",
+       "u": "https://www.tableau.com/learn/data-literacy",
+       "d": "A free, self-paced course on statistics, data types and storytelling with data. You need a free Tableau account to access it.",
        "p": [
         "Free"
-       ],
-       "lv": "Beginner-Intermediate"
+       ]
       }
      ]
     }
@@ -544,15 +458,20 @@
    "title": "Tableau or Power BI",
    "lead": "Tableau and Power BI are business intelligence and data visualization tools for building interactive dashboards and reports. Pick one first, because the skills transfer.",
    "paras": [
-    "Which one? Job-posting analyses disagree on whether Tableau or Power BI is ahead, and it varies by country and industry. Search job ads in the market you want to work in and learn the one that shows up more. Power BI Desktop is free (Windows) and Tableau Public is free, but everything you save there is public."
+    "Which one? Pick one to learn. I recommend Power BI because it's free to download and most job ads in Malaysia use it."
    ],
    "groups": [
     {
-     "name": "Free tool",
+     "name": "Tools to download",
      "items": [
       {
+       "n": "Tableau Desktop",
+       "u": "https://www.tableau.com/products/desktop-free/download",
+       "d": "Tableau's desktop app, available as a free trial."
+      },
+      {
        "n": "Tableau Public",
-       "u": "https://public.tableau.com/app/learn/how-to-videos",
+       "u": "https://public.tableau.com/app/discover",
        "d": "Free, but everything you save there is public.",
        "p": [
         "Free"
@@ -561,7 +480,7 @@
       {
        "n": "Power BI Desktop",
        "u": "https://powerbi.microsoft.com/en-us/desktop/",
-       "d": "Free to download. Windows only.",
+       "d": "Free to download. Windows only. On a Mac, use Power BI in the browser or run Windows in a virtual machine.",
        "p": [
         "Free"
        ]
@@ -588,7 +507,8 @@
         "Free"
        ],
        "lv": "Beginner",
-       "s": true
+       "s": true,
+       "start": true
       }
      ]
     },
@@ -596,27 +516,9 @@
      "name": "Tableau courses",
      "items": [
       {
-       "n": "Tableau Free Training Videos",
-       "u": "https://www.tableau.com/learn/training?",
-       "d": "Short official videos from Tableau on connecting to data, building visualizations and dashboards.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner"
-      },
-      {
-       "n": "Salesforce Trailhead: Tableau",
-       "u": "https://trailhead.salesforce.com/content/learn/trailhead-journey/tableau",
-       "d": "Official free learning platform with hands-on challenges you can publish to Tableau Public.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner"
-      },
-      {
        "n": "Tableau official free training videos",
        "u": "https://www.tableau.com/learn/tutorials",
-       "d": "Another way into Tableau's official free training videos.",
+       "d": "Free tutorials and videos from Tableau.",
        "p": [
         "Free"
        ]
@@ -624,16 +526,11 @@
       {
        "n": "Codecademy: Learn Tableau for Data Visualization",
        "u": "https://www.codecademy.com/learn/bi-dashboards-with-tableau",
-       "d": "Check whether it's free or Pro-only when you sign up.",
-       "lv": "Beginner"
-      },
-      {
-       "n": "Tableau Public",
-       "u": "https://public.tableau.com/app/discover",
-       "d": "Browse data visualizations published by the Tableau Public community.",
+       "d": "A short beginner course on building Tableau dashboards. Check whether it's free or Pro-only when you sign up.",
        "p": [
         "Free"
-       ]
+       ],
+       "lv": "Beginner"
       }
      ]
     },
@@ -643,12 +540,27 @@
       {
        "n": "Workout Wednesday",
        "u": "https://www.workout-wednesday.com/",
-       "d": "A weekly challenge to re-create a data visualization. Started in the Tableau community and also runs Power BI challenges."
+       "d": "A weekly challenge to re-create a data visualization. Started in the Tableau community and also runs Power BI challenges.",
+       "p": [
+        "Free"
+       ]
+      },
+      {
+       "n": "Tableau User Groups",
+       "u": "https://www.tableau.com/community/user-groups",
+       "d": "Community-led meetups, online and in person, where you can learn and ask questions. Sign up for a free account to join.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Community"
       },
       {
        "n": "Tableau Viz of the Day",
        "u": "https://public.tableau.com/app/discover/viz-of-the-day",
-       "d": "Tableau Public features a community visualization most weekdays. Many workbooks can be downloaded to see how they were built."
+       "d": "Tableau Public features a community visualization most weekdays. Many workbooks can be downloaded to see how they were built.",
+       "p": [
+        "Free"
+       ]
       }
      ]
     }
@@ -661,7 +573,8 @@
    "title": "Python",
    "lead": "Python is not always required for data analysts. In some companies it's only good-to-have, in others it's a must-have. Learn it if you're aiming at tech companies or at data scientist or data engineer roles.",
    "paras": [
-    "For setup, Alex's bootcamp includes a video on installing Jupyter Notebook and Anaconda. Kaggle's free notebooks also run in your browser with nothing to install."
+    "For setup, Alex's bootcamp includes a video on installing Jupyter Notebook and Anaconda. Kaggle's free notebooks also run in your browser with nothing to install.",
+    "Python can wait. Get comfortable with SQL, a spreadsheet tool and one BI tool first, unless the roles you're aiming for ask for it."
    ],
    "groups": [
     {
@@ -675,7 +588,8 @@
         "Free"
        ],
        "lv": "Beginner",
-       "s": true
+       "s": true,
+       "start": true
       },
       {
        "n": "freeCodeCamp: Learn Python",
@@ -707,7 +621,7 @@
        "p": [
         "Free"
        ],
-       "lv": "Beginner",
+       "lv": "Beginner-Intermediate",
        "s": true
       },
       {
@@ -740,13 +654,28 @@
        "lv": "Beginner-Intermediate"
       },
       {
-       "n": "WorldQuant University: Data Science Lab",
-       "u": "https://www.wqu.edu/adsl",
-       "d": "Formerly Applied Data Science Lab. 16 weeks and project-based. You need to apply, pass an admissions quiz and have beginner Python and basic statistics first.",
+       "n": "Kaggle Learn: Pandas",
+       "u": "https://www.kaggle.com/learn/pandas",
+       "d": "A short micro-course on pandas, the main Python library for working with tables of data. About 4 hours, in the browser.",
        "p": [
         "Free"
-       ],
-       "lv": "Intermediate-Advanced"
+       ]
+      },
+      {
+       "n": "Kaggle Learn: Data Cleaning",
+       "u": "https://www.kaggle.com/learn/data-cleaning",
+       "d": "A short micro-course on cleaning messy data: missing values, scaling, parsing dates and fixing inconsistent entries. About 4 hours.",
+       "p": [
+        "Free"
+       ]
+      },
+      {
+       "n": "Kaggle Learn: Data Visualization",
+       "u": "https://www.kaggle.com/learn/data-visualization",
+       "d": "A short micro-course on charts in Python with Seaborn. About 4 hours.",
+       "p": [
+        "Free"
+       ]
       }
      ]
     },
@@ -761,7 +690,8 @@
         "Paid"
        ],
        "lv": "Beginner",
-       "s": true
+       "s": true,
+       "opt": true
       },
       {
        "n": "Maven Analytics: Data Analysis with Python: NumPy & Pandas",
@@ -770,16 +700,9 @@
        "p": [
         "Paid"
        ],
-       "s": true
-      },
-      {
-       "n": "Maven Analytics: Data Visualization with Matplotlib & Seaborn",
-       "u": "https://mavenanalytics.io/course/data-visualization-with-matplotlib-seaborn",
-       "d": "Project-based course on visualizing data in Python with Matplotlib and Seaborn.",
-       "p": [
-        "Paid"
-       ],
-       "s": true
+       "lv": "Intermediate",
+       "s": true,
+       "opt": true
       }
      ]
     },
@@ -789,12 +712,9 @@
       {
        "n": "Python for Data Analysis, 3rd edition (Wes McKinney)",
        "u": "https://www.oreilly.com/library/view/python-for-data/9781098104023/",
-       "d": "The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also free to read online on the author's website.",
+       "d": "The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also free to read online on the author's website. Best as a reference once you know the basics.",
        "lv": "Intermediate",
-       "extra": {
-        "l": "Code on GitHub",
-        "u": "https://github.com/wesm/pydata-book"
-       }
+       "later": true
       }
      ]
     }
@@ -806,6 +726,9 @@
    "num": 5,
    "title": "Build a portfolio on GitHub",
    "lead": "A portfolio shows potential employers or clients what you can actually do, and GitHub is a good place to keep it. Start with the guide, then use my own portfolio as a model for structure and content.",
+   "paras": [
+    "Once you have a project, practise explaining it. Below are datasets to build on, a book on presenting data, interview questions beyond SQL and a guide to writing your resume."
+   ],
    "groups": [
     {
      "name": "Guides",
@@ -813,12 +736,75 @@
       {
        "n": "How to create a GitHub portfolio",
        "u": "https://github.com/katiehuangx/How-to-Create-a-GitHub-Portfolio/blob/main/README.md",
-       "d": "My step-by-step guide to setting up a portfolio on GitHub."
+       "d": "My step-by-step guide to setting up a portfolio on GitHub.",
+       "p": [
+        "Free"
+       ],
+       "start": true
       },
       {
        "n": "My portfolio",
        "u": "https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md",
-       "d": "For inspiration on structure and content."
+       "d": "For inspiration on structure and content.",
+       "p": [
+        "Free"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Practice datasets",
+     "items": [
+      {
+       "n": "Maven Analytics: Data Playground",
+       "u": "https://mavenanalytics.io/data-playground",
+       "d": "Free sample datasets picked by Maven instructors, from flight delays to movie ratings. Good raw material for a portfolio project.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      }
+     ]
+    },
+    {
+     "name": "Books",
+     "items": [
+      {
+       "n": "Storytelling with Data (Cole Nussbaumer Knaflic)",
+       "u": "https://www.storytellingwithdata.com/",
+       "d": "A guide to explaining data clearly with charts and a story. A 10th anniversary edition came out in January 2026.",
+       "p": [
+        "Paid"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "Interview questions beyond SQL",
+     "items": [
+      {
+       "n": "Dataquest: 40+ data analyst interview questions",
+       "u": "https://www.dataquest.io/blog/data-analyst-interview-questions-and-answers/",
+       "d": "An entry-level guide with questions on SQL, Python, statistics, business sense and behavioural topics. It comes from a course provider, so read it as a free guide.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Article"
+      }
+     ]
+    },
+    {
+     "name": "Resume help",
+     "items": [
+      {
+       "n": "Dataquest: How to write a data analyst resume",
+       "u": "https://www.dataquest.io/blog/data-analyst-resume/",
+       "d": "A guide for career changers and entry-level candidates without analyst job titles. Covers resume structure, bullet writing, skills and applicant tracking system (ATS) formatting.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner",
+       "fmt": "Article"
       }
      ]
     }
@@ -834,11 +820,6 @@
    "Learn SQL first. Then use AI as a tutor and a second pair of eyes, and always read and run the SQL or code it gives you.",
    "Don't paste confidential company data or personal information into a public AI tool.",
    "Google's Data Analytics certificate now includes modules on using AI for cleaning data, formulas and visualizations."
-  ],
-  "item": {
-   "n": "IBM: Generative AI for Data Analysts",
-   "u": "https://www.coursera.org/specializations/generative-ai-for-data-analysts",
-   "d": "A structured option if you want a course."
-  }
+  ]
  }
 }
