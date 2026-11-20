@@ -3,6 +3,7 @@
 _(updated 18 Nov 2026)_
 
 Hi, I'm Katie. I'm sharing my experience on how I transitioned into data analytics and here are my resources.
+
 "🌟 Katie's pick" marks resources I've tried myself and recommend.
 
 What you should know before you start:
