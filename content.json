@@ -5,14 +5,13 @@
  "repo": "https://github.com/katiehuangx/Transition-into-Data-Analytics",
  "know_first": {
   "heading": "Before you start",
-  "intro": "Hello, I'm Katie. This is my personal approach to self-studying data analytics, and the resources I'd point a friend to.",
+  "intro": "Hi, I'm Katie. This is how I'd self-study data analytics, and the resources I'd point a friend to.",
   "points": [
-   "Self-study is hard. There is no syllabus, instructor or classmates, so you have to find your own answers and fix your own errors.",
-   "It takes resourcefulness to find solutions and troubleshoot errors.",
-   "If time is tight, self-study may not be the best option. With consistency, hard work and determination it is still achievable.",
-   "Entry-level roles are competitive. A portfolio of real projects (last step) matters more than any certificate."
+   "Self-study is hard. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.",
+   "If time is tight, self-study may not be the best route. With consistency and determination it's still doable.",
+   "Entry-level roles are competitive. A portfolio of real projects (the last step) matters more than any certificate."
   ],
-  "disclaimer": "I'm not an expert, just someone who is passionate about data analysis and wants to help others making this move. I'm not sponsored to recommend any course here. One disclosure: I previously worked on SQL content for DataLemur, which is listed in the tutorial and interview-prep sections. Resources I've personally tried and recommend are marked with a star."
+  "disclaimer": "No course here sponsors me. One disclosure: I previously worked on SQL content for DataLemur, which appears in the tutorial and interview prep sections. A star marks resources I've tried myself and recommend."
  },
  "steps": [
   {

@@ -2,13 +2,14 @@
 
 _(updated 18 Nov 2026)_
 
-Hello, I'm Katie and I'm sharing my experience and approach to self-studying for data analytics.
+Hi, I'm Katie. This is how I'd self-study data analytics, and the resources I'd point a friend to.
 
 **🧐 What You Should Know**
-- Self-studying can be **challenging** because you're on your own without any syllabus, instructors or classmates to guide you.
-- It requires resourcefulness in finding solutions and troubleshooting errors.
-- If time is a constraint, self-study may not be the best option. However, with consistency, hard work and determination, it is achievable.
-- Entry-level roles are competitive. A portfolio of real projects (see the last section) matters more than any certificates.
+- Self-study is **hard**. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.
+- If time is tight, self-study may not be the best route. With consistency and determination it's still doable.
+- Entry-level roles are competitive. A portfolio of real projects (see the last section) matters more than any certificate.
+
+No course here sponsors me. One disclosure: I previously worked on SQL content for DataLemur, which appears in the tutorial and interview prep sections. A 🌟 marks resources I've tried myself and recommend.
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
