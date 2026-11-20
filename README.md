@@ -1,18 +1,14 @@
 # How I Transition into Data Analytics (Self-Study Route)
 
-_(updated on 18 Nov 2026)_
+_(updated 18 Nov 2026)_
 
-Hello, I'm Katie and I'm sharing my personal experience and approach to self-studying for data analytics.
+Hello, I'm Katie and I'm sharing my experience and approach to self-studying for data analytics.
 
 **🧐 What You Should Know**
 - Self-studying can be **challenging** because you are on your own without any syllabus, instructors or classmates to guide you.
 - It requires resourcefulness in finding solutions and troubleshooting errors.
 - If time is a constraint, self-study may not be the best option. However, with consistency, hard work and determination, it is achievable.
-- Entry-level roles are competitive. A portfolio of real projects (see the last section) matters as much as any certificate.
-
-**Disclaimer**: I'm not an expert, just someone who is passionate about data analysis and wants to help others who are transitioning into this field.
-
-**Another important note:** I'm not sponsored to recommend any of the courses mentioned below. One disclosure: I previously worked on SQL content for DataLemur which is listed in the tutorial and interview-prep sections.
+- Entry-level roles are competitive. A portfolio of real projects (see the last section) matters more than any certificates.
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
@@ -29,17 +25,17 @@ Hello, I'm Katie and I'm sharing my personal experience and approach to self-stu
 
 If you're reading this, you're probably interested in starting a career in data analytics, but don't know where to begin or whether it's the right path for you. I totally get it - I was once in your shoes! 🧐
 
-To start, I recommend taking a **general data analytics course** like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) or the [IBM Data Analyst](https://www.coursera.org/professional-certificates/ibm-data-analyst) certificate. I started with Google's course as it was released more recently in 2021.
+To start, I recommend taking a **general data analytics course** like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics). 
 
-Both courses provide:
+This course provides:
 - An **overview of data analytics**
-- An **introduction to the skills/tools** you need to learn
+- An **introduction to the skills and tools** you'll learn
 - Flexible, study-at-your-own-pace courses
-- A certificate you can put on your CV
+- A certificate you can put on your resume
 
-Both are on Coursera. At the time of writing, Coursera Plus was listed at around USD 59/month with a free trial and Google's certificate is included in it. Prices change often, so check the course page. Financial aid may also be available. On average, people complete these in 2 to 6 months and the faster you complete it, the less you pay. 😇
+At the time of writing, Coursera Plus was listed at around USD 59/month with a free trial and Google's certificate is included in it. Prices change often, so check the course page. Financial aid may also be available. On average, people complete these in 2 to 6 months and the faster you complete it, the less you pay. 😇
 
-**💡 My Experience**
+**💡 My Experience with the course**
 
 I found Google's course very helpful, especially since I'm a visual learner. It covers spreadsheets, SQL (BigQuery), Tableau and R and has since added AI-assisted modules. You'll still need additional courses for in-depth knowledge. IBM's certificate takes a different route and includes a generative-AI-for-analysts course.
 
