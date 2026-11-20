@@ -2,7 +2,7 @@
 
 _(updated 18 Nov 2026)_
 
-Hi, I'm Katie. This is how I'd self-study data analytics and the resources I'd point a friend to.
+Hi, I'm Katie. I'm sharing my experience on how I study data analytics and my resources.
 
 **🧐 What You Should Know**
 - Self-study is challengingd. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.
@@ -46,8 +46,6 @@ On average, people complete these in 2 to 6 months and the faster you complete i
 
 I highly recommend Alex the Analyst's free [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) on YouTube. It covers SQL, Excel, Tableau, Power BI, Python and portfolio projects. It's an excellent resource if you're new to data analytics or want to improve your skills in any of these tools.
 
-Note: the SQL part starts in Microsoft SQL Server and later added MySQL, so you'll see small syntax differences from other courses below.
-
 Thus, I'm sharing the following resources to help you continue your studies after completing the course.
 
 ## My Advice on Skills to Learn
@@ -86,16 +84,13 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 
 # 📊 Where to Learn Statistics
 
-You don't need a statistics degree to be an analyst, but you do need the basics: averages and spread, distributions, sampling, and the difference between correlation and causation. Learn them while you pick up Excel and SQL, then use them on real data.
+You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or, study them when you come across them during your learning journey. 
 
 ### 📺 YouTube
-1. StatQuest: Statistics Fundamentals [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing in short, clear videos - https://www.youtube.com/@statquest
+1. StatQuest: Statistics Fundamentals [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
 
 ### 📚 Courses
 1. Khan Academy: Statistics and Probability [Free][Beginner] - Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing - https://www.khanacademy.org/math/statistics-probability
-
-### 📕 Books
-1. OpenIntro Statistics [Free][Beginner-Intermediate] - A free textbook of about 400 pages. Its labs use R, so treat it as a reference for the concepts - https://www.openintro.org/book/os/
 
 ***
 
@@ -114,19 +109,22 @@ You don't need a statistics degree to be an analyst, but you do need the basics:
 4. DataLemur SQL Tutorial 🌟 [Beginner-Advanced] - https://datalemur.com/sql-tutorial
 
 ### 📚 Courses
-1. This is Serious SQL 🌟 [Paid][Beginner-Advanced] - I highly recommend this course. I myself took this and it improved my SQL massively - https://www.datawithdanny.com/courses/serious-sql
+
+**Free**
+1. DataCamp Introduction to SQL [Free][Beginner] - https://app.datacamp.com/learn/courses/introduction-to-sql
 2. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
-3. Danny Ma SQL Masterclass Course 🌟 [Free] - https://github.com/DataWithDanny/sql-masterclass
-4. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions. Mode was acquired by ThoughtSpot and the tutorial now lives here: https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
-5. Kaggle Learn: Intro to SQL [Free][Beginner] - Short, browser-based lessons on real datasets using Google BigQuery. Needs a free Kaggle account - https://www.kaggle.com/learn/intro-to-sql
-6. Maven Analytics SQL for Data Analysis 🌟 [Paid][Beginner]: https://mavenanalytics.io/course/mysql-data-analysis
-7. Maven Analytics Advanced SQL 🌟 [Paid][Intermediate-Advanced] - Subqueries, CTEs, window functions - https://mavenanalytics.io/course/sql-advanced-queries
+3. Danny Ma SQL Masterclass Course 🌟 [Free][Intermediate-Advanced] - https://github.com/DataWithDanny/sql-masterclass
+4. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions - https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
+5. Kaggle Learn: Intro to SQL [Free][Beginner] - Short, browser-based lessons on real datasets using Google BigQuery - https://www.kaggle.com/learn/intro-to-sql
+
+**Paid**
+1. Maven Analytics SQL for Data Analysis 🌟 [Paid][Beginner]: https://mavenanalytics.io/course/mysql-data-analysis
+2. This is Serious SQL 🌟 [Paid][Intermediate-Advanced] - I highly recommend this course. I myself took this and it improved my SQL massively - https://www.datawithdanny.com/courses/serious-sql
 
 ### ✏️ Practice Your SQL
 1. SQL Bolt 🌟 [Free][Beginner-Intermediate] - Absolute beginners; interactive lessons - https://sqlbolt.com/
 2. Select Star SQL 🌟 [Free][Beginner-Intermediate] - https://selectstarsql.com/
-3. ThoughtSpot [Free][Beginner-Advanced] - Really cool-looking website - https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
-4. SQL Murder Mystery 🌟 [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser. - https://mystery.knightlab.com/walkthrough.html
+3. SQL Murder Mystery 🌟 [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser. - https://mystery.knightlab.com/walkthrough.html
 
 ### 📝 Portfolio Projects
 1. 8-Week SQL Challenge 🌟 [Free][Intermediate-Advanced] - 8 different SQL case studies designed to improve your SQL skills. - https://8weeksqlchallenge.com
@@ -134,9 +132,8 @@ You don't need a statistics degree to be an analyst, but you do need the basics:
 (You can check out my Github repo for solutions: [https://github.com/katiehuangx/8-Week-SQL-Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge))
 
 ### ⏰ Practice For Technical Interviews
-1. DataLemur 🐒 (I previously worked on its SQL content) 🌟 [Freemium][Intermediate-Advanced] - Real-world SQL interview questions with detailed solutions and explanations - https://datalemur.com
+1. DataLemur 🌟 [Freemium][Intermediate-Advanced] - Real-world SQL interview questions with detailed solutions and explanations - https://datalemur.com
 2. StrataScratch 🌟 [Freemium][Intermediate-Advanced] - Large bank of interview questions across SQL and Python. Free tier plus paid plans - https://platform.stratascratch.com/coding?code_type=1
-3. Ankit Bansal Top 10 SQL Interview Questions - https://www.youtube.com/watch?v=Iv9qBz-cyVA, https://www.youtube.com/playlist?list=PLBTZqjSKn0IeKBQDjLmzisazhqQy4iGkb
 
 ### 💻 Which SQL Software to Use?
 
@@ -157,7 +154,9 @@ Tableau and Power BI are business intelligence and data visualization tools that
 
 Job-posting analyses disagree on whether Tableau or Power BI is ahead and it varies by country and industry. Search job ads in the market you want to work in and learn the one that shows up more. Power BI Desktop is free (Windows) and Tableau Public is free, but everything you save there is public.
 
-- Tableau Public (free, but your work is public) - https://public.tableau.com/app/learn/how-to-videos
+Download them here:
+- Tableau Desktop (free trial) - https://www.tableau.com/products/desktop-free/download
+- Tableau Public (free, but your work is public) - https://public.tableau.com/app/discover
 - Power BI Desktop (free to download) - https://powerbi.microsoft.com/en-us/desktop/
 
 ### 📺 Tableau - YouTube
@@ -165,11 +164,9 @@ Job-posting analyses disagree on whether Tableau or Power BI is ahead and it var
 2. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
 
 ### 📚 Tableau - Courses
-1. Tableau Free Training Videos [Free][Beginner] - https://www.tableau.com/learn/training?
-2. Salesforce Trailhead: Tableau [Free][Beginner] - Official free learning platform with hands-on challenges you can publish to Tableau Public - https://trailhead.salesforce.com/content/learn/trailhead-journey/tableau
-3. Tableau official free training videos [Free] - https://www.tableau.com/learn/tutorials
-4. Codecademy Learn Tableau for Data Visualization [Free][Beginner] - Check whether it's free or Pro-only when you sign up - https://www.codecademy.com/learn/bi-dashboards-with-tableau
-5. Tableau Public [Free] - https://public.tableau.com/app/discover
+1. DataCamp Introduction to Tableau [Free][Beginner] - https://app.datacamp.com/learn/courses/introduction-to-tableau
+1. Tableau official free training videos [Free] - https://www.tableau.com/learn/tutorials
+2. Codecademy Learn Tableau for Data Visualization [Free][Beginner] - Check whether it's free or Pro-only when you sign up - https://www.codecademy.com/learn/bi-dashboards-with-tableau
 
 ### ✨ Tableau Practice & Inspiration
 1. Workout Wednesday - https://www.workout-wednesday.com/
@@ -188,7 +185,8 @@ For setup, Alex's bootcamp includes a video on installing Jupyter Notebook/Anaco
 ### 📚 Courses
 
 **Free**
-1. Harvard CS50's Introduction to Programming with Python 🌟 [Free][Beginner] - Free via Harvard's OpenCourseWare. Paid certificate options are on edX. - https://cs50.harvard.edu/python
+1. DataCamp Introduction to Python [Free][Beginner] - https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
+1. Harvard CS50's Introduction to Programming with Python 🌟 [Free][Beginner-Intermediate] - Free via Harvard's OpenCourseWare. Paid certificate options are on edX. - https://cs50.harvard.edu/python
 2. Kaggle Learn: Python 🌟 [Free][Beginner] - Short hands-on micro-courses in the browser on real datasets - https://www.kaggle.com/learn/python
 3. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 4. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
@@ -198,7 +196,7 @@ For setup, Alex's bootcamp includes a video on installing Jupyter Notebook/Anaco
 2. Maven Analytics Data Analysis with Python: NumPy & Pandas 🌟 [Paid][Intermediate] - https://mavenanalytics.io/course/data-analysis-with-python-pandas
 
 ### Books 📕
-1. Wes McKinney's Python for Data Analysis, **3rd Edition** [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also free to read online on the author's website - https://www.oreilly.com/library/view/python-for-data/9781098104023/ and code at https://github.com/wesm/pydata-book
+1. Wes McKinney's Python for Data Analysis, **3rd Edition** [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also, free to read online on the author's website - https://www.oreilly.com/library/view/python-for-data/9781098104023/
 
 ***
 
@@ -209,7 +207,6 @@ AI tools can now write SQL, Excel formulas and Python for you. That makes learni
 - Learn SQL first. Then, use AI as a tutor and a second pair of eyes, and always read and run the SQL or code it gives you.
 - Don't paste confidential company data or personal information into a public AI tool.
 - Google's Data Analytics certificate now includes modules on using AI for cleaning data, formulas and visualizations.
-- IBM's [Generative AI for Data Analysts](https://www.coursera.org/specializations/generative-ai-for-data-analysts) specialization is a structured option if you want a course.
 
 ***
 
