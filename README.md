@@ -18,8 +18,8 @@ Disclosure: I previously worked on SQL content for DataLemur which appears in th
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#my-advice-on-technical-skills-to-learn)
-- [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
 - [Where to Learn Statistics?](#-where-to-learn-statistics)
+- [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
 - [Where to Learn SQL?](#-where-to-learn-sql)
 - [Where to Learn Tableau & Power BI?](#-where-to-learn-tableau--power-bi)
 - [Where to Learn Python?](#-where-to-learn-python)
@@ -66,22 +66,6 @@ I found SQL to be the **easiest and most essential skill** for any data analyst 
 
 Python is not always required for data analysts. In some companies, it's only good-to-have, while in others it's a must-have. Learn it if you're aiming at tech companies or at data scientist or data engineer roles.
 
-# 📈 Where to Learn Excel & Google Sheets
-
-Excel is still one of the most common skills in data analyst job ads, so don't skip it.
-
-### 📚 Courses
-1. Getting Started with Google Sheets (Coursera) [Freemium][Beginner] - Free to take with paid option for the certificate, quizzes and projects - https://www.coursera.org/learn/getting-started-with-google-sheets
-
-### 📺 YouTube
-1. Kevin Stratvert 🌟 - https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY
-2. Leila Gharani 🌟 - https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0, https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu
-
-### ✏️ Practice
-2. W3Schools Excel exercises [Free][Beginner] - Short exercises with answers for each chapter - https://www.w3schools.com/Excel/excel_exercises.php
-
-***
-
 # 📊 Where to Learn Statistics
 
 You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or, study them when you come across them during your learning journey. 
@@ -95,9 +79,50 @@ You can just study the basics: averages and spread, distributions, sampling and 
 
 ***
 
+# 📈 Where to Learn Excel & Google Sheets
+
+Excel is still one of the most common skills in data analyst job ads, so don't skip it.
+
+### 🎯 Skills to Learn
+- Lookup: XLOOKUP, INDEX/MATCH.
+- Conditional formulas: SUMIFS, COUNTIFS, AVERAGEIFS, IF, IFS.
+- Dynamic arrays: FILTER, SORT, UNIQUE, SEQUENCE.
+- Text and date manipulation.
+- PivotTables and PivotCharts.
+- Power Query for cleaning and transforming data.
+- Data validation and conditional formatting.
+- Google Sheets QUERY, ARRAYFORMULA, FILTER and IMPORTRANGE.
+- Basic automation using Office Scripts or Google Apps Script.
+
+**Important:** Power Query is particularly valuable for analysts who repeatedly receive CSV files or Excel exports that need cleaning and combining.
+
+### 📚 Courses
+1. Getting Started with Google Sheets (Coursera) [Freemium][Beginner] - Free to take with paid option for the certificate, quizzes and projects - https://www.coursera.org/learn/getting-started-with-google-sheets
+
+### 📺 YouTube
+1. Kevin Stratvert 🌟 - https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY
+2. Leila Gharani 🌟 - https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0, https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu
+
+### ✏️ Practice
+2. W3Schools Excel exercises [Free][Beginner] - Short exercises with answers for each chapter - https://www.w3schools.com/Excel/excel_exercises.php
+
+***
+
 # 📕 Where to Learn SQL
 
 🌟 is my tried-and-tested favourite.
+
+### 🎯 Skills to Learn
+- Querying: SELECT, WHERE, ORDER BY, LIMIT.
+- Aggregation: COUNT, SUM, AVG, GROUP BY, HAVING.
+- Joins: INNER JOIN and LEFT JOIN, and when to use each.
+- Conditional logic: CASE WHEN.
+- Subqueries and CTEs.
+- Window functions: ROW_NUMBER, RANK, LAG, LEAD, running totals.
+- Dates and strings: date functions, string functions.
+- Cleaning data: NULLs, duplicates, DISTINCT, COALESCE.
+
+**Important:** Joins and window functions come up most often in interviews.
 
 ### 📺 Tutorial
 1. Alex Freberg 🌟
@@ -171,6 +196,9 @@ Download them here:
 2. Tableau Viz of the Day [Free] - https://public.tableau.com/app/discover/viz-of-the-day
 3. Workout Wednesday [Free] - https://www.workout-wednesday.com/
 
+### 📕 Books
+1. Storytelling with Data (Cole Nussbaumer Knaflic) [Paid] - A guide to explaining data clearly with charts and a story. A 10th anniversary edition came out in January 2026 - https://www.storytellingwithdata.com/
+
 ***
 
 # 🐍 Where to Learn Python
@@ -178,6 +206,18 @@ Download them here:
 For setup, Alex's [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) includes a video on installing Jupyter Notebook/Anaconda. Kaggle's free notebooks also run in your browser with nothing to install.
 
 Python can wait. Get comfortable with SQL, a spreadsheet tool and one BI tool first, unless the roles you're aiming for ask for it.
+
+### 🎯 Skills to Learn
+- Basics: variables, data types, loops, functions, lists and dictionaries.
+- pandas: loading CSV and Excel files, filtering, sorting.
+- Cleaning data: missing values, duplicates, data types, dates and text.
+- Combining and summarising: groupby, merge, pivot tables.
+- NumPy basics.
+- Charts with matplotlib or seaborn.
+- Working in Jupyter notebooks.
+- Loading SQL query results into pandas.
+
+**Important:** pandas is the part analysts use most, so spend most of your time there.
 
 ### 📺 YouTube
 1. Programming with Mosh 🌟 [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
@@ -220,7 +260,7 @@ Check out this guide on how to create a portfolio on GitHub: https://github.com/
 
 You can also refer to my [portfolio](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md) for inspiration on structure and content.
 
-Once you have a project, practise explaining it. Here are datasets to build on, a book on presenting data, interview questions beyond SQL and a guide to writing your resume.
+Once you have a project, practise explaining it. Here are datasets to build on.
 
 ### 📊 Practice Datasets
 
@@ -236,15 +276,6 @@ Once you have a project, practise explaining it. Here are datasets to build on, 
 2. Kaggle Datasets [Free] - A huge library of public datasets. You can browse without an account, but you need a free account to download - https://www.kaggle.com/datasets
 3. Google Dataset Search [Free] - A search engine for datasets, wherever they're hosted. Use it when you have a topic but no data - https://datasetsearch.research.google.com/
 4. Maven Analytics Data Playground [Free] - Free sample datasets picked by Maven instructors, from flight delays to movie ratings. Good raw material for a portfolio project - https://mavenanalytics.io/data-playground
-
-### 📕 Books
-1. Storytelling with Data (Cole Nussbaumer Knaflic) [Paid] - A guide to explaining data clearly with charts and a story. A 10th anniversary edition came out in January 2026 - https://www.storytellingwithdata.com/
-
-### ⏰ Interview Questions Beyond SQL
-1. Dataquest: 40+ data analyst interview questions [Free] - An entry-level guide with questions on SQL, Python, statistics, business sense and behavioural topics. It comes from a course provider, so read it as a free guide - https://www.dataquest.io/blog/data-analyst-interview-questions-and-answers/
-
-### 📄 Resume Help
-1. Dataquest: How to write a data analyst resume [Free][Beginner] - A guide for career changers and entry-level candidates without analyst job titles. It covers resume structure, bullet writing, skills and applicant tracking system (ATS) formatting - https://www.dataquest.io/blog/data-analyst-resume/
 
 ***
 
