@@ -470,7 +470,10 @@
       {
        "n": "Tableau Desktop",
        "u": "https://www.tableau.com/products/desktop-free/download",
-       "d": "Tableau's desktop app, available as a 14-day trial."
+       "d": "Tableau's desktop app, free to download.",
+       "p": [
+        "Free"
+       ]
       },
       {
        "n": "Tableau Public",
