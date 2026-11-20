@@ -2,12 +2,7 @@
 
 _(updated 18 Nov 2026)_
 
-Hi, I'm Katie. I'm sharing my experience on how I study data analytics and my resources.
-
-**🧐 What You Should Know**
-- Self-study is challenging. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.
-- If time is tight, self-study may not be the best route. With consistency and determination, it's still doable. 😊
-- Entry-level roles are competitive. A portfolio of real projects (see [How to Create a Portfolio on GitHub?](#how-to-create-a-portfolio-on-github)) matters more than any certificate.
+Hi, I'm Katie. I'm sharing my experience on how I transitioned into data analytics and here are my resources.
 
 No course here sponsors me. One disclosure: I previously worked on SQL content for DataLemur which appears in the tutorial and interview prep sections. 
 
