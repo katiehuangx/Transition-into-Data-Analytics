@@ -5,6 +5,11 @@ _(updated 18 Nov 2026)_
 Hi, I'm Katie. I'm sharing my experience on how I transitioned into data analytics and here are my resources.
 "🌟 Katie's pick" marks resources I've tried myself and recommend.
 
+What you should know before you start:
+- Self-study is challenging. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.
+- If time is tight, self-study may not be the best route. With consistency and determination it's still doable.
+- Entry-level roles are competitive. A portfolio of real projects (the last step) matters more than any certificate.
+
 No course here sponsors me. 
 
 Disclosure: I previously worked on SQL content for DataLemur which appears in the tutorial and interview prep sections. 
@@ -103,17 +108,14 @@ You can just study the basics: averages and spread, distributions, sampling and 
 - Advanced - A 4-part video series that covers advanced SQL topics such as window functions, recursive queries, and common table expressions - https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU
 
 2. Programming with Mosh 🌟 - A 3-hour course that covers the basics of SQL - https://www.youtube.com/watch?v=7S_tz1z_5bA&t=44s
-3. freeCodeCamp - 4-hour course - https://www.youtube.com/watch?v=HXV3zeQKqGY&t=12282s
-4. DataLemur SQL Tutorial 🌟 [Beginner-Advanced] - https://datalemur.com/sql-tutorial
+3. DataLemur SQL Tutorial 🌟 [Beginner-Advanced] - https://datalemur.com/sql-tutorial
 
 ### 📚 Courses
 
 **Free**
-1. DataCamp Introduction to SQL [Free][Beginner] - https://app.datacamp.com/learn/courses/introduction-to-sql
 2. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
 3. Danny Ma SQL Masterclass Course 🌟 [Free][Intermediate-Advanced] - https://github.com/DataWithDanny/sql-masterclass
 4. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions - https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
-5. Kaggle Learn: Intro to SQL [Free][Beginner] - Short, browser-based lessons on real datasets using Google BigQuery - https://www.kaggle.com/learn/intro-to-sql
 
 **Paid**
 1. Maven Analytics SQL for Data Analysis 🌟 [Paid][Beginner]: https://mavenanalytics.io/course/mysql-data-analysis
@@ -150,7 +152,7 @@ The basics are the same across all of them. Pick the one your course uses and le
 
 Tableau and Power BI are business intelligence and data visualization tools that let you build interactive dashboards and reports. 
 
-Job-posting analyses disagree on whether Tableau or Power BI is ahead and it varies by country and industry. Search job ads in the market you want to work in and learn the one that shows up more. Power BI Desktop is free (Windows) and Tableau Public is free, but everything you save there is public.
+Pick one to learn. I recommend you to go with Power BI because it's free to download and most job ads (in Malaysia) is using Power BI. 
 
 Download them here:
 - Tableau Desktop (free trial) - https://www.tableau.com/products/desktop-free/download
@@ -162,7 +164,6 @@ Download them here:
 2. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
 
 ### 📚 Tableau - Courses
-1. DataCamp Introduction to Tableau [Free][Beginner] - https://app.datacamp.com/learn/courses/introduction-to-tableau
 1. Tableau official free training videos [Free] - https://www.tableau.com/learn/tutorials
 2. Codecademy Learn Tableau for Data Visualization [Free][Beginner] - Check whether it's free or Pro-only when you sign up - https://www.codecademy.com/learn/bi-dashboards-with-tableau
 
@@ -183,7 +184,6 @@ For setup, Alex's bootcamp includes a video on installing Jupyter Notebook/Anaco
 ### 📚 Courses
 
 **Free**
-1. DataCamp Introduction to Python [Free][Beginner] - https://app.datacamp.com/learn/courses/intro-to-python-for-data-science
 1. Harvard CS50's Introduction to Programming with Python 🌟 [Free][Beginner-Intermediate] - Free via Harvard's OpenCourseWare. Paid certificate options are on edX. - https://cs50.harvard.edu/python
 2. Kaggle Learn: Python 🌟 [Free][Beginner] - Short hands-on micro-courses in the browser on real datasets - https://www.kaggle.com/learn/python
 3. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
