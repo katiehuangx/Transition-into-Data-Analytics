@@ -258,15 +258,6 @@
        "lv": "Beginner-Intermediate"
       },
       {
-       "n": "ThoughtSpot",
-       "u": "https://www.thoughtspot.com/sql-tutorial/introduction-to-sql",
-       "d": "Really cool-looking website.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner-Advanced"
-      },
-      {
        "n": "SQL Murder Mystery",
        "u": "https://mystery.knightlab.com/walkthrough.html",
        "d": "Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser.",
@@ -340,7 +331,7 @@
       },
       {
        "n": "Ankit Bansal: Top 10 SQL interview questions",
-       "d": "Video walkthroughs of SQL interview questions by Ankit Bansal.",
+       "d": "Video walkthroughs of SQL interview questions by Ankit Bansal, a data engineer at Amazon.",
        "p": [
         "Free"
        ],
@@ -392,7 +383,7 @@
       {
        "n": "Official Google Sheets tutorials",
        "u": "https://support.google.com/a/users/answer/9310369?sjid=1646444529151989664-NC",
-       "d": "Google's own training for Sheets, with getting-started guides and cheat sheets.",
+       "d": "Google's own Sheets training: quick start guides, a cheat sheet and productivity guides.",
        "p": [
         "Free"
        ],
@@ -482,7 +473,7 @@
       {
        "n": "Alex Freberg: Tableau tutorials",
        "u": "https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC",
-       "d": "Beginner-friendly Tableau tutorials from Alex the Analyst (Alex Freberg).",
+       "d": "Alex the Analyst's beginner Tableau series: installing Tableau and building a first chart, calculated fields, more chart types, joins, then a full project.",
        "p": [
         "Free"
        ],
