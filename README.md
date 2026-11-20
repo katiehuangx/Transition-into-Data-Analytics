@@ -18,9 +18,9 @@ Disclosure: I previously worked on SQL content for DataLemur which appears in th
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#my-advice-on-technical-skills-to-learn)
+- [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
 - [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [Where to Learn SQL?](#-where-to-learn-sql)
-- [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
 - [Where to Learn Tableau & Power BI?](#-where-to-learn-tableau--power-bi)
 - [Where to Learn Python?](#-where-to-learn-python)
 - [Using AI as a Data Analyst](#-using-ai-as-a-data-analyst)
