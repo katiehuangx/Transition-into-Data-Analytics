@@ -106,7 +106,7 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 
 # 📊 Where to Learn Statistics
 
-You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or, study them when you come across them during your learning journey. 
+You only need the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Study them up front or pick them up as they come up in your learning.
 
 ### 📺 YouTube
 1. StatQuest: Statistics Fundamentals 🌟 [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
