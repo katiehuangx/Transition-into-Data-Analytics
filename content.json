@@ -590,8 +590,8 @@
    "title": "Python",
    "lead": "Python is not always required for data analysts. In some companies it's only good-to-have, in others it's a must-have. Learn it if you're aiming at tech companies or at data scientist or data engineer roles.",
    "paras": [
-    "For setup, Alex's bootcamp includes a video on installing Jupyter Notebook and Anaconda. Kaggle's free notebooks also run in your browser with nothing to install.",
-    "Python can wait. Get comfortable with SQL, a spreadsheet tool and one BI tool first, unless the roles you're aiming for ask for it."
+    "Either way, get comfortable with SQL, a spreadsheet tool and one BI tool first.",
+    "For setup, Alex's bootcamp includes a video on installing Jupyter Notebook and Anaconda. Kaggle's free notebooks also run in your browser with nothing to install."
    ],
    "groups": [
     {
