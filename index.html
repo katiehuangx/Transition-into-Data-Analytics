@@ -314,6 +314,8 @@ footer a { color:var(--plum); font-weight:700; text-decoration:underline; text-d
 .marquee-inner .dot{padding:0}
 body > nav{display:grid;grid-template-columns:1fr auto 1fr}
 .nav-left a{display:inline-flex;align-items:center;min-height:44px}
+.nav-left{display:flex;align-items:center;gap:clamp(14px,2vw,26px)}
+@media (max-width:560px){.nt-long{display:none}.nav-left{gap:12px;flex-wrap:nowrap}.nav-left a{font-size:10.5px;letter-spacing:.08em;white-space:nowrap}.nav-logo{font-size:22px}body > nav{grid-template-columns:auto 1fr;column-gap:14px}.nav-logo{justify-self:end}.nav-right{display:none}}
 .marquee:hover .marquee-inner,.marquee:focus-within .marquee-inner{animation-play-state:paused}
 .hs{cursor:pointer;outline:none}
 .hs:hover path,.hs:focus-visible path{filter:brightness(.95)}
@@ -409,7 +411,7 @@ body > nav{display:grid;grid-template-columns:1fr auto 1fr}
 <body>
 
 <nav>
-  <div class="nav-left"><a href="#about">About Me</a></div>
+  <div class="nav-left"><a href="#about">About Me</a><a class="nav-threads" href="https://www.threads.com/@datawithkatie" rel="noopener"><span class="nt-long">Follow me on </span>Threads</a></div>
   <div class="nav-logo">Data with Katie</div>
   <div class="nav-right"></div>
 </nav>
