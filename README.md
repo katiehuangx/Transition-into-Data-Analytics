@@ -5,7 +5,7 @@ _(updated 18 Nov 2026)_
 Hello, I'm Katie and I'm sharing my experience and approach to self-studying for data analytics.
 
 **🧐 What You Should Know**
-- Self-studying can be **challenging** because you are on your own without any syllabus, instructors or classmates to guide you.
+- Self-studying can be **challenging** because you're on your own without any syllabus, instructors or classmates to guide you.
 - It requires resourcefulness in finding solutions and troubleshooting errors.
 - If time is a constraint, self-study may not be the best option. However, with consistency, hard work and determination, it is achievable.
 - Entry-level roles are competitive. A portfolio of real projects (see the last section) matters more than any certificates.
@@ -13,7 +13,6 @@ Hello, I'm Katie and I'm sharing my experience and approach to self-studying for
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#my-advice-on-technical-skills-to-learn)
-- [Bootcamp](#️-bootcamp)
 - [Where to Learn SQL?](#-where-to-learn-sql)
 - [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
 - [Where to Learn Tableau & Power BI?](#-where-to-learn-tableau--power-bi)
@@ -25,7 +24,7 @@ Hello, I'm Katie and I'm sharing my experience and approach to self-studying for
 
 If you're reading this, you're probably interested in starting a career in data analytics, but don't know where to begin or whether it's the right path for you. I totally get it - I was once in your shoes! 🧐
 
-To start, I recommend taking a **general data analytics course** like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics). 
+To start, I recommend taking a **general data analytics course** like the [Google Data Analytics](https://www.coursera.org/professional-certificates/google-data-analytics) which covers spreadsheets, SQL (BigQuery), Tableau and R and has since added AI-assisted modules.
 
 This course provides:
 - An **overview of data analytics**
@@ -33,38 +32,47 @@ This course provides:
 - Flexible, study-at-your-own-pace courses
 - A certificate you can put on your resume
 
-At the time of writing, Coursera Plus was listed at around USD 59/month with a free trial and Google's certificate is included in it. Prices change often, so check the course page. Financial aid may also be available. On average, people complete these in 2 to 6 months and the faster you complete it, the less you pay. 😇
-
-**💡 My Experience with the course**
-
-I found Google's course very helpful, especially since I'm a visual learner. It covers spreadsheets, SQL (BigQuery), Tableau and R and has since added AI-assisted modules. You'll still need additional courses for in-depth knowledge. IBM's certificate takes a different route and includes a generative-AI-for-analysts course.
+On average, people complete these in 2 to 6 months and the faster you complete it, the less you pay. 😇
 
 **‼️IMPORTANT‼️**
-- Both courses are marketed as job-ready programmes. In my experience, that's not true. 🥲
+- This course is marketed as job-ready programmes. In my experience, that's not true. 🥲
 - What you learn from one course is **NOT ENOUGH to get an entry-level job** or pass a technical interview.
 - At most, the course contributed 5-10% to my learning.
 
 Thus, I'm sharing the following resources to help you continue your studies after completing the course.
 
-## My Advice on Technical Skills to Learn
+## My Advice on Skills to Learn
 
 In my opinion, you should focus on these skills in the following order:
-1. SQL
-2. Excel / Google Sheets (you'll likely use it every week at work)
-3. Tableau **or** Power BI (pick one, the skills transfer)
+1. Excel / Google Sheets (you'll likely use it every week at work)
+2. SQL
+3. Tableau / Power BI (pick one, the skills transfer)
 4. Python
 
 I found SQL to be the **easiest and most essential skill** for any data analyst role. It's a crucial language for extracting, manipulating, and analyzing data. Once you understand SQL, you'll have an easier time learning other tools like Tableau, which relies on SQL-style logic for calculated fields.
 
-Python is not always required for data analysts. In some companies it's only good-to-have, while in others it's a must-have. Learn it if you're aiming at tech companies or at data scientist or data engineer roles.
+Python is not always required for data analysts. In some companies, it's only good-to-have, while in others it's a must-have. Learn it if you're aiming at tech companies or at data scientist or data engineer roles.
 
 **Which BI tool should you pick?** Job-posting analyses disagree on whether Tableau or Power BI is ahead and it varies by country and industry. Search job ads in the market you want to work in and learn the one that shows up more. Power BI Desktop is free (Windows) and Tableau Public is free, but everything you save there is public.
 
-# 🏕️ Bootcamp
+**🏕️ Bootcamp**
 
 I highly recommend Alex the Analyst's free [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) on YouTube. It covers SQL, Excel, Tableau, Power BI, Python and portfolio projects. It's an excellent resource if you're new to data analytics or want to improve your skills in any of these tools.
 
 Note: the SQL part starts in Microsoft SQL Server and later added MySQL, so you'll see small syntax differences from other courses below.
+
+# 📈 Where to Learn Excel & Google Sheets
+
+Excel is still one of the most common skills in data analyst job ads, so don't skip it.
+
+### 📚 Courses
+1. Official Google Sheets tutorials - https://support.google.com/a/users/answer/9310369?sjid=1646444529151989664-NC
+
+### 📺 YouTube
+1. Kevin Stratvert 🌟 - https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY
+2. Leila Gharani 🌟 - https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0, https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu
+
+***
 
 # 📕 Where to Learn SQL
 
@@ -81,26 +89,26 @@ Note: the SQL part starts in Microsoft SQL Server and later added MySQL, so you'
 4. DataLemur SQL Tutorial 🌟 [Beginner-Advanced] - https://datalemur.com/sql-tutorial
 
 ### 📚 Courses
-1. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
-2. Danny Ma SQL Masterclass Course 🌟 [Free] - https://github.com/DataWithDanny/sql-masterclass
-3. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions. Mode was acquired by ThoughtSpot and the tutorial now lives here: https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
-4. Kaggle Learn: Intro to SQL [Free][Beginner] - Short, browser-based lessons on real datasets using Google BigQuery. Needs a free Kaggle account - https://www.kaggle.com/learn/intro-to-sql
-5. Maven Analytics SQL for Data Analysis 🌟 [Beginner][Paid]:
+1. This is Serious SQL 🌟 [Paid][Beginner-Advanced] - I highly recommend this course. I myself took this and it improved my SQL massively - https://www.datawithdanny.com/courses/serious-sql
+2. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
+3. Danny Ma SQL Masterclass Course 🌟 [Free] - https://github.com/DataWithDanny/sql-masterclass
+4. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions. Mode was acquired by ThoughtSpot and the tutorial now lives here: https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
+5. Kaggle Learn: Intro to SQL [Free][Beginner] - Short, browser-based lessons on real datasets using Google BigQuery. Needs a free Kaggle account - https://www.kaggle.com/learn/intro-to-sql
+6. Maven Analytics SQL for Data Analysis 🌟 [Paid][Beginner]:
    - Own platform [Paid]: https://mavenanalytics.io/course/mysql-data-analysis
    - Udemy [Paid]: https://www.udemy.com/course/mysql-for-data-analysis/
-6. Maven Analytics Advanced SQL [Intermediate-Advanced] - Subqueries, CTEs, window functions.
+7. Maven Analytics Advanced SQL 🌟 [Paid][Intermediate-Advanced] - Subqueries, CTEs, window functions.
    - Own platform [Paid]: https://mavenanalytics.io/course/sql-advanced-queries
    - Udemy [Paid]: https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/
 
 ### ✏️ Practice Your SQL
-1. SQL Bolt 🌟 [Free][Beginner-Intermediate] - https://sqlbolt.com/
+1. SQL Bolt 🌟 [Free][Beginner-Intermediate] - Absolute beginners; interactive lessons - https://sqlbolt.com/
 2. Select Star SQL 🌟 [Free][Beginner-Intermediate] - https://selectstarsql.com/
 3. SQL Zoo [Free][Beginner-Intermediate] - Looks dated, but lets you practise in several SQL dialects - https://sqlzoo.net
-
-### 👾 SQL Games
-1. SQL Murder Mystery [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser. - https://mystery.knightlab.com/walkthrough.html
-2. SQL Police Department [Freemium][Beginner] - Solve crimes with SQL. Limited free access, paid plans for the rest. - https://sqlpd.com
-3. SQL Island 🏝️ [Free][Beginner] - Survive a plane crash and escape the island with SQL. You can switch the language from the menu - https://sql-island.informatik.uni-kl.de/
+4. ThoughtSpot [Free][Beginner-Advanced] - Really cool-looking website - https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
+5. SQL Murder Mystery 🌟 [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser. - https://mystery.knightlab.com/walkthrough.html
+6. SQL Police Department [Freemium][Beginner] - Solve crimes with SQL. Limited free access, paid plans for the rest. - https://sqlpd.com
+7. SQL Island 🏝️ [Free][Beginner] - Survive a plane crash and escape the island with SQL. You can switch the language from the menu - https://sql-island.informatik.uni-kl.de/
 
 ### 📝 Portfolio Projects
 1. 8-Week SQL Challenge 🌟 [Free][Intermediate-Advanced] - 8 different SQL case studies designed to improve your SQL skills. - https://8weeksqlchallenge.com
@@ -125,48 +133,29 @@ The basics are the same across all of them. Pick the one your course uses and le
 
 ***
 
-# 📈 Where to Learn Excel & Google Sheets
-
-Excel is still one of the most common skills in data analyst job ads, so don't skip it.
-
-- Alex the Analyst's bootcamp (above) has an Excel section with pivot tables, formulas and a full project.
-- Google's and IBM's certificates also teach spreadsheets.
-- Maven Analytics has Excel courses (e.g. Excel pivot tables): https://mavenanalytics.io
-
-### 📺 Excel - YouTube
-1. Kevin Stratvert 🌟 - https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY
-2. Leila Gharani 🌟 - https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0
-
-### 📺 Google Sheets - YouTube
-1. Leila Gharani 🌟 - https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu
-
-***
-
 # 📊 Where to Learn Tableau & Power BI
 
-Tableau and Power BI are business intelligence and data visualization tools that let you build interactive dashboards and reports. Pick one first. See the note near the top on how to choose.
+Tableau and Power BI are business intelligence and data visualization tools that let you build interactive dashboards and reports. 
+
+Job-posting analyses disagree on whether Tableau or Power BI is ahead and it varies by country and industry. Search job ads in the market you want to work in and learn the one that shows up more. Power BI Desktop is free (Windows) and Tableau Public is free, but everything you save there is public.
+
+- Tableau Public (free, but your work is public) - https://public.tableau.com/app/learn/how-to-videos
+- Power BI Desktop (free to download) - https://powerbi.microsoft.com/en-us/desktop/
 
 ### 📺 Tableau - YouTube
 1. Andy Kriebel 🌟 - A YouTube channel with many helpful Tableau tutorials. - https://www.youtube.com/c/AndyKriebel/featured
 2. Alex Freberg's Tableau Tutorials 🌟 [Beginner] - https://www.youtube.com/playlist?list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC
 
 ### 📚 Tableau - Courses
-1. Salesforce Trailhead: Tableau [Free][Beginner] - Official free learning platform with hands-on challenges you can publish to Tableau Public - https://trailhead.salesforce.com/content/learn/trailhead-journey/tableau
-2. Tableau official free training videos [Free] - https://www.tableau.com/learn/tutorials
-3. Codecademy Learn Tableau for Data Visualization [Beginner] - Check whether it's free or Pro-only when you sign up - https://www.codecademy.com/learn/bi-dashboards-with-tableau
-4. Udacity Data Visualization Nanodegree [Paid][Beginner-Intermediate] - Four courses on data visualization and storytelling, with Tableau dashboards as the main tool - https://www.udacity.com/course/data-visualization-nanodegree--nd197
+1. Tableau Free Training Videos [Free][Beginner] - https://www.tableau.com/learn/training?
+2. Salesforce Trailhead: Tableau [Free][Beginner] - Official free learning platform with hands-on challenges you can publish to Tableau Public - https://trailhead.salesforce.com/content/learn/trailhead-journey/tableau
+3. Tableau official free training videos [Free] - https://www.tableau.com/learn/tutorials
+4. Codecademy Learn Tableau for Data Visualization [Beginner] - Check whether it's free or Pro-only when you sign up - https://www.codecademy.com/learn/bi-dashboards-with-tableau
+5. Tableau Public - https://public.tableau.com/app/discover
 
-### 🆓 Tools
-- Tableau Public (free, but your work is public) - https://public.tableau.com/app/learn/how-to-videos
-- Power BI Desktop (free to download) - https://powerbi.microsoft.com/en-us/desktop/
-
-### 📺 Power BI
-1. Alex the Analyst's bootcamp (above) has a Power BI section covering Power Query, relationships, DAX and a full guided project.
-
-### 📚 Power BI - Courses
-1. Udacity Creating Visualizations with Power BI [Paid][Beginner-Intermediate] - A single course on building and customizing reports and visuals - https://www.udacity.com/course/creating-visualizations-with-power-bi--cd0013
-2. Udacity Data Analysis and Visualization with Microsoft Power BI Nanodegree [Paid][Intermediate] - Covers Power Query, DAX and data modeling. Udacity lists Power BI proficiency, intermediate spreadsheet use and database schemas as prerequisites, so take the course above first - https://www.udacity.com/course/data-analysis-and-visualization-with-power-BI-nanodegree--nd331
-
+### ✨ Tableau Practice & Inspiration
+1. Workout Wednesday - https://www.workout-wednesday.com/
+2. Tableau Viz of the Day - https://public.tableau.com/app/discover/viz-of-the-day
 ***
 
 # 🐍 Where to Learn Python
