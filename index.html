@@ -368,6 +368,14 @@ body > nav{display:grid;grid-template-columns:1fr auto 1fr}
 .how{padding:64px clamp(20px,4vw,40px) 8px}
 .how-panel{max-width:960px;margin:0 auto;background:var(--cream);border-radius:28px;padding:44px clamp(24px,4vw,56px) 40px}
 .how h2{font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(36px,4.4vw,52px);line-height:1.05;letter-spacing:-.015em;color:var(--plum);margin:0 0 10px}
+.how-head{display:flex;align-items:flex-start;justify-content:space-between;gap:16px}
+.how-toggle{flex:none;margin-top:8px;background:#fff;border:2px solid var(--periwinkle);border-radius:999px;padding:7px 18px;font:700 13px 'DM Sans',sans-serif;color:var(--plum);cursor:pointer}
+.how-toggle:hover{background:var(--plum);color:var(--cream);border-color:var(--plum)}
+.how-toggle:focus-visible{outline:3px solid var(--plum);outline-offset:3px}
+.how-panel.is-closed{padding-top:22px;padding-bottom:22px}
+.how-panel.is-closed h2{font-size:clamp(24px,3vw,30px);margin:0}
+.how-panel.is-closed .how-toggle{margin-top:0;align-self:center}
+.how-head h2{margin-bottom:10px}
 .how-intro{font-size:17px;line-height:1.6;color:var(--body);max-width:56ch;margin:0 0 26px}
 .route-mini{list-style:none;display:grid;grid-template-columns:repeat(6,1fr);gap:4px;text-align:center;position:relative;margin:0 0 34px;padding:0}
 .route-mini::before{content:"";position:absolute;left:8%;right:8%;top:34px;border-top:3px dotted var(--coral)}
@@ -465,7 +473,9 @@ body > nav{display:grid;grid-template-columns:1fr auto 1fr}
 </section>
 <section class="how" id="how">
   <div class="how-panel">
-    <h2>How to use this page</h2>
+    <div class="how-head"><h2>How to use this page</h2>
+    <button type="button" class="how-toggle" id="howToggle" aria-expanded="true" aria-controls="howBody">Hide</button></div>
+    <div id="howBody">
     <p class="how-intro">Work through the steps in order. In each one, begin with the resource that has the handwritten arrow.</p>
     <ol class="route-mini"><li><span class="marker m1" aria-hidden="true">1</span><span class="rl">Excel and Sheets</span></li><li><span class="marker m2" aria-hidden="true">2</span><span class="rl">Statistics</span></li><li><span class="marker m3" aria-hidden="true">3</span><span class="rl">SQL</span></li><li><span class="marker m4" aria-hidden="true">4</span><span class="rl">Tableau or Power BI</span></li><li><span class="marker m5" aria-hidden="true">5</span><span class="rl">Python</span></li><li><span class="marker m6" aria-hidden="true">✿</span><span class="rl">Portfolio</span></li></ol>
     <p class="how-sub">Every resource row works the same way.</p>
@@ -480,8 +490,18 @@ body > nav{display:grid;grid-template-columns:1fr auto 1fr}
       <li><span class="dot">3</span>The badge tells you the format.</li>
       <li><span class="dot">4</span>Optional means you can skip it, and Later means come back once you know the basics.</li>
     </ol>
+    </div>
   </div>
 </section>
+<script>
+(function(){
+  var b=document.getElementById('howToggle'),body=document.getElementById('howBody'),p=b&&b.closest('.how-panel');
+  if(!b)return;
+  function set(open){body.hidden=!open;b.setAttribute('aria-expanded',open);b.textContent=open?'Hide':'Show';p.classList.toggle('is-closed',!open);}
+  try{if(localStorage.getItem('howHidden')==='1')set(false);}catch(e){}
+  b.addEventListener('click',function(){var open=body.hidden;set(open);try{localStorage.setItem('howHidden',open?'0':'1');}catch(e){}});
+})();
+</script>
 <div class="zone" id="route">
   <div class="stepnav"><div class="navin">
     <nav class="jump" aria-label="Roadmap steps"><ol><li><a href="#start">Start</a></li><li><a href="#excel">Excel &amp; Sheets</a></li><li><a href="#stats">Statistics</a></li><li><a href="#sql">SQL</a></li><li><a href="#bi">Tableau / Power BI</a></li><li><a href="#python">Python</a></li><li><a href="#portfolio">Portfolio</a></li><li><a href="#ai">AI</a></li></ol></nav>
