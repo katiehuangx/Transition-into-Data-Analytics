@@ -387,6 +387,66 @@
         "Free"
        ],
        "tool": "Google Sheets"
+      },
+      {
+       "n": "Getting Started with Google Sheets (Coursera)",
+       "u": "https://www.coursera.org/learn/getting-started-with-google-sheets",
+       "d": "Google Cloud's short beginner course on Sheets. Free to take, with a paid option for the certificate, quizzes and projects.",
+       "p": [
+        "Freemium"
+       ],
+       "lv": "Beginner",
+       "tool": "Google Sheets"
+      },
+      {
+       "n": "Ben Collins: Google Sheets Essentials",
+       "u": "https://courses.benlcollins.com/courses/935575",
+       "d": "44 short lessons on formulas and pivot tables, taught by a data analytics instructor and spreadsheet developer.",
+       "p": [
+        "Paid"
+       ],
+       "lv": "Beginner-Intermediate",
+       "tool": "Google Sheets"
+      }
+     ]
+    },
+    {
+     "name": "Tutorials",
+     "items": [
+      {
+       "n": "Excel Easy",
+       "u": "https://www.excel-easy.com/",
+       "d": "An illustrated Excel tutorial with 300 examples, from the basics to functions, data analysis and VBA. No sign-up and no ads.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner",
+       "tool": "Excel"
+      }
+     ]
+    },
+    {
+     "name": "Practice",
+     "items": [
+      {
+       "n": "Automate Excel: practice workbook",
+       "u": "https://www.automateexcel.com/practice-worksheets/",
+       "d": "A free workbook with 50+ automatically graded exercises, each with a lesson and examples.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner-Intermediate",
+       "tool": "Excel"
+      },
+      {
+       "n": "W3Schools: Excel exercises",
+       "u": "https://www.w3schools.com/Excel/excel_exercises.php",
+       "d": "Short exercises with answers for each chapter of the W3Schools Excel tutorial.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner",
+       "tool": "Excel"
       }
      ]
     },
@@ -421,6 +481,57 @@
          "u": "https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu"
         }
        ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "stats",
+   "nav": "Statistics",
+   "num": 2,
+   "title": "Statistics",
+   "lead": "You don't need a statistics degree to be an analyst, but you do need the basics: averages and spread, distributions, sampling, and the difference between correlation and causation. Learn them while you pick up Excel and SQL, then use them on real data.",
+   "groups": [
+    {
+     "name": "YouTube",
+     "items": [
+      {
+       "n": "StatQuest: Statistics Fundamentals",
+       "u": "https://www.youtube.com/@statquest",
+       "d": "Josh Starmer's Statistics Fundamentals playlist covers probability, distributions, sampling and hypothesis testing in short, clear videos.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner"
+      }
+     ]
+    },
+    {
+     "name": "Courses",
+     "items": [
+      {
+       "n": "Khan Academy: Statistics and Probability",
+       "u": "https://www.khanacademy.org/math/statistics-probability",
+       "d": "Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner"
+      }
+     ]
+    },
+    {
+     "name": "Books",
+     "items": [
+      {
+       "n": "OpenIntro Statistics",
+       "u": "https://www.openintro.org/book/os/",
+       "d": "A free textbook of about 400 pages. Its labs use R, so treat it as a reference for the concepts.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner-Intermediate"
       }
      ]
     }

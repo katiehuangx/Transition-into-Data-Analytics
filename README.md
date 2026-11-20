@@ -14,6 +14,7 @@ No course here sponsors me. One disclosure: I previously worked on SQL content f
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#my-advice-on-technical-skills-to-learn)
+- [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [Where to Learn SQL?](#-where-to-learn-sql)
 - [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
 - [Where to Learn Tableau & Power BI?](#-where-to-learn-tableau--power-bi)
@@ -68,10 +69,34 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 
 ### 📚 Courses
 1. Official Google Sheets tutorials - https://support.google.com/a/users/answer/9310369?sjid=1646444529151989664-NC
+2. Getting Started with Google Sheets (Coursera) [Freemium][Beginner] - Free to take, with a paid option for the certificate, quizzes and projects - https://www.coursera.org/learn/getting-started-with-google-sheets
+3. Ben Collins: Google Sheets Essentials [Paid][Beginner-Intermediate] - 44 short lessons on formulas and pivot tables - https://courses.benlcollins.com/courses/935575
+
+### 📺 Tutorials
+1. Excel Easy [Free][Beginner] - An illustrated Excel tutorial with 300 examples, from the basics to functions, data analysis and VBA - https://www.excel-easy.com/
+
+### ✏️ Practice
+1. Automate Excel practice workbook [Free][Beginner-Intermediate] - 50+ automatically graded exercises, each with a lesson and examples - https://www.automateexcel.com/practice-worksheets/
+2. W3Schools Excel exercises [Free][Beginner] - Short exercises with answers for each chapter - https://www.w3schools.com/Excel/excel_exercises.php
 
 ### 📺 YouTube
 1. Kevin Stratvert 🌟 - https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY
 2. Leila Gharani 🌟 - https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0, https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu
+
+***
+
+# 📊 Where to Learn Statistics
+
+You don't need a statistics degree to be an analyst, but you do need the basics: averages and spread, distributions, sampling, and the difference between correlation and causation. Learn them while you pick up Excel and SQL, then use them on real data.
+
+### 📺 YouTube
+1. StatQuest: Statistics Fundamentals [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing in short, clear videos - https://www.youtube.com/@statquest
+
+### 📚 Courses
+1. Khan Academy: Statistics and Probability [Free][Beginner] - Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing - https://www.khanacademy.org/math/statistics-probability
+
+### 📕 Books
+1. OpenIntro Statistics [Free][Beginner-Intermediate] - A free textbook of about 400 pages. Its labs use R, so treat it as a reference for the concepts - https://www.openintro.org/book/os/
 
 ***
 
