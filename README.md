@@ -71,7 +71,7 @@ Python is not always required for data analysts. In some companies, it's only go
 You can just study the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Or, study them when you come across them during your learning journey. 
 
 ### 📺 YouTube
-1. StatQuest: Statistics Fundamentals [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
+1. StatQuest: Statistics Fundamentals 🌟 [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
 
 ### 📚 Courses
 1. Khan Academy: Statistics and Probability [Free][Beginner] - Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing - https://www.khanacademy.org/math/statistics-probability
@@ -146,7 +146,7 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 ### ✏️ Practice Your SQL
 1. SQL Bolt 🌟 [Free][Beginner-Intermediate] - Absolute beginners; interactive lessons - https://sqlbolt.com/
 2. Select Star SQL 🌟 [Free][Beginner-Intermediate] - https://selectstarsql.com/
-3. SQL Murder Mystery 🌟 [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser. - https://mystery.knightlab.com/walkthrough.html
+3. SQL Murder Mystery [Free][Beginner] - Interactive game that teaches you SQL basics by solving a murder case. Runs in your browser. - https://mystery.knightlab.com/walkthrough.html
 
 ### 📝 Portfolio Projects
 1. 8-Week SQL Challenge 🌟 [Free][Intermediate-Advanced] - 8 different SQL case studies designed to improve your SQL skills. - https://8weeksqlchallenge.com
@@ -193,7 +193,7 @@ Download them here:
 
 ### ✨ Tableau Practice & Inspiration
 1. Tableau User Groups [Free] - Community-led meetups, online and in person, where you can learn and ask questions. Sign up for a free account to join - https://www.tableau.com/community/user-groups
-2. Tableau Viz of the Day [Free] - https://public.tableau.com/app/discover/viz-of-the-day
+2. Tableau Viz of the Day 🌟 [Free] - https://public.tableau.com/app/discover/viz-of-the-day
 3. Workout Wednesday [Free] - https://www.workout-wednesday.com/
 
 ### 📕 Books
