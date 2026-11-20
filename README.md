@@ -71,20 +71,14 @@ Python is not always required for data analysts. In some companies, it's only go
 Excel is still one of the most common skills in data analyst job ads, so don't skip it.
 
 ### 📚 Courses
-1. Official Google Sheets tutorials - https://support.google.com/a/users/answer/9310369?sjid=1646444529151989664-NC
-2. Getting Started with Google Sheets (Coursera) [Freemium][Beginner] - Free to take, with a paid option for the certificate, quizzes and projects - https://www.coursera.org/learn/getting-started-with-google-sheets
-3. Ben Collins: Google Sheets Essentials [Paid][Beginner-Intermediate] - 44 short lessons on formulas and pivot tables - https://courses.benlcollins.com/courses/935575
-
-### 📺 Tutorials
-1. Excel Easy [Free][Beginner] - An illustrated Excel tutorial with 300 examples, from the basics to functions, data analysis and VBA. It covers Excel 2007 to 2019, so newer features aren't included - https://www.excel-easy.com/
-
-### ✏️ Practice
-1. Automate Excel practice workbook [Free][Beginner-Intermediate] - 50+ automatically graded exercises, each with a lesson and examples - https://www.automateexcel.com/practice-worksheets/
-2. W3Schools Excel exercises [Free][Beginner] - Short exercises with answers for each chapter - https://www.w3schools.com/Excel/excel_exercises.php
+1. Getting Started with Google Sheets (Coursera) [Freemium][Beginner] - Free to take with paid option for the certificate, quizzes and projects - https://www.coursera.org/learn/getting-started-with-google-sheets
 
 ### 📺 YouTube
 1. Kevin Stratvert 🌟 - https://www.youtube.com/playlist?list=PLlKpQrBME6xLYoubjOqowzcCCd0ivQVLY
 2. Leila Gharani 🌟 - https://www.youtube.com/watch?v=0tdlR1rBwkM&list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0, https://www.youtube.com/playlist?list=PLmHVyfmcRKyy0mPWTS5JL99PySzLPiJYu
+
+### ✏️ Practice
+2. W3Schools Excel exercises [Free][Beginner] - Short exercises with answers for each chapter - https://www.w3schools.com/Excel/excel_exercises.php
 
 ***
 
@@ -118,12 +112,11 @@ You can just study the basics: averages and spread, distributions, sampling and 
 
 **Free**
 2. Udacity SQL for Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/sql-for-data-analysis--ud198
-3. Danny Ma SQL Masterclass Course 🌟 [Free][Intermediate-Advanced] - https://github.com/DataWithDanny/sql-masterclass
+3. Danny Ma SQL Masterclass Course 🌟 [Free][Beginner]- https://github.com/DataWithDanny/sql-masterclass
 4. ThoughtSpot SQL Tutorial [Free][Beginner-Intermediate] - Business-style questions on real data, good for window functions - https://www.thoughtspot.com/sql-tutorial/introduction-to-sql
 
 **Paid**
-1. Maven Analytics SQL for Data Analysis 🌟 [Paid][Beginner]: https://mavenanalytics.io/course/mysql-data-analysis
-2. This is Serious SQL 🌟 [Paid][Intermediate-Advanced] - I highly recommend this course. I myself took this and it improved my SQL massively - https://www.datawithdanny.com/courses/serious-sql
+1. This is Serious SQL 🌟 [Paid][Intermediate-Advanced] - I highly recommend this course. I myself took this and it improved my SQL massively - https://www.datawithdanny.com/courses/serious-sql
 
 ### ✏️ Practice Your SQL
 1. SQL Bolt 🌟 [Free][Beginner-Intermediate] - Absolute beginners; interactive lessons - https://sqlbolt.com/
@@ -139,14 +132,16 @@ You can just study the basics: averages and spread, distributions, sampling and 
 1. DataLemur 🌟 [Freemium][Intermediate-Advanced] - Real-world SQL interview questions with detailed solutions and explanations - https://datalemur.com
 2. StrataScratch 🌟 [Freemium][Intermediate-Advanced] - Large bank of interview questions across SQL and Python. Free tier plus paid plans - https://platform.stratascratch.com/coding?code_type=1
 
-### 💻 Which SQL Software to Use?
+### 📚 Books
+1. Practical SQL: A Beginner's Guide to Storytelling with Data by Anthony DeBarros
+2. SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights by Cathy Tanimura
 
-You don't need to install anything to start. SQL Bolt, Select Star SQL, SQL Murder Mystery and Kaggle Learn all run in your browser.
+### 💻 Which SQL Software to Use?
 
 When you want your own local setup, these are the common free choices. In tech-speak, we call them SQL flavours.
 - PostgreSQL (Windows, Mac, Linux, free) - https://www.postgresql.org/download/
 - MySQL Workbench (Windows and Mac, free) - https://www.mysql.com/products/workbench/
-- Microsoft SQL Server (Alex Freberg's course uses it; the free Express edition is enough for learning) - https://www.microsoft.com/en-us/sql-server/sql-server-downloads
+- Microsoft SQL Server (Alex Freberg's course uses it. The free Express edition is enough for learning) - https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 The basics are the same across all of them. Pick the one your course uses and learn the differences later.
 
@@ -156,12 +151,12 @@ The basics are the same across all of them. Pick the one your course uses and le
 
 Tableau and Power BI are business intelligence and data visualization tools that let you build interactive dashboards and reports. 
 
-Pick one to learn. I recommend you to go with Power BI because it's free to download and most job ads (in Malaysia) is using Power BI. 
+Pick one to learn. I recommend you to go with Power BI because it's free to download and most job ads (in Malaysia) are using Power BI. 
 
 Download them here:
 - Tableau Desktop (free trial) - https://www.tableau.com/products/desktop-free/download
 - Tableau Public (free, but your work is public) - https://public.tableau.com/app/discover
-- Power BI Desktop (free to download, Windows only; on a Mac, use Power BI in the browser or run Windows in a virtual machine) - https://powerbi.microsoft.com/en-us/desktop/
+- Power BI Desktop (free to download on Windows only; on a Mac, use Power BI in the browser) - https://powerbi.microsoft.com/en-us/desktop/
 
 ### 📺 Tableau - YouTube
 1. Andy Kriebel 🌟 - A YouTube channel with many helpful Tableau tutorials. - https://www.youtube.com/c/AndyKriebel/featured
@@ -173,38 +168,37 @@ Download them here:
 
 ### ✨ Tableau Practice & Inspiration
 1. Tableau User Groups [Free] - Community-led meetups, online and in person, where you can learn and ask questions. Sign up for a free account to join - https://www.tableau.com/community/user-groups
-2. Workout Wednesday [Free] - https://www.workout-wednesday.com/
-3. Tableau Viz of the Day [Free] - https://public.tableau.com/app/discover/viz-of-the-day
+2. Tableau Viz of the Day [Free] - https://public.tableau.com/app/discover/viz-of-the-day
+3. Workout Wednesday [Free] - https://www.workout-wednesday.com/
+
 ***
 
 # 🐍 Where to Learn Python
 
-For setup, Alex's bootcamp includes a video on installing Jupyter Notebook/Anaconda. Kaggle's free notebooks also run in your browser with nothing to install.
+For setup, Alex's [data analyst bootcamp](https://www.youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF) includes a video on installing Jupyter Notebook/Anaconda. Kaggle's free notebooks also run in your browser with nothing to install.
 
 Python can wait. Get comfortable with SQL, a spreadsheet tool and one BI tool first, unless the roles you're aiming for ask for it.
 
 ### 📺 YouTube
 1. Programming with Mosh 🌟 [Beginner] - https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=8118s
-2. freeCodeCamp Learn Python [Beginner] - https://www.youtube.com/watch?v=rfscVS0vtbw&t=2565s
-3. freeCodeCamp Data Analysis with Python [Beginner] - https://www.youtube.com/watch?v=r-uOLxNrNk8
+2. freeCodeCamp Data Analysis with Python [Beginner] - https://www.youtube.com/watch?v=r-uOLxNrNk8
 
 ### 📚 Courses
 
 **Free**
-1. Harvard CS50's Introduction to Programming with Python 🌟 [Free][Beginner-Intermediate] - Free via Harvard's OpenCourseWare. Paid certificate options are on edX. - https://cs50.harvard.edu/python
-2. Kaggle Learn: Python 🌟 [Free][Beginner] - Short hands-on micro-courses in the browser on real datasets - https://www.kaggle.com/learn/python
+1. Harvard CS50's Introduction to Programming with Python 🌟 [Free][Beginner-Intermediate] - Free via Harvard's OpenCourseWare. Paid certificate options are on edX - https://cs50.harvard.edu/python
+2. Kaggle Learn: Python [Free][Beginner] - https://www.kaggle.com/learn/python
 3. Udacity Intro to Data Analysis 🌟 [Free][Beginner] - https://www.udacity.com/course/intro-to-data-analysis--ud170
 4. freeCodeCamp Data Analysis with Python [Free][Beginner-Intermediate] - https://www.freecodecamp.org/learn/data-analysis-with-python/
-5. Kaggle Learn: Pandas [Free] - A short micro-course on pandas, the main Python library for working with tables of data. About 4 hours, in the browser - https://www.kaggle.com/learn/pandas
-6. Kaggle Learn: Data Cleaning [Free] - A short micro-course on cleaning messy data: missing values, scaling, parsing dates and fixing inconsistent entries. About 4 hours - https://www.kaggle.com/learn/data-cleaning
-7. Kaggle Learn: Data Visualization [Free] - A short micro-course on charts in Python with Seaborn. About 4 hours - https://www.kaggle.com/learn/data-visualization
+5. Kaggle Learn: Data Cleaning [Free] - A short micro-course on cleaning messy data: missing values, scaling, parsing dates and fixing inconsistent entries - https://www.kaggle.com/learn/data-cleaning
+6. Kaggle Learn: Data Visualization [Free] - A short micro-course on charts in Python with Seaborn - https://www.kaggle.com/learn/data-visualization
 
 **Paid**
 1. Maven Analytics Python Foundations for Data Analysis 🌟 [Paid][Beginner] - https://mavenanalytics.io/course/python-foundations-for-data-analysis
-2. Maven Analytics Data Analysis with Python: NumPy & Pandas 🌟 [Paid][Intermediate] - https://mavenanalytics.io/course/data-analysis-with-python-pandas
+2. Maven Analytics Data Analysis with Python: NumPy & Pandas [Paid][Intermediate] - https://mavenanalytics.io/course/data-analysis-with-python-pandas
 
 ### Books 📕
-1. Wes McKinney's Python for Data Analysis, **3rd Edition** [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also, free to read online on the author's website. Best as a reference once you know the basics - https://www.oreilly.com/library/view/python-for-data/9781098104023/
+1. Wes McKinney's Python for Data Analysis [Intermediate] - The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also, free to read online on the author's website. Best as a reference once you know the basics - https://www.oreilly.com/library/view/python-for-data/9781098104023/
 
 ***
 
