@@ -2,10 +2,10 @@
 
 _(updated 18 Nov 2026)_
 
-Hi, I'm Katie. This is how I'd self-study data analytics, and the resources I'd point a friend to.
+Hi, I'm Katie. This is how I'd self-study data analytics and the resources I'd point a friend to.
 
 **🧐 What You Should Know**
-- Self-study is **hard**. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.
+- Self-study is challengingd. There's no syllabus, instructor or classmates, so you find your own answers and fix your own errors.
 - If time is tight, self-study may not be the best route. With consistency and determination it's still doable.
 - Entry-level roles are competitive. A portfolio of real projects (see the last section) matters more than any certificate.
 
