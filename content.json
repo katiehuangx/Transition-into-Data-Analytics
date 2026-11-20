@@ -753,8 +753,85 @@
      ]
     },
     {
-     "name": "Practice datasets",
+     "name": "Malaysian datasets",
      "items": [
+      {
+       "n": "data.gov.my",
+       "u": "https://data.gov.my/data-catalogue",
+       "d": "Malaysia's open data portal, with datasets from federal and state agencies. Download them or connect through an API.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      },
+      {
+       "n": "OpenDOSM",
+       "u": "https://open.dosm.gov.my/data-catalogue",
+       "d": "The Department of Statistics Malaysia's open data on population, prices, labour and GDP. CSV and Parquet downloads, free to reuse under a Creative Commons licence.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      },
+      {
+       "n": "Public transport ridership",
+       "u": "https://data.gov.my/data-catalogue/ridership_headline",
+       "d": "Daily ridership data for public transport services across Malaysia. Good raw material for a dashboard.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      },
+      {
+       "n": "Bank Negara Malaysia rates and statistics",
+       "u": "https://apikijangportal.bnm.gov.my/",
+       "d": "Interest rates and other central bank statistics. Download as CSV or use the API. Credit \"Source: Bank Negara Malaysia\" if you publish your work.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      },
+      {
+       "n": "MoH COVID-19 data",
+       "u": "https://github.com/MoH-Malaysia/covid19-public",
+       "d": "The Ministry of Health's official COVID-19 data on GitHub, including cases, hospital admissions and vaccinations as CSV files. It's historical, so best for practising time series and data cleaning.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      }
+     ]
+    },
+    {
+     "name": "Global datasets",
+     "items": [
+      {
+       "n": "World Bank Open Data",
+       "u": "https://data.worldbank.org/country/malaysia",
+       "d": "Economic, health and other indicators for Malaysia and every other country. Download as Excel or CSV from any data page.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      },
+      {
+       "n": "Kaggle Datasets",
+       "u": "https://www.kaggle.com/datasets",
+       "d": "A huge library of public datasets. You can browse without an account, but you need a free account to download.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      },
+      {
+       "n": "Google Dataset Search",
+       "u": "https://datasetsearch.research.google.com/",
+       "d": "A search engine for datasets, wherever they're hosted. Use it when you have a topic but no data.",
+       "p": [
+        "Free"
+       ],
+       "fmt": "Dataset"
+      },
       {
        "n": "Maven Analytics: Data Playground",
        "u": "https://mavenanalytics.io/data-playground",

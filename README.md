@@ -223,7 +223,19 @@ You can also refer to my [portfolio](https://github.com/katiehuangx/Portfolio-Gu
 Once you have a project, practise explaining it. Here are datasets to build on, a book on presenting data, interview questions beyond SQL and a guide to writing your resume.
 
 ### 📊 Practice Datasets
-1. Maven Analytics Data Playground [Free] - Free sample datasets picked by Maven instructors, from flight delays to movie ratings. Good raw material for a portfolio project - https://mavenanalytics.io/data-playground
+
+**Malaysia**
+1. data.gov.my [Free] - Malaysia's open data portal, with datasets from federal and state agencies. Download them or connect through an API - https://data.gov.my/data-catalogue
+2. OpenDOSM [Free] - The Department of Statistics Malaysia's open data on population, prices, labour and GDP. CSV and Parquet downloads, free to reuse under a Creative Commons licence - https://open.dosm.gov.my/data-catalogue
+3. Public transport ridership [Free] - Daily ridership data for public transport services across Malaysia. Good raw material for a dashboard - https://data.gov.my/data-catalogue/ridership_headline
+4. Bank Negara Malaysia rates and statistics [Free] - Interest rates and other central bank statistics. Download as CSV or use the API. Credit "Source: Bank Negara Malaysia" if you publish your work - https://apikijangportal.bnm.gov.my/
+5. MoH COVID-19 data [Free] - The Ministry of Health's official COVID-19 data on GitHub, including cases, hospital admissions and vaccinations as CSV files. It's historical, so best for practising time series and data cleaning - https://github.com/MoH-Malaysia/covid19-public
+
+**Global**
+1. World Bank Open Data [Free] - Economic, health and other indicators for Malaysia and every other country. Download as Excel or CSV from any data page - https://data.worldbank.org/country/malaysia
+2. Kaggle Datasets [Free] - A huge library of public datasets. You can browse without an account, but you need a free account to download - https://www.kaggle.com/datasets
+3. Google Dataset Search [Free] - A search engine for datasets, wherever they're hosted. Use it when you have a topic but no data - https://datasetsearch.research.google.com/
+4. Maven Analytics Data Playground [Free] - Free sample datasets picked by Maven instructors, from flight delays to movie ratings. Good raw material for a portfolio project - https://mavenanalytics.io/data-playground
 
 ### 📕 Books
 1. Storytelling with Data (Cole Nussbaumer Knaflic) [Paid] - A guide to explaining data clearly with charts and a story. A 10th anniversary edition came out in January 2026 - https://www.storytellingwithdata.com/
