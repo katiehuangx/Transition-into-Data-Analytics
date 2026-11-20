@@ -136,7 +136,7 @@
        "p": [
         "Free"
        ],
-       "lv": "Intermediate-Advanced",
+       "lv": "Beginner",
        "s": true
       },
       {
@@ -153,16 +153,6 @@
     {
      "name": "Paid courses",
      "items": [
-      {
-       "n": "Maven Analytics: SQL for Data Analysis",
-       "u": "https://mavenanalytics.io/course/mysql-data-analysis",
-       "d": "Hands-on MySQL course. Starts with single-table queries, then moves to JOINs across multiple tables.",
-       "p": [
-        "Paid"
-       ],
-       "lv": "Beginner",
-       "s": true
-      },
       {
        "n": "This is Serious SQL",
        "u": "https://www.datawithdanny.com/courses/serious-sql",
@@ -255,8 +245,21 @@
      ]
     },
     {
+     "name": "Books",
+     "items": [
+      {
+       "n": "Practical SQL: A Beginner's Guide to Storytelling with Data",
+       "d": "By Anthony DeBarros."
+      },
+      {
+       "n": "SQL for Data Analysis: Advanced Techniques for Transforming Data into Insights",
+       "d": "By Cathy Tanimura."
+      }
+     ]
+    },
+    {
      "name": "Which SQL software to use",
-     "note": "You don't need to install anything to start. SQL Bolt, Select Star SQL, SQL Murder Mystery and Kaggle Learn all run in your browser. When you want your own local setup, these are the common free choices (they're called SQL flavours). The basics are the same across all of them, so pick the one your course uses and learn the differences later.",
+     "note": "When you want your own local setup, these are the common free choices (they're called SQL flavours). The basics are the same across all of them, so pick the one your course uses and learn the differences later.",
      "items": [
       {
        "n": "PostgreSQL",
@@ -297,15 +300,6 @@
      "name": "Courses",
      "items": [
       {
-       "n": "Official Google Sheets tutorials",
-       "u": "https://support.google.com/a/users/answer/9310369?sjid=1646444529151989664-NC",
-       "d": "Google's own Sheets training: quick start guides, a cheat sheet and productivity guides.",
-       "p": [
-        "Free"
-       ],
-       "tool": "Google Sheets"
-      },
-      {
        "n": "Getting Started with Google Sheets (Coursera)",
        "u": "https://www.coursera.org/learn/getting-started-with-google-sheets",
        "d": "Google Cloud's short beginner course on Sheets. Free to take, with a paid option for the certificate, quizzes and projects.",
@@ -314,48 +308,12 @@
        ],
        "lv": "Beginner",
        "tool": "Google Sheets"
-      },
-      {
-       "n": "Ben Collins: Google Sheets Essentials",
-       "u": "https://courses.benlcollins.com/courses/935575",
-       "d": "44 short lessons on formulas and pivot tables, taught by a data analytics instructor and spreadsheet developer.",
-       "p": [
-        "Paid"
-       ],
-       "lv": "Beginner-Intermediate",
-       "tool": "Google Sheets",
-       "opt": true
-      }
-     ]
-    },
-    {
-     "name": "Tutorials",
-     "items": [
-      {
-       "n": "Excel Easy",
-       "u": "https://www.excel-easy.com/",
-       "d": "An illustrated Excel tutorial with 300 examples, from the basics to functions, data analysis and VBA. No sign-up and no ads. It covers Excel 2007 to 2019, so newer features aren't included.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner",
-       "tool": "Excel"
       }
      ]
     },
     {
      "name": "Practice",
      "items": [
-      {
-       "n": "Automate Excel: practice workbook",
-       "u": "https://www.automateexcel.com/practice-worksheets/",
-       "d": "A free workbook with 50+ automatically graded exercises, each with a lesson and examples.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner-Intermediate",
-       "tool": "Excel"
-      },
       {
        "n": "W3Schools: Excel exercises",
        "u": "https://www.w3schools.com/Excel/excel_exercises.php",
@@ -480,7 +438,7 @@
       {
        "n": "Power BI Desktop",
        "u": "https://powerbi.microsoft.com/en-us/desktop/",
-       "d": "Free to download. Windows only. On a Mac, use Power BI in the browser or run Windows in a virtual machine.",
+       "d": "Free to download on Windows only. On a Mac, use Power BI in the browser.",
        "p": [
         "Free"
        ]
@@ -538,14 +496,6 @@
      "name": "Tableau practice & inspiration",
      "items": [
       {
-       "n": "Workout Wednesday",
-       "u": "https://www.workout-wednesday.com/",
-       "d": "A weekly challenge to re-create a data visualization. Started in the Tableau community and also runs Power BI challenges.",
-       "p": [
-        "Free"
-       ]
-      },
-      {
        "n": "Tableau User Groups",
        "u": "https://www.tableau.com/community/user-groups",
        "d": "Community-led meetups, online and in person, where you can learn and ask questions. Sign up for a free account to join.",
@@ -558,6 +508,14 @@
        "n": "Tableau Viz of the Day",
        "u": "https://public.tableau.com/app/discover/viz-of-the-day",
        "d": "Tableau Public features a community visualization most weekdays. Many workbooks can be downloaded to see how they were built.",
+       "p": [
+        "Free"
+       ]
+      },
+      {
+       "n": "Workout Wednesday",
+       "u": "https://www.workout-wednesday.com/",
+       "d": "A weekly challenge to re-create a data visualization. Started in the Tableau community and also runs Power BI challenges.",
        "p": [
         "Free"
        ]
@@ -592,15 +550,6 @@
        "start": true
       },
       {
-       "n": "freeCodeCamp: Learn Python",
-       "u": "https://www.youtube.com/watch?v=rfscVS0vtbw&t=2565s",
-       "d": "A 4-hour introduction to core Python concepts for complete beginners.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner"
-      },
-      {
        "n": "freeCodeCamp: Data Analysis with Python",
        "u": "https://www.youtube.com/watch?v=r-uOLxNrNk8",
        "d": "A 4-hour course on the Python data analysis workflow. Covers NumPy, pandas, data cleaning and reading data from CSV, SQL and Excel.",
@@ -631,8 +580,7 @@
        "p": [
         "Free"
        ],
-       "lv": "Beginner",
-       "s": true
+       "lv": "Beginner"
       },
       {
        "n": "Udacity: Intro to Data Analysis",
@@ -652,14 +600,6 @@
         "Free"
        ],
        "lv": "Beginner-Intermediate"
-      },
-      {
-       "n": "Kaggle Learn: Pandas",
-       "u": "https://www.kaggle.com/learn/pandas",
-       "d": "A short micro-course on pandas, the main Python library for working with tables of data. About 4 hours, in the browser.",
-       "p": [
-        "Free"
-       ]
       },
       {
        "n": "Kaggle Learn: Data Cleaning",
@@ -701,7 +641,6 @@
         "Paid"
        ],
        "lv": "Intermediate",
-       "s": true,
        "opt": true
       }
      ]
@@ -710,7 +649,7 @@
      "name": "Books",
      "items": [
       {
-       "n": "Python for Data Analysis, 3rd edition (Wes McKinney)",
+       "n": "Wes McKinney's Python for Data Analysis",
        "u": "https://www.oreilly.com/library/view/python-for-data/9781098104023/",
        "d": "The pandas creator's own book, updated for Python 3.10 and pandas 1.4. Also free to read online on the author's website. Best as a reference once you know the basics.",
        "lv": "Intermediate",
