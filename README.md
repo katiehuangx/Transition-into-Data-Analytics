@@ -3,10 +3,11 @@
 _(updated 18 Nov 2026)_
 
 Hi, I'm Katie. I'm sharing my experience on how I transitioned into data analytics and here are my resources.
+"🌟 Katie's pick" marks resources I've tried myself and recommend.
 
-No course here sponsors me. One disclosure: I previously worked on SQL content for DataLemur which appears in the tutorial and interview prep sections. 
+No course here sponsors me. 
 
-🌟 Katie's pick marks resources I've tried myself and recommend.
+Disclosure: I previously worked on SQL content for DataLemur which appears in the tutorial and interview prep sections. 
 
 ## 📚 Table of Contents
 - [How and Where to Start?](#how-and-where-to-start)
