@@ -87,6 +87,9 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 
 **Excel**
 
+### 📚 Courses
+1. Excel for Data Analysis: Essential Skills & Techniques (IBM, Coursera) [Freemium][Beginner] - IBM's beginner course on Excel, about 13 hours. Covers formulas, cleaning data, filtering, lookups and pivot tables, with a final project. Free to enroll, and the certificate costs extra - https://www.coursera.org/learn/excel-basics-data-analysis-ibm
+
 ### 📺 YouTube
 1. Kevin Stratvert - Excel 🌟 - https://youtube.com/playlist?list=PLlKpQrBME6xLDnoK7OovAVVsGNV55MS3K&si=qIcIZ-cM7-7n5HBL
 2. Leila Gharani - Excel 🌟 - https://youtube.com/playlist?list=PLmHVyfmcRKyx1KSoobwukzf1Nf-Y97Rw0&si=2cfwjEQTK-aDE5e7

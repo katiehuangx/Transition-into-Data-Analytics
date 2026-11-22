@@ -69,6 +69,16 @@
      "name": "Courses",
      "items": [
       {
+       "n": "Excel for Data Analysis: Essential Skills & Techniques (IBM, Coursera)",
+       "u": "https://www.coursera.org/learn/excel-basics-data-analysis-ibm",
+       "d": "IBM's beginner course on Excel, about 13 hours. Covers formulas, cleaning data, filtering, lookups and pivot tables, with a final project. Free to enroll, and the certificate costs extra.",
+       "p": [
+        "Freemium"
+       ],
+       "lv": "Beginner",
+       "tool": "Excel"
+      },
+      {
        "n": "Getting Started with Google Sheets (Coursera)",
        "u": "https://www.coursera.org/learn/getting-started-with-google-sheets",
        "d": "Google Cloud's short beginner course on Sheets. Free to take, with a paid option for the certificate, quizzes and projects.",
