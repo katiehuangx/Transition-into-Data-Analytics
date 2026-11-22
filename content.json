@@ -61,7 +61,7 @@
   {
    "id": "excel",
    "nav": "Excel & Sheets",
-   "num": 2,
+   "num": 1,
    "title": "Excel and Google Sheets",
    "lead": "Excel is still one of the most common skills in data analyst job ads, and you'll likely use it every week at work. Don't skip it. Alex the Analyst's bootcamp (first step) also has an Excel section.",
    "groups": [
@@ -156,56 +156,9 @@
    }
   },
   {
-   "id": "stats",
-   "nav": "Statistics",
-   "num": 2,
-   "title": "Statistics",
-   "lead": "You only need the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Study them up front or pick them up as they come up in your learning.",
-   "groups": [
-    {
-     "name": "YouTube",
-     "items": [
-      {
-       "n": "StatQuest: Statistics Fundamentals",
-       "u": "https://www.youtube.com/@statquest",
-       "d": "Josh Starmer's Statistics Fundamentals playlist covers probability, distributions, sampling and hypothesis testing.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner",
-       "s": true
-      }
-     ]
-    },
-    {
-     "name": "Courses",
-     "items": [
-      {
-       "n": "Khan Academy: Statistics and Probability",
-       "u": "https://www.khanacademy.org/math/statistics-probability",
-       "d": "Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing.",
-       "p": [
-        "Free"
-       ],
-       "lv": "Beginner",
-       "start": true
-      },
-      {
-       "n": "Tableau: Data Literacy for All",
-       "u": "https://www.tableau.com/learn/data-literacy",
-       "d": "A free, self-paced course on statistics, data types and storytelling with data. You need a free Tableau account to access it.",
-       "p": [
-        "Free"
-       ]
-      }
-     ]
-    }
-   ]
-  },
-  {
    "id": "sql",
    "nav": "SQL",
-   "num": 1,
+   "num": 2,
    "title": "SQL",
    "lead": "SQL is the easiest and most essential skill for any data analyst role. It's how you extract, manipulate and analyze data, and once you know it, other tools get easier (Tableau's calculated fields use SQL-style logic).",
    "groups": [
@@ -250,7 +203,7 @@
       {
        "n": "DataLemur SQL Tutorial",
        "u": "https://datalemur.com/sql-tutorial",
-       "d": "30+ free lessons split into basic, intermediate and advanced. You can run queries in your browser. I previously worked on its SQL content.",
+       "d": "30+ free lessons split into basic, intermediate and advanced. You can run queries in your browser. I wrote this tutorial.",
        "p": [
         "Free"
        ],
@@ -377,7 +330,7 @@
       {
        "n": "DataLemur",
        "u": "https://datalemur.com",
-       "d": "Real-world SQL interview questions with detailed solutions and explanations.",
+       "d": "Real-world SQL interview questions with detailed solutions and explanations. I wrote many of the questions and solutions.",
        "p": [
         "Freemium"
        ],
@@ -453,6 +406,45 @@
     ],
     "note": "Joins and window functions come up most often in interviews."
    }
+  },
+  {
+   "id": "stats",
+   "nav": "Statistics (optional)",
+   "num": null,
+   "title": "Optional: a little statistics",
+   "lead": "Once you can query data, a little statistics helps you judge what the numbers mean. You don't need it before SQL. Pick it up when a role asks for it.",
+   "groups": [
+    {
+     "name": "YouTube",
+     "items": [
+      {
+       "n": "StatQuest: Statistics Fundamentals",
+       "u": "https://www.youtube.com/@statquest",
+       "d": "Josh Starmer's Statistics Fundamentals playlist covers probability, distributions, sampling and hypothesis testing.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner",
+       "s": true,
+       "start": true
+      }
+     ]
+    },
+    {
+     "name": "Courses",
+     "items": [
+      {
+       "n": "Khan Academy: Statistics and Probability",
+       "u": "https://www.khanacademy.org/math/statistics-probability",
+       "d": "Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing.",
+       "p": [
+        "Free"
+       ],
+       "lv": "Beginner"
+      }
+     ]
+    }
+   ]
   },
   {
    "id": "bi",

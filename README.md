@@ -19,8 +19,8 @@ Disclosure: I previously worked on SQL content for DataLemur which appears in th
 - [How and Where to Start?](#how-and-where-to-start)
 - [What are the Technical Skills to Learn?](#my-advice-on-technical-skills-to-learn)
 - [Where to Learn Excel & Google Sheets?](#-where-to-learn-excel--google-sheets)
-- [Where to Learn Statistics?](#-where-to-learn-statistics)
 - [Where to Learn SQL?](#-where-to-learn-sql)
+- [Optional: A Little Statistics](#-optional-a-little-statistics)
 - [Where to Learn Tableau & Power BI?](#-where-to-learn-tableau--power-bi)
 - [Where to Learn Python?](#-where-to-learn-python)
 - [Using AI as a Data Analyst](#-using-ai-as-a-data-analyst)
@@ -58,10 +58,11 @@ Thus, I'm sharing the following resources to help you continue your studies afte
 
 In my opinion, you should focus on these skills in the following order:
 1. Excel / Google Sheets (you'll likely use it every week at work)
-2. Statistics (basics)
-3. SQL
-4. Tableau / Power BI (pick one, the skills transfer)
-5. Python
+2. SQL
+3. Tableau / Power BI (pick one, the skills transfer)
+4. Python
+
+Statistics is optional. Once you can query data, a little of it helps you judge what the numbers mean. Pick it up when a role asks for it.
 
 I found SQL to be the **easiest and most essential skill** for any data analyst role. It's a crucial language for extracting, manipulating, and analyzing data. Once you understand SQL, you'll have an easier time learning other tools like Tableau, which relies on SQL-style logic for calculated fields.
 
@@ -104,19 +105,6 @@ Excel is still one of the most common skills in data analyst job ads, so don't s
 
 ***
 
-# 📊 Where to Learn Statistics
-
-You only need the basics: averages and spread, distributions, sampling and the difference between correlation and causation. Study them up front or pick them up as they come up in your learning.
-
-### 📺 YouTube
-1. StatQuest: Statistics Fundamentals 🌟 [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
-
-### 📚 Courses
-1. Khan Academy: Statistics and Probability [Free][Beginner] - Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing - https://www.khanacademy.org/math/statistics-probability
-2. Tableau Data Literacy for All [Free] - A free, self-paced course on statistics, data types and storytelling with data. You need a free Tableau account - https://www.tableau.com/learn/data-literacy
-
-***
-
 # 📕 Where to Learn SQL
 
 🌟 is my tried-and-tested favourite.
@@ -140,7 +128,7 @@ You only need the basics: averages and spread, distributions, sampling and the d
 - Advanced - A 4-part video series that covers advanced SQL topics such as window functions, recursive queries, and common table expressions - https://www.youtube.com/playlist?list=PLUaB-1hjhk8EBZNL4nx4Otoa5Wb--rEpU
 
 2. Programming with Mosh 🌟 - A 3-hour course that covers the basics of SQL - https://www.youtube.com/watch?v=7S_tz1z_5bA&t=44s
-3. DataLemur SQL Tutorial 🌟 [Beginner-Advanced] - https://datalemur.com/sql-tutorial
+3. DataLemur SQL Tutorial 🌟 [Beginner-Advanced] - I wrote this tutorial - https://datalemur.com/sql-tutorial
 
 ### 📚 Courses
 
@@ -164,7 +152,7 @@ You only need the basics: averages and spread, distributions, sampling and the d
 (You can check out my Github repo for solutions: [https://github.com/katiehuangx/8-Week-SQL-Challenge](https://github.com/katiehuangx/8-Week-SQL-Challenge))
 
 ### ⏰ Practice For Technical Interviews
-1. DataLemur 🌟 [Freemium][Intermediate-Advanced] - Real-world SQL interview questions with detailed solutions and explanations - https://datalemur.com
+1. DataLemur 🌟 [Freemium][Intermediate-Advanced] - Real-world SQL interview questions with detailed solutions and explanations. I wrote many of the questions and solutions - https://datalemur.com
 2. StrataScratch 🌟 [Freemium][Intermediate-Advanced] - Large bank of interview questions across SQL and Python. Free tier plus paid plans - https://platform.stratascratch.com/coding?code_type=1
 
 ### 📚 Books
@@ -179,6 +167,18 @@ When you want your own local setup, these are the common free choices. In tech-s
 - Microsoft SQL Server (Alex Freberg's course uses it. The free Express edition is enough for learning) - https://www.microsoft.com/en-us/sql-server/sql-server-downloads
 
 The basics are the same across all of them. Pick the one your course uses and learn the differences later.
+
+***
+
+# 📊 Optional: A Little Statistics
+
+Once you can query data, a little statistics helps you judge what the numbers mean. You don't need it before SQL. Pick it up when a role asks for it.
+
+### 📺 YouTube
+1. StatQuest: Statistics Fundamentals 🌟 [Free][Beginner] - Josh Starmer's playlist covers probability, distributions, sampling and hypothesis testing - https://www.youtube.com/@statquest
+
+### 📚 Courses
+1. Khan Academy: Statistics and Probability [Free][Beginner] - Free lessons and practice on graphs, summary statistics, linear regression and hypothesis testing - https://www.khanacademy.org/math/statistics-probability
 
 ***
 
