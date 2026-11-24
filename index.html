@@ -152,6 +152,9 @@ html { scroll-behavior:smooth; }
 .jump a { display:block; white-space:nowrap; padding:7px 14px; border-radius:999px; font-size:14px; font-weight:600; color:var(--plum); text-decoration:none; }
 .jump a .n { font-family:'Instrument Serif',serif; font-size:18px; margin-right:6px; }
 .jump a:hover { background:#fff; }
+.jump a { border:2px solid var(--plum); background:#fff; }
+.jump ol { gap:8px; }
+.jump a[aria-current="true"] { background:var(--coral); }
 .jump a[aria-current="true"] { background:var(--coral); }
 .filters { display:flex; flex-wrap:wrap; align-items:center; gap:8px 22px; padding-top:8px; border-top:2px dotted #E7CFAE; }
 .fgroup { display:flex; align-items:center; flex-wrap:wrap; gap:6px; }
@@ -283,7 +286,7 @@ footer a { color:var(--plum); font-weight:700; text-decoration:underline; text-d
 .stepnav{--gut:max(clamp(16px,3vw,32px),calc((100% - 1120px)/2 + 32px))}
 .navin{max-width:1120px;display:flex;flex-wrap:wrap;align-items:center;gap:6px 14px;padding:8px clamp(16px,3vw,32px)}
 .jump{flex:1 1 auto;min-width:0}
-.jump ol{gap:0}
+.jump ol{gap:8px}
 .jump a{padding:10px 10px;font-size:14.5px}
 .bar-tools{display:flex;align-items:center;gap:8px;margin-left:auto}
 .chip{min-height:40px;padding:0 16px;font-size:14.5px;display:inline-flex;align-items:center}
@@ -565,8 +568,8 @@ body > nav{display:grid;grid-template-columns:1fr auto 1fr}
     </figure>
     <div class="about-copy">
       <h2>Meet <em>Katie</em></h2>
-      <p class="role">Self-taught in data analytics. Former SQL consultant. ACCA chartered accountant.</p>
-      <p>I&#x27;m based in Penang, Malaysia. I came to data after nearly a decade in accounting and taught myself SQL and the rest of the analyst toolkit, one resource at a time.</p><p>This guide is the route I&#x27;d give a friend: the resources I used and trust in the order I&#x27;d learn them.</p>
+      <p class="role">Self-taught in data analytics. Former SQL consultant at DataLemur. ACCA chartered accountant.</p>
+      <p>I&#x27;m based in Penang, Malaysia. I came to data after nearly a decade in accounting and taught myself SQL and the rest of the analyst toolkit, one resource at a time. I later worked as a SQL consultant at DataLemur where I wrote many of their SQL questions and solutions and their SQL tutorial.</p><p>This guide is the route I&#x27;d give a friend: the resources I used and trust in the order I&#x27;d learn them.</p>
       <div class="about-actions">
         <a class="btn" href="#route">Start the route</a>
         <a class="link" href="https://github.com/katiehuangx" rel="noopener noreferrer" target="_blank">More on GitHub</a>
